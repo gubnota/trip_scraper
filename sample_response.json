@@ -1,0 +1,110 @@
+{
+    clientHeader: {},
+    ResponseStatus: {
+      Timestamp: '/Date(1675935104074+0800)/',
+      Ack: 'Success',
+      Errors: [],
+      Extension: [ [Object], [Object] ]
+    },
+    commentRating: {
+      ratingAll: 4.7,
+      ratingLocation: 4.7,
+      ratingLocationShowItem: 'Location',
+      ratingFacility: 4.6,
+      ratingFacilityShowItem: 'Amenities',
+      ratingService: 4.7,
+      ratingServiceShowItem: 'Service',
+      ratingRoom: 4.7,
+      ratingRoomShowItem: 'Cleanliness',
+      showCommentNum: 3716,
+      showPackageCommentNum: 0,
+      commentLevel: 'Wonderful'
+    },
+    similarCommentRating: {},
+    commentTagV2List: [
+      { id: 5029, name: 'Small room size', commentCount: 438, type: 2 },
+      { id: 77, name: 'Easy to get around', commentCount: 432, type: 1 },
+      { id: 70, name: 'Delicious breakfast', commentCount: 320, type: 1 },
+      { id: 96, name: 'Close to metro', commentCount: 235, type: 1 },
+      { id: 145, name: 'Great design', commentCount: 151, type: 1 },
+      {
+        id: 136,
+        name: 'Great for business trips',
+        commentCount: 110,
+        type: 1
+      },
+      {
+        id: 84,
+        name: 'Friendly front desk staff',
+        commentCount: 62,
+        type: 1
+      }
+    ],
+    travelTypeList: [
+      { name: 'All Reviews', commentCount: -1 },
+      { id: 10, name: 'Business travelers', commentCount: 1923 },
+      { id: 30, name: 'Family', commentCount: 229 },
+      { id: 50, name: 'Solo travelers', commentCount: 450 },
+      { id: 60, name: 'Booked for others', commentCount: 61 },
+      { id: 70, name: 'Couples', commentCount: 465 },
+      { id: 40, name: 'Friends', commentCount: 287 },
+      { id: 0, name: 'Other', commentCount: 301 }
+    ],
+    roomList: [
+      { name: 'All', commentCount: -1 },
+      { id: 203129310, name: 'Superior Double Room', commentCount: 3001 },
+      {
+        id: 203129502,
+        name: 'Deluxe Smart Room (Queen bed)',
+        commentCount: 536
+      },
+      { id: 203131392, name: 'Superior Family Room', commentCount: 146 },
+      { id: 203067264, name: 'Deluxe Family Room', commentCount: 33 }
+    ],
+    languageTypeList: [
+      { name: 'All', commentCount: -1 },
+      { id: 2, name: 'English', commentCount: 211 },
+      { id: 3, name: 'Chinese', commentCount: 3486 },
+      { id: 5, name: 'Korean', commentCount: 5 },
+      { id: 4, name: 'Japanese', commentCount: 9 },
+      { id: 7, name: 'French', commentCount: 2 },
+      { id: 16, name: 'Italian', commentCount: 1 },
+      { id: 9, name: 'Russian', commentCount: 1 },
+      { id: 12, name: 'Malay', commentCount: 1 }
+    ],
+    commonStatisticList: [
+      { id: 1, name: 'All Reviews', commentCount: 3716 },
+      { id: 2, name: 'Positive reviews', commentCount: 3635 },
+      { id: 3, name: 'Negative reviews', commentCount: 81 },
+      { id: 6, name: 'Reviews with photos/video', commentCount: 352 }
+    ],
+    bookingCommentCount: 0,
+    totalCount: 2517,
+    totalCountForPage: 2517,
+    groupList: [ { dataType: 7, commentList: [Array] } ],
+    repeatCommentCount: 1199,
+    commentRatingType: 'UNKNOW',
+    tripRating: 'T',
+    tagType: 'DEFAULT',
+    ratingLevelRules: [
+      { ratingStart: 0, ratingEnd: 3.5, content: '' },
+      { ratingStart: 3.5, ratingEnd: 4, content: 'Fair' },
+      { ratingStart: 4, ratingEnd: 4.5, content: 'Good' },
+      { ratingStart: 4.5, ratingEnd: 4.6, content: 'Very Good' },
+      { ratingStart: 4.6, ratingEnd: 4.7, content: 'Excellent' },
+      { ratingStart: 4.7, ratingEnd: 4.8, content: 'Wonderful' },
+      { ratingStart: 4.8, ratingEnd: 4.9, content: 'Amazing' },
+      { ratingStart: 4.9, ratingEnd: 99, content: 'Outstanding' }
+    ],
+    staticInfo: {
+      ratingCalculationInfo: {
+        entranceText: 'How ratings are calculated',
+        title: 'How ratings are calculated',
+        content: "To ensure the authenticity of the ratings that are displayed, we don't simply calculate an average. Instead, we make scientific calculations based on the review credibility and the freshness of the guest's experience to get the final rating."
+      },
+      sortItemList: [ [Object], [Object], [Object], [Object] ],
+      commentExplainText: 'Verified Reviews'
+    },
+    imageDomain: 'ak-d.tripcdn.com',
+    bannerInfoList: []
+  }
