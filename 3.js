@@ -1,4 +1,5 @@
 var request = require('request');
+const axios = require('axios')
 var fs = require("fs");
 const { exit } = require('process');
 let data = require("./data")
@@ -16,7 +17,7 @@ for (const hotel of hotels) {
     while (i <= totalPages) { // loop while there is something to fetch
         let fileName = `data/${hotel}-${i.toString().padStart(3,"0")}.json`
         // console.info("filename", fileName)
-        let d = JSON.parse(fs.readFileSync(fileName,{encoding:"utf-8"}))
+        let d = JSON.parse(fs.readFileSync(fileName,{encoding:"utf8"}))
         if (d.groupList.length==0
             ) {i++;
                 continue;
@@ -27,9 +28,15 @@ for (const hotel of hotels) {
                     i++;
                     continue;
             }
-            if (r.id != 452309837) continue;
+            // if (r.id != 452309837) continue;
             if (r.language != 'en' && !r.translatedContent)
             {
+            if (fs.existsSync(`trans/${r.id}.json`)) 
+            {
+                var a = JSON.parse(fs.readFileSync(`trans/${r.id}.json`,{encoding:"utf8"}))
+                console.log(`translated: ${a["Response"]["transArray"][0]["content"].replaceAll("\n"," ")}`)
+                continue;
+            }
                 // console.log(r.id, r.content, r.securityKey)
 // make a translation request
 let body = {...data.translation, ...{transArray: [
@@ -41,27 +48,28 @@ let body = {...data.translation, ...{transArray: [
 // fs.writeFileSync(`trans/${r.id}.json`, JSON.stringify(body))
 // console.log(body)
 // continue;
-request.post(
-    'https://www.trip.com/restapi/soa2/15117/json/translate',
-    { json: body,
-    headers: {
-        // "Host":"www.trip.com",
-        'Content-Length': JSON.stringify(body).length,
-        'Content-Type': 'text/plain'
-    } },
-    function (error, response, body) {
-        if (!error && response.statusCode == 200) {
-            // console.log(body.groupList[0].commentList.length);
-            // console.log(JSON.stringify(body))
-            // console.log(body.groupList[0].commentList);
-            fs.writeFileSync(`trans/${r.id}.json`, JSON.stringify(body))
+
+    // headers: { Accept: 'application/json' },
+    
+    axios
+    .post('https://www.trip.com/restapi/soa2/15117/json/translate', body, {
+        headers: {
+            'Content-Length': Buffer.byteLength(JSON.stringify(body)),
+            // 'Content-Type': 'text/plain',
+            "Host":"www.trip.com"
         }
-        else {
-            console.error("[!] error",`${r.id}`, response, error)
-            // console.error("error", response.statusCode, response.statusMessage)
-        }
+    })
+    .then((response) => {
+      if (response.status === 200) {
+        console.log(`writing ${r.id} from ${hotel}-${i.toString().padStart(3,"0")}…`)
+        fs.writeFileSync(`trans/${r.id}.json`, JSON.stringify(response.data))
     }
-);
+    })
+    .catch((e) => {
+        console.log(`writing ${r.id} from ${hotel}-${i.toString().padStart(3,"0")}… Oops!`)
+    //   console.error(e)
+    })
+
 
             }
             }

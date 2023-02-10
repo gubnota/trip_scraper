@@ -116,3 +116,11 @@ usefulCount
 pictureCount
 grade
 ```
+# [Wrong content length caused by weird extra characters](https://github.com/expressjs/express/issues/1816)
+You need to set the content length using Buffer.byteLength not string.length.
+# [Emojis problem](https://github.com/nodejs/node-v0.x-archive/issues/1918)
+fs.readFileSync(filename, 'utf8') doesn't strip BOM markers
+Workaround:
+```js
+body = body.replace(/^\uFEFF/, '');
+```
