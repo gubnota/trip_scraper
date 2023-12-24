@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "McOluriHPWF/HonZhtMAjdt5rHbKY8/3r1pvCj8vLxkHR6WKZjgqKg==_review_499504150",
+        "content": "The hotel environment is pretty good"
+      },
+      {
+        "transKey": "hOnvbF6jdEDm4TLDE6sXMhttOFnb7pql+utj+67s3vcHR6WKZjgqKg==_review_500611085",
+        "content": "Dear distinguished guest, thank you for your recognition of the hotel. The hotel is very close to the newly opened Beijing Chaoyang Railway Station. It only takes 8 minutes to get there. The transportation at the door is also very convenient. There are many places to go out to eat. The hotel is Hanting Version 2.7 is a new product in Hanting. The breakfast is very rich and there is a self-service free laundry. We look forward to your next stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

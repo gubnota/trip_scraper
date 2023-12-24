@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "drnerV2bZ8Omt4i+Lo8enqF0VGeVu60DeWdPhZr6LFQHR6WKZjgqKg==_review_826548983",
+        "content": "The guy at the front desk is attentive and hygienic."
+      },
+      {
+        "transKey": "ezSb3d6hr1Wpd+ixGB5uKbWE/JqbKvLvO096p0tFLlc=_review_826630093",
+        "content": "Xiao Ji feels happy to be recognized by the guest officer and looks forward to your next return."
+      }
+    ]
+  },
+  "ServerData": null
+}

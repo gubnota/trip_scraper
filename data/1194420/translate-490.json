@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dPcVonhk6QURHEyyoAh+x06ncdmUWe+MZH0oKgChmTEHR6WKZjgqKg==_review_476597291",
+        "content": "The rooms in this hotel are very clean. There is a robot that delivers groceries, which is very convenient. You can wash clothes, and the breakfast is very rich. The anti-epidemic measures are very good. You need to take your temperature and scan the health code when entering. It is very safe."
+      },
+      {
+        "transKey": "F8NVK2ry7HV31QbI0TKDr0IqOxsRaYoRKCYNJ79YZGk=_review_481439058",
+        "content": "Dear guest, thank you for staying at Beijing Chaoyang Park Qiaodong Branch and giving us a favorable review. The hotel belongs to the Hanting 2.7 version. The products are very new and clean. The breakfast is a buffet with rich and delicious styles. There is also a free parking lot and laundry room. We hope that This hotel can become your first choice in Beijing and we sincerely look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

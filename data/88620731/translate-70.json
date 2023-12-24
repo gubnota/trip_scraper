@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "hNbwLyj2BKu7exC1klyY4Sm5q6ed8HSD6TsPU+nkI+MHR6WKZjgqKg==_review_716520603",
+        "content": "The service attitude of the little girl at the front desk is perfect. The hotel environment is good. There is free parking space. The service attitude is mainly good. I will book here next time if I have a chance."
+      },
+      {
+        "transKey": "KWqrNhUWWJn4Og0eh+gsvU+/+mNGqnJP2E7kKIFWGjUHR6WKZjgqKg==_review_731614955",
+        "content": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey."
+      }
+    ]
+  },
+  "ServerData": null
+}

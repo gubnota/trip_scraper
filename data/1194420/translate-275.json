@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "tIobUu5BDKimgXvCINPdDksT9bjkZ8yOJBpdtMSDw4wHR6WKZjgqKg==_review_985925141",
+        "content": "It is very convenient for foreigners to live in"
+      },
+      {
+        "transKey": "9lmuN9MBqKyKmlsep9gIrfI0ZsAM55JqLQ0JY31wFhcHR6WKZjgqKg==_review_986911959",
+        "content": "Dear guests, we are very pleased to see that you have such high comments about us. We will continue to maintain it and look forward to meeting you again. I wish you a happy life."
+      }
+    ]
+  },
+  "ServerData": null
+}

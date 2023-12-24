@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "FYRSTmIQvGsloXkUgEgNb55sPaGNr1gDMtnyD0oprWYHR6WKZjgqKg==_review_493764845",
+        "content": "The service staff of the hotel are very friendly and the location is good. It is very close to the newly opened Chaoyang Railway Station and only a 15-minute walk away. There is a free parking lot. Recommended to stay!"
+      },
+      {
+        "transKey": "gObzBgTyRfFlxygmJKYWi9TlJU/l63SCUP9itOLaE+cHR6WKZjgqKg==_review_500941281",
+        "content": "We are very happy to see your recognition of our front desk service staff. Your satisfaction is the driving force for us to move forward. We will continue to work hard and look forward to the future!"
+      }
+    ]
+  },
+  "ServerData": null
+}

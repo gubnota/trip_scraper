@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "58ELZrGgIvBrv1lqbpw4v1SXtmqIv/SyrbKOUXLNP18HR6WKZjgqKg==_review_491971855",
+        "content": "The hotel staff are very friendly and have free parking, which is very convenient."
+      },
+      {
+        "transKey": "JSlxKdR8Hzmv8BgZpAKHleCdEVjwG733VTdlMex8itA=_review_500603033",
+        "content": "Dear guest, thank you for your trust in Hanting. I am very happy to serve you. The hotel has a free laundry room. The breakfast is also very rich. There are many varieties of Chinese and Western buffet breakfast, as well as Beijing snacks. The hotel is very close to Chaoyang Station. It only takes 10 minutes to walk there. We look forward to your next stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

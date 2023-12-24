@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "RChPKj26gx2/eJSRRIT6A/9YE+gWkUTLwSjNDuLnL0c=_review_547240329",
+        "content": "The front desk service is particularly friendly and the breakfast environment is great. It's a self-service style. It's four hours from 7 to 11 o'clock. It's really great. It's a great experience. I'll stay there often in the future."
+      },
+      {
+        "transKey": "4ZLjqsPxUH1NXHWdAWa3uVR0YkUqNVU+k5qnySmP4rAHR6WKZjgqKg==_review_547923130",
+        "content": "Hello dear guest! Thank you for choosing to stay at Orange Beijing Wukesong Hotel and recommending our service attitude and breakfast. The hotel provides guests with a rich and varied buffet breakfast for free from 7 a.m. to 10 a.m. every day. The dining time is ample to meet your different time periods. Your affirmation is the greatest encouragement to our work. We look forward to meeting you again. I wish you all the best! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

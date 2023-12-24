@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "AtqyvKH1lUNyOBK9MWnmIiIemLGfT8/qnfm3L7A5oUMHR6WKZjgqKg==_review_486862333",
+        "content": "The hotel is very good and the service is quite satisfactory. It is very close to Beijing Chaoyang Station. The breakfast is a Chinese and Western buffet. The breakfast time is from 7 to 10 o'clock. It is completely suitable for lazy people like us. I will stay here next time"
+      },
+      {
+        "transKey": "bdmtOeFDQWGF2I7QALg0kK+84uCjSsARFcRUgj/9qLUHR6WKZjgqKg==_review_486876642",
+        "content": "Dear guests: Hello! Thank you very much for your support and recognition of the hotel. Everything we do is to bring a different holiday experience to every guest. We are really touched to see your satisfaction and affirmation. We We will continue to work hard and be ready for you to come back at any time."
+      }
+    ]
+  },
+  "ServerData": null
+}

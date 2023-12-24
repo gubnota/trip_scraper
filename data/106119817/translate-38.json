@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "FWhr4Ty8nke8gkyfOe/HcZA7fZic+Cv5j4SN4fMYxOUHR6WKZjgqKg==_review_859688393",
+        "content": "The hotel is very clean. It is close to the school and feels safe. The location is great. The room can be operated very smartly with a small speed. There is also a cute little robot that delivers food. There is also delicious coffee at the front desk of the hotel. I highly recommend this hotel and it is worth the money!"
+      },
+      {
+        "transKey": "6o7SGOgEH4RZyEJ+n52sFlspU/IAFieXP8zz3Q53JQsHR6WKZjgqKg==_review_860334991",
+        "content": "Your compliment is better than the sunshine, and your affirmation is better than the blooming flowers. We look forward to your stay again."
+      }
+    ]
+  },
+  "ServerData": null
+}

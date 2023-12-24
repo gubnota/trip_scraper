@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "vbpsc5s1NY1CZUwI9H+lGfuxGzODMTAa4t8Wsl3HUDAHR6WKZjgqKg==_review_485646339",
+        "content": "The service of the hotel staff is very good. They take the temperature when entering the door and provide free disinfectant alcohol. The rooms all have windows or external windows. I feel very comfortable and satisfied. There is Chaoyang Park nearby. It is very close and it is very convenient to take a taxi at the door. Stay here again"
+      },
+      {
+        "transKey": "gObzBgTyRfFlxygmJKYWi9TlJU/l63SCUP9itOLaE+cHR6WKZjgqKg==_review_500941322",
+        "content": "We are very happy to see your recognition of our front desk service staff. Your satisfaction is the driving force for us to move forward. We will continue to work hard and look forward to the future!"
+      }
+    ]
+  },
+  "ServerData": null
+}

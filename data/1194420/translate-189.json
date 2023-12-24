@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "CnndsKvYHv5CzLuzdp8nlUaVi1f1OyLV8VT/66qjH8YHR6WKZjgqKg==_review_913413639",
+        "content": "The service is very good, very close to Chaoyang Railway Station, five-star praise"
+      },
+      {
+        "transKey": "FZesLPmU0C0rBRkZGxl30Ksu86Jpjo5xa451n8jN7ZcHR6WKZjgqKg==_review_913459237",
+        "content": "Dear guest, thank you for your stay and review. We will continue our efforts and wholeheartedly provide you with high-quality services. Parking is available in our courtyard and the surrounding transportation is convenient. It is less than two kilometers away from Beijing Chaoyang High-speed Railway Station and takes about 20 minutes to walk. The hotel has set up a free laundry room, food delivery robot, free reading area and tea area to provide value-for-money services for your travel."
+      }
+    ]
+  },
+  "ServerData": null
+}

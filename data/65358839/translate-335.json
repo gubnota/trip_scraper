@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "6IkH+4xoHtVBQfsXkO7iTqwAAd+gPKwZs7qSlSidVfUHR6WKZjgqKg==_review_963576157",
+        "content": "Very nice, even helped find things left in the room"
+      },
+      {
+        "transKey": "QcIrg9k6YnucpkbxXCP0DmT0O3tsSQLc6BSXh8D9frYHR6WKZjgqKg==_review_963639553",
+        "content": "Hello dear guest! , Xiao Ji is very happy to receive your praise. It is our responsibility to provide guests with high-quality services and accommodation environment. Your praise is the greatest recognition for us. Thank you very much for your praise and look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

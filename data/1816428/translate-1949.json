@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "OJ91/Hft2tyBe2uYrn6qcgY4J88vUN+C/LWD1Mra3CAHR6WKZjgqKg==_review_475294998",
+        "content": "The room is really nice"
+      },
+      {
+        "transKey": "GKdgISou/pslme68l1A14IW6c+u71wfhokWMmmpd+nsHR6WKZjgqKg==_review_475415966",
+        "content": "Dear guest, thank you for choosing to stay at Orange Beijing Wukesong Hotel. Your affirmation makes us believe that our efforts are more meaningful. We will continue to improve and strive to bring you a pleasant accommodation experience every time you stay. Our smile adds a touch of warmth during your journey, and we look forward to receiving your five points next time~~~"
+      }
+    ]
+  },
+  "ServerData": null
+}

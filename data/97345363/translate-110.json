@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "NUk+D2OiPdvGquhV17aL1bgYzlY4bCwpPccCoAmpIuQHR6WKZjgqKg==_review_650589595",
+        "content": "It should be a newly opened hotel. The Hanting Hotel I have stayed in is considered to be of a first-class standard. The bathroom is relatively large and the sound insulation is very good. The toilet is one that looks more advanced. You can open the curtains, lights, and TV with small voice controls. Wait, the food delivery is controlled by a robot, which can avoid contact. The decoration style is more IKEA style, simple and high-end. The breakfast is not bad. It is very quiet because it is next to the park. There is no noise on the roadside. It is considered a wait for the same price. The standard is almost the same as the whole season I stayed at two days ago. There is a nucleic acid site next to it. Walk a few dozen meters over."
+      },
+      {
+        "transKey": "uqtWAhlXBESGQg3jtZSNpBTX+wH0McOxSuxJadeY4xcHR6WKZjgqKg==_review_650591431",
+        "content": "Dear guest, thank you for taking time out of your busy schedule to share your stay experience. You are a little man with a gentleness that is concealed by your publicity. I love you."
+      }
+    ]
+  },
+  "ServerData": null
+}

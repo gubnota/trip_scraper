@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "uwe7CyVfN/TLPj7FzWZPAa4p+tx1WoTz1qg06DT2CXIHR6WKZjgqKg==_review_735246479",
+        "content": "The room is very clean, the TV is big and looks great"
+      },
+      {
+        "transKey": "eokmkb5AU35wJYO/rHyfErNT1/Cv486WTtLF2q9AaZMHR6WKZjgqKg==_review_735300801",
+        "content": "Dear guest, thank you for your review. Your satisfaction is the driving force for Xiaoji's progress. Xiaoji will continue to focus on guest needs and provide sincere services to demonstrate the high-quality services of Ji Hotel."
+      }
+    ]
+  },
+  "ServerData": null
+}

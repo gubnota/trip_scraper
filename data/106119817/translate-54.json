@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Ue0HTykY3HfAudAHIrVgd3phPiKO67AGoQxji74rRqoHR6WKZjgqKg==_review_896872307",
+        "content": "The stay was very nice and the breakfast was very rich. Recommended!"
+      },
+      {
+        "transKey": "1LjvwdIkqmRzWCWpdRezasvUgN7Qq03xqKESJ7DkgrMHR6WKZjgqKg==_review_897028477",
+        "content": "Dear guests: We are happy for your choice and happy for your recognition. Thank you for your choice. Thank you for stopping here. We hope you will have a good mood as clear as a mountain spring every day~~~"
+      }
+    ]
+  },
+  "ServerData": null
+}

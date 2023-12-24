@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "DlAittmWk92xzUbGSneGXTuuAWuZqebcrHiaZyOWn+0HR6WKZjgqKg==_review_645235677",
+        "content": "The wireless Internet speed in the hotel room is very fast, and it is very comfortable to stay. The floor is very clean, and the sheets are very comfortable to sleep on. They are made of pure cotton. The breakfast was good, the fruit was fresh, and I was quite satisfied."
+      },
+      {
+        "transKey": "sGsRO1O0p4NVD/8ETOBdOHzS53f0nfPARS3xD5B2uVEHR6WKZjgqKg==_review_645331939",
+        "content": "Dear guest, thank you very much for choosing me. You are not a dim star, but the entire galaxy that encompasses the bright moon. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

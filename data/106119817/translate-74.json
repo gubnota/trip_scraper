@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "L9oqV8dI35+RUexVlmO2zrntWy9o1QHnhBO1qu5wMK0HR6WKZjgqKg==_review_768055067",
+        "content": "The smart toilet and food delivery robot were well received. I asked for a chair to play poker in the room and was satisfied."
+      },
+      {
+        "transKey": "9FzL//fLhrXSIOrSSkbGRW1LHXY3xnrBMtgnms++3nIHR6WKZjgqKg==_review_768065341",
+        "content": "Dear guests: Hello! Thank you very much for your stay and appreciation! Glad to have a great time with you on your outing. Your appreciation is a great encouragement to the hotel and the driving force for our progress. We will continue to maintain our enthusiasm and strive to make every guest feel at home. We look forward to your visit again! Welcome to come back to experience again, I wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

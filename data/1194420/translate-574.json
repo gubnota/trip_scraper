@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "M5JM73bjQYDO5NlYTz5ZetwaS+ISyxMIlt06hgQHOZE=_review_488762407",
+        "content": "Recommended by a friend, I am very satisfied with the hotel. It was only when I returned home that I realized there is such a good Hanting Hotel. It is very close to Beijing Chaoyang Station. The room is very clean and the service is very good. I will stay here again next time I go home."
+      },
+      {
+        "transKey": "plpr9rNEq6ktLrQsBzACblgql8dN2QWNmC5CyfWncKY=_review_500941471",
+        "content": "Hello dear, thank you for your affirmation of our work. The hotel is disinfected every day, and every detail of my location has been wiped with alcohol, so you can feel at ease in the room. There is Beijing Chaoyang Railway Station 700 meters away from the hotel. , it is very convenient to travel and is also very close to Chaoyang Joy City. It is your best choice for travel. There is nothing you can’t think of and nothing you can’t find. We look forward to your next visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

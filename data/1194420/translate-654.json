@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dLhHCAjTYKvucBhLc9Yjz82gj4aKd6V5Um2zCZmVRaEHR6WKZjgqKg==_review_612211191",
+        "content": "Breakfast not so good"
+      },
+      {
+        "transKey": "XwiEf/yWZEz260nV6ycKhRmyRaRlg9fpbMZqUitEZE0HR6WKZjgqKg==_review_612246719",
+        "content": "Dear guest, thank you for choosing us among many hotels. Our breakfast is a Chinese and Western buffet with many varieties and great taste. We have received many praises from customers. If you have any suggestions about the taste of the dishes, you can contact us and we will The dishes and tastes will be adjusted according to the needs of customers. We look forward to your next visit."
+      }
+    ]
+  },
+  "ServerData": null
+}

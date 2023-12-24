@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dqZ9ThLmfL8FKCVKFcjfO7SxdsaB+ChkrNwgcTIC0QIHR6WKZjgqKg==_review_762039941",
+        "content": "It's very comfortable, the service is good, and it's quiet. If you need anything, you can ask the lady named Zhao at the front desk. She's very nice!"
+      },
+      {
+        "transKey": "pbwT6ocLPSyMW1CstnzAQHrZyZDdBcl0G3NXt66ZlcEHR6WKZjgqKg==_review_762222359",
+        "content": "Dear guests, hello! Seeing your positive comments makes us excited. Orange is a hotel full of youthful vitality. It shows you the unique charm of the hotel with its simple style and warm and meticulous service. Your recognition and support continue to inspire us to keep moving forward and reach new heights. We will serve everyone well with our heart. A family friend, looking forward to seeing you next time! I wish you a happy life! Manager: Zhang Lijuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

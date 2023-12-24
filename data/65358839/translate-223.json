@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "VbZamQmB9vVjjecGU2O9UheBVMXJkCBa726eRcgfPXoHR6WKZjgqKg==_review_616254673",
+        "content": "The service is very good and very welcoming. The rooms are very clean and comfortable. Great stay experience. Highly recommended."
+      },
+      {
+        "transKey": "rPh+gLrey4djgXkiqNLKEHXXlb6kXoDcodGCpH7bpAYHR6WKZjgqKg==_review_616446087",
+        "content": "As long as you like it, it is the greatest satisfaction for Xiao Ji. I also look forward to your support for Xiao Ji~"
+      }
+    ]
+  },
+  "ServerData": null
+}

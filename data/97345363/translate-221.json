@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "gh6qz98cktBP6nigFaQ5YKPBP2A3ih+DNrg+lNKQh1wHR6WKZjgqKg==_review_828842243",
+        "content": "Very good, mainly because it is convenient and clean, and check-in and check-out are also very quick."
+      },
+      {
+        "transKey": "1KMxHQMgKYwkC0d9sGFzUiklotO1E6M4EDA0ohiQgT4HR6WKZjgqKg==_review_829427767",
+        "content": "Dear family, if your smile had color, you would be colorful. The inside is crystal clear, like dewdrops on green leaves in the morning, I want to touch it with my hands. But when you smile, it’s the warm sunrise that makes people feel like spring. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

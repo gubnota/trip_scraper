@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "24hXuFnG90kpd/HXikqgo39mZtRDkPZNrCWxy5G53rwHR6WKZjgqKg==_review_885948469",
+        "content": "The room is comfortable and clean, the service attitude is good"
+      },
+      {
+        "transKey": "3PSrNTmuRp1gKtp45qwh0pQHgb6FjhpO/Dg8yQeZD2oHR6WKZjgqKg==_review_886351511",
+        "content": "There is always a meeting that brings people close to each other. There is always a heartbeat that makes people rely on each other. A soft greeting is full of joy in the eyes. A quiet waiting is full of poetry. Thank you for your choice and look forward to you. Come again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "DFKSF3/17T5aulUuLdwGJDAl4ndlA/7jU9Fm8VxRMt8HR6WKZjgqKg==_review_727346385",
+        "content": "Hygiene: Very clean and responsible for cleaning\ngood service\nFacilities: Complete\nEnvironment: comfortable to live in"
+      },
+      {
+        "transKey": "JzMuws46sODSa4x7NTiK9pCZYZ8BdvbiPY82gGNJntgHR6WKZjgqKg==_review_727865855",
+        "content": "Dear guest, thank you for choosing us among many hotels. Thank you very much for your support and trust in our work. The hotel is a 10-minute taxi ride from Joy City. It is very convenient for shopping and delicious food. The hotel is also surrounded by convenient transportation. There are all kinds of restaurants and supermarkets nearby, which can meet all your needs. The hotel also adds delivery robots, free self-service laundry rooms, and dryers. The breakfast buffet has a complete range of Chinese and Western varieties and tastes good. We look forward to welcoming you next time. Let’s try it with your family during your first stay"
+      }
+    ]
+  },
+  "ServerData": null
+}

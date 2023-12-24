@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "aLfF5giDgJr9pXGFcfLy1mNc4bQTowd7V2VExTAA8OwHR6WKZjgqKg==_review_488078517",
+        "content": "The room was clean, tidy and orderly"
+      },
+      {
+        "transKey": "8t1vp1EJt3dLR5L1wt46LH+gZccc7RiNB39LT+8EjBcHR6WKZjgqKg==_review_488218580",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel, and thank you even more for taking time out of your busy schedule to give us your good encouragement. We treat every guest as our own family and strive to make every guest feel at home here, and your recognition is our greatest motivation. Our guest room sisters carefully prepare each room every day. All hotel staff look forward to your next visit. I wish you success in your work and a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "NK6RsjNvi7hRxQ6jtu/IJhXM1bLp0gh2P4V9u2qfgy8HR6WKZjgqKg==_review_602783871",
+        "content": "Pretty good, but the sound insulation effect is a bit poor"
+      },
+      {
+        "transKey": "Jt/ZrKL/WVo0hJvTJwMGSAFGMXD33ShSdH4kjsQbb+IHR6WKZjgqKg==_review_606578789",
+        "content": "Thank you for your choice and recognition of the hotel. The store attaches great importance to the problem of sound insulation. It was found that the sound leakage was caused by the dislocation of the door. The store has arranged for engineers to repair it in time. We hope to have the opportunity to provide you with a comfortable stay again in the future."
+      }
+    ]
+  },
+  "ServerData": null
+}

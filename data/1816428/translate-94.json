@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "/LSezD3GADPqKEQ2aKdAfm3guWqcMpAzgolrtHP6h4YHR6WKZjgqKg==_review_802602911",
+        "content": "The room I booked for a business trip is very close to the destination. It is only a ten-minute walk away. It is very convenient. The customer service attitude at the front desk is very enthusiastic and soft-spoken and friendly. The room is also very clean. I have sensitive constitution and I did not feel uncomfortable this time. It is great to have a robot from other places come to my door. !"
+      },
+      {
+        "transKey": "a8/HxtfXAi8yS6lYsVV9Zim/8pgN0qt0DqDsQjRcC5oHR6WKZjgqKg==_review_802689033",
+        "content": "Dear customer! Thank you very much for choosing Orange Beijing Wukesong Hotel. We always believe that a good reputation must be recommended from the most sincere satisfaction of the guests. Your support and recognition are very important to us. Detailed service has always been A long-standing focus of ours, we are honored to provide you with the highest quality service. We very much welcome you to choose our hotel again whether you are on a business trip or traveling. We sincerely look forward to your visit again and wish you a happy life! Manager: Zhang Lijuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

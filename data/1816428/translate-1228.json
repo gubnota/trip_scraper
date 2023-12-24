@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "nb930Q1qv6AVh/oI1fClsr0RCzWHFpDUr76K5/FciWc=_review_644025007",
+        "content": "Very clean, service attitude is very good! I will go there next time"
+      },
+      {
+        "transKey": "rs1b+ptEnT5rVDeP50aY6s49aButMNUiGoL5qx0XqZ8HR6WKZjgqKg==_review_644263803",
+        "content": "Dear guest, hello! Thank you for staying at Orange Beijing Wukesong Hotel. As a comfortable brand of Huazhu, Orange brand attaches great importance to the stay experience of all guests. We are extremely honored that you can enjoy your stay! The hotel is being disinfected and cleaned every day, and the hotel has also strengthened its intelligent \"contactless\" service. During your stay, items required will be delivered to the room by a robot, ensuring that the robot will be disinfected again after each use, ensuring your travel safety. Escorting and protecting the \"peace of mind\" and \"safety\" of every guest is our consistent and important mission! Looking forward to your next stay! Thanks! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

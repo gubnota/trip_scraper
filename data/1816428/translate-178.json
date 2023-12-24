@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "uL5hLsY32jGPmrAheFTbVCG6VKELGIzur5CqB69RvToHR6WKZjgqKg==_review_655536831",
+        "content": "The room is very clean and the surrounding area is convenient. Parking is free which is great. Recommended"
+      },
+      {
+        "transKey": "8yj4+TZ4nhrOBpzFNu5GgVavAqTTBsSbvAf8G1ssEiEHR6WKZjgqKg==_review_655765835",
+        "content": "Dear guest, hello! Thank you for staying at Orange Beijing Wukesong Hotel. Our hotel is located on the West Fourth Ring Road, with very convenient transportation. It is very close to the 301 Hospital, the subway and the bus station, and the hotel provides electronic parking tickets for free parking. Travel routes can be diversified according to your travel mode. At the same time, the room is fully equipped with electric curtains, refrigerated refrigerators, and snacks and fresh oranges are provided at the front desk. I hope it can bring you good memories and sincere expectations. Your next visit! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

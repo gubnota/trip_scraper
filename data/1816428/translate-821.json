@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "hA3yZIZK3iwunkRTMqiO1JKKWDSyLAaTMrNnz68uT58HR6WKZjgqKg==_review_716402671",
+        "content": "The service is very good, but the hotel facilities are a bit old and I hope they can be updated."
+      },
+      {
+        "transKey": "fKwgRiflbbhBMN8mN2x7UfQ8hTxVIsrL69bcgjbH9XYHR6WKZjgqKg==_review_716791233",
+        "content": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel and sharing your stay experience. Xiaoju is very happy that the service has received your five-star praise! Regarding the hotel facilities you have reported, since the hotel has been open for a long time, there is indeed a certain gap between it and other newly opened stores. In this regard, we have updated the overall area of ​​the hotel lobby and added a new lobby business area to provide free Internet access for guests in need. Printing service, we have recently updated the curtains, lamps, toiletries and brand new bedding in the room. A comfortable stay experience is our unchanging goal and we are constantly working hard to achieve this. We will definitely step up the update of all facilities and look forward to welcoming you. Every visit! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

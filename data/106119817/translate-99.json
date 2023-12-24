@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "+cBcaAYHweXwE40irmwTTmIwCHk4uaVtHNoGFm+4c/UHR6WKZjgqKg==_review_874468509",
+        "content": "The oranges are getting better and better, very meticulous. The front desk service attitude is also very good. The room is clean, hygienic and quiet. Although it is 700 meters away from the subway entrance, it is very fast to ride a bicycle."
+      },
+      {
+        "transKey": "TBjDw3bJLjf+lUg14R7dh5QkAHgRA1cmzMwkDxqF438HR6WKZjgqKg==_review_874509587",
+        "content": "Dear guests: Hello! Thank you for your praise. The scent of roses lingers in your hands. Your affirmation is our greatest support and encouragement, and will also be our motivation to keep moving forward!"
+      }
+    ]
+  },
+  "ServerData": null
+}

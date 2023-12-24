@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "bptK4lXRmn7b6i/hdiTjUqfqEKq3FJD8CdwSPiDiaecHR6WKZjgqKg==_review_952392975",
+        "content": "The price is cheaper than the negotiated price. I don’t know what it means to be a big customer."
+      },
+      {
+        "transKey": "9oSV2ZTQGtbU/f6nbj5BYtua/KaMzbK8Ww6QOWReVXkHR6WKZjgqKg==_review_953016643",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel and giving us the opportunity to serve you. Thank you very much for giving us a five-point review. We treat every guest as our own family and strive to treat every guest Guests all feel at home here, and your recognition is our biggest motivation. We are very sorry for your feedback on the agreement price. We were unable to understand your feedback during your stay. The price of each channel is different. For you The low booking price on the platform must be the biggest discount provided by the platform. If you have any questions, you can call the front desk to answer your questions at any time. We hope to answer your questions. All hotel staff look forward to your next visit. I wish you success in your work and a happy life! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

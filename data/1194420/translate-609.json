@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "qbnJeSuAHKwIIWbYCFbzC5ORzhR55h1PN8Frc6n7uc0HR6WKZjgqKg==_review_496328906",
+        "content": "The hotel offers late check-out with children. The hotel is very close to the subway station. The No. 82 bus in front of the door leads directly to Wangfujing, Qianmen and Nanluoguxiang, which is very convenient."
+      },
+      {
+        "transKey": "PtyzeLSovPPPS1lX6s1D+Is3KAtxoG40W5WLzYI2qyEHR6WKZjgqKg==_review_500939702",
+        "content": ": Dear distinguished guest, hello, thank you for your support and affirmation of our work. Our hotel has a Chinese and Western buffet breakfast from 7 to 10 o'clock, which is very rich and delicious. There are also self-cooked noodles and various Beijing snacks. There are also There is a free laundry room and parking lot, and it is only 800 meters away from Chaoyang Railway Station. It is very convenient. The hotel warmly looks forward to your distinguished guests coming again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "YyWehGKyWu1UnRGFzFmaUXxbL/qWl7AZQAy5Bnsj6L0HR6WKZjgqKg==_review_673832355",
+        "content": "The room is very clean and the front desk service is good"
+      },
+      {
+        "transKey": "B4jUrYmd4fos4l+ZeH/qvfHcZrfLqU8Pk1nytGDQpjgHR6WKZjgqKg==_review_674407633",
+        "content": "The night with stars will not be dark, the sea with sky will be blue, the life with dreams will be full of sunshine, and with your days, our work will be more meaningful. Thank you, guest, for choosing to stay at Orange Beijing Wukesong Hotel and giving us full recognition. Your affirmation is the greatest encouragement for our work. We will continue to work hard to provide you with a more comfortable and convenient stay experience. All hotel staff look forward to working with you. Every time we meet, I wish you success in your work! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

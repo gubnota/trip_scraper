@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "YZkJKCFGW6OHTTbDwY2j6Fc4r/Xt88Z2+wl8xA1pIQU=_review_807453019",
+        "content": "Five-star praise, Xiao Li at the front desk was very warm and thoughtful. The hotel has a very good environment, very clean and warm, and the location is relatively convenient. I will stay here again on business trips in the future."
+      },
+      {
+        "transKey": "KQjXI9g/WO+shc+5MFYS4DthpvkPXfLn8+rM2CvdJgc=_review_807604453",
+        "content": "Thank you for your recognition. We will continue to provide a warm and comfortable stay environment and warm and thoughtful service to our customers. Welcome to come again."
+      }
+    ]
+  },
+  "ServerData": null
+}

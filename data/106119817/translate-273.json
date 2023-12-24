@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "gY0XfezUsTj97ji5GXyE8hAzuteHhaMqnr8J1BZnDvkHR6WKZjgqKg==_review_793295825",
+        "content": "Nice and clean"
+      },
+      {
+        "transKey": "rU5CAMeSgiDBW9sztqCD45uUmNR4zpYAoMOlDjbzVdwHR6WKZjgqKg==_review_793524005",
+        "content": "Life is an unknown journey. What matters is the scenery along the way and the mood when looking at the scenery. Thank you for your valuable opinions. See you next time."
+      }
+    ]
+  },
+  "ServerData": null
+}

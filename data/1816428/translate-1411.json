@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "deTQcXIQ8Jq6FOODZcinYceKfrG7pwSTtOso8Lf+70UHR6WKZjgqKg==_review_543807748",
+        "content": "Close to the subway station, convenient for travel. The room is fully equipped and very clean. The service attitude is very good. Like it."
+      },
+      {
+        "transKey": "fDzSGilSdqdqGhsCvMVUVuhWVuc9Rlp88IwVjN5ruF4HR6WKZjgqKg==_review_543815258",
+        "content": "Thank you very much for your stay and sharing, and also thank you for your high recognition of Orange Beijing Wukesong Hotel. The smile on your lips is our greatest appreciation. We will continue to work hard to provide you with a more comfortable and convenient stay. Environment, all the hotel staff look forward to your every visit and wish you all the best! General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "6Uci5sru1i6fLfnX/1XY0x7q4l/4P06xe1w2VYP5VicHR6WKZjgqKg==_review_772291545",
+        "content": "The service is very good, very satisfied"
+      },
+      {
+        "transKey": "6o7SGOgEH4RZyEJ+n52sFlspU/IAFieXP8zz3Q53JQsHR6WKZjgqKg==_review_772448957",
+        "content": "Your compliment is better than the sunshine, and your affirmation is better than the blooming flowers. We look forward to your stay again."
+      }
+    ]
+  },
+  "ServerData": null
+}

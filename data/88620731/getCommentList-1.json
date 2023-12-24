@@ -1,0 +1,450 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 52,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 38,
+        "type": 1
+      },
+      {
+        "id": 32,
+        "name": "Great amenities",
+        "commentCount": 29,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 23,
+        "type": 1
+      },
+      {
+        "id": 53,
+        "name": "Many amenities",
+        "commentCount": 15,
+        "type": 1
+      },
+      {
+        "id": 149,
+        "name": "Would stay again",
+        "commentCount": 13,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 6,
+        "type": 1
+      },
+      {
+        "id": 79,
+        "name": "Convenient public transportation",
+        "commentCount": 6,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 344
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 341
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 3
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 70
+      }
+    ],
+    "totalCount": 258,
+    "repeatCommentCount": 86,
+    "commentList": [
+      {
+        "id": 991123677,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The environment is very good. I feel very warm as soon as I come in. The hotel facilities are very new and complete. There is a robot to deliver food, which is very convenient. There is also an elevator. It is convenient to swipe your card to go upstairs. The security is very high. I feel at ease here!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "環境特別好，一進來就感到非常的温馨，酒店設施很新也很齊全，有機器人送餐，很方便，還有電梯，刷卡上樓方便，安全性特別高，住着很安心！",
+        "createDate": "2023-12-08 15:54:14",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 991105253,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The environment is elegant and comfortable, with complete facilities. There is an elevator. Check-in is quick and the service is very good. The room is clean and tidy. I feel very comfortable and satisfied with my stay.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "環境幽雅舒適，設施齊全完善，有電梯，辦理入住很快，服務也很好，房間乾淨整潔，住起來很舒服，很滿意",
+        "createDate": "2023-12-08 15:29:33",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 991072795,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Environment: The environment is very good and it is very comfortable to live in\nFacilities: Well-equipped, plenty of hot water, TV with screen projection, and parking lot\nHygiene: The room is clean and tidy\nService: Very good service attitude\nA very satisfying stay experience!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "環境：環境特別好，住起來很舒適\n設施：設備齊全，熱水充足，電視還可以投屏，還有停車場\n衞生：房間乾淨整潔\n服務：服務態度很好\n很滿意的一次入住體驗！",
+        "createDate": "2023-12-08 14:49:54",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80a0p000000fjkoy156D_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 985254627,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel is opposite the University of International Business and Economics, only a minute's walk away. The hotel has complete facilities and the rooms are very clean. There is also a free laundry room and dryer, which is very convenient. The hotel staff's service attitude is also very good, very good. very good!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "酒店就在對外經貿大學對面，步行一分鐘就能到，酒店設施齊全，房間很乾凈，還有免費的洗衣房，烘乾機，超方便，酒店工作人員服務態度也很好，很好很好很好！",
+        "createDate": "2023-11-30 14:51:39",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 927082353,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Very good and clean, good service",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "很好挺干淨的，服務好",
+        "createDate": "2023-09-15 10:21:47",
+        "imageList": [
+          "/0232q12000c54cep258F0.jpg",
+          "/0236z12000c547yu93B0E.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior 2-bed Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 977313891,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room is clean and tidy, and the transportation is convenient. It is very close to the China-Japan Friendship Hospital and the University of International Business and Economics. The bus station is right outside the door. The hotel has complete facilities, the room is clean and tidy, and the front desk staff has a good attitude. Overall, I am very satisfied!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "房間乾淨整潔，交通便利，距離中日友好醫院和對外經貿大學都很近，出門就是公交站，酒店設施齊全，房間乾淨整潔，前台服務人員態度好，整體來説很是滿意的哦！",
+        "createDate": "2023-11-19 14:56:38",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior 2-bed Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 881707517,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Hygienic and clean, front desk service is very good",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "衞生乾淨，前台服務很好",
+        "createDate": "2023-08-01 14:34:19",
+        "imageList": [
+          "/0234612000bsulyv5E0C4.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Family Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人，感謝您對我們工作的認可及肯定。 愛乾淨，住漢庭”是我們多年不變的的口號及工作內容。漢庭北京對外經貿大學酒店嚴格遵守華住集團的愛乾淨的條款，致力於為客人打造良好的酒店環境。漢庭北京對外經貿大學酒店坐落於北京北四環交通十分便利，臨近中日友好醫院，性價高。感謝您百忙之中為華住漢庭北京對外經貿大學酒店做評論。祝您諸事順利。",
+            "translateContent": "Dear guest, thank you for your recognition and affirmation of our work. \"If you love cleanliness, stay at Hanting Hotel\" is our slogan and work content that has remained unchanged for many years. Hanting University of International Business and Economics Beijing strictly abides by the cleanliness terms of Huazhu Group and is committed to creating a good hotel environment for guests. Hanting Hotel Beijing The University of International Business and Economics Hotel is located in Beijing's North Fourth Ring Road with very convenient transportation, close to the China-Japan Friendship Hospital, and has high cost performance. Thank you for taking the time out of your busy schedule to leave a review for Huazhu Hanting Beijing University of International Business and Economics Hotel. I wish you all the best.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Qinaidelandi"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 969093807,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The service is very good! Thank you to the girl at the front desk for the warm reception! Yu Hui, Yu Qing and another girl! They say hello every time they meet and smile happily! My mood will also be infected, it’s another day full of energy",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 23:59:00",
+        "content": "服務非常好！感謝前台美眉熱情接待！于慧，雨晴和另一位美眉！每次見面都會打招呼，笑的很開心！我的心情也會被感染，又是精神滿滿的一天",
+        "createDate": "2023-11-07 23:37:22",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人，感謝您對我們工作的認可及肯定。 愛乾淨，住漢庭”是我們多年不變的的口號及工作內容。漢庭北京對外經貿大學酒店嚴格遵守華住集團的愛乾淨的條款，致力於為客人打造良好的酒店環境。漢庭北京對外經貿大學酒店坐落於北京北四環交通十分便利，臨近中日友好醫院，性價高。感謝您百忙之中為華住漢庭北京對外經貿大學酒店做評論。祝您諸事順利。",
+            "translateContent": "Dear guest, thank you for your recognition and affirmation of our work. \"If you love cleanliness, stay at Hanting Hotel\" is our slogan and work content that has remained unchanged for many years. Hanting University of International Business and Economics Beijing strictly abides by the cleanliness terms of Huazhu Group and is committed to creating a good hotel environment for guests. Hanting Hotel Beijing The University of International Business and Economics Hotel is located in Beijing's North Fourth Ring Road with very convenient transportation, close to the China-Japan Friendship Hospital, and has high cost performance. Thank you for taking the time out of your busy schedule to leave a review for Huazhu Hanting Beijing University of International Business and Economics Hotel. I wish you all the best.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8070v000000k1tg7D66D_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 967342995,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Facilities: The room is very new, compactly arranged, and has basic functions.\nHygiene: clean and tidy, pillows are comfortable.\nEnvironment: Located near the university, the surrounding area is relatively quiet.\nService: The ladies at the front desk are very enthusiastic and provide good service.\n\nWill stay here next time!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "設施：房間很新，佈置緊湊，基本功能具備。\n衞生：乾淨整潔，枕頭舒服。\n環境：位於大學附近，周圍比較安靜。\n服務：前台小姐姐都非常熱情，服務到位。\n\n下次還會來住！",
+        "createDate": "2023-11-05 16:05:44",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Queen Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人，感謝您對我們工作的認可及肯定。 愛乾淨，住漢庭”是我們多年不變的的口號及工作內容。漢庭北京對外經貿大學酒店嚴格遵守華住集團的愛乾淨的條款，致力於為客人打造良好的酒店環境。漢庭北京對外經貿大學酒店坐落於北京北四環交通十分便利，臨近中日友好醫院，性價高。感謝您百忙之中為華住漢庭北京對外經貿大學酒店做評論。祝您諸事順利。",
+            "translateContent": "Dear guest, thank you for your recognition and affirmation of our work. \"If you love cleanliness, stay at Hanting Hotel\" is our slogan and work content that has remained unchanged for many years. Hanting University of International Business and Economics Beijing strictly abides by the cleanliness terms of Huazhu Group and is committed to creating a good hotel environment for guests. Hanting Hotel Beijing The University of International Business and Economics Hotel is located in Beijing's North Fourth Ring Road with very convenient transportation, close to the China-Japan Friendship Hospital, and has high cost performance. Thank you for taking the time out of your busy schedule to leave a review for Huazhu Hanting Beijing University of International Business and Economics Hotel. I wish you all the best.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 4,
+          "nickName": "Chenyuanwen"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 960973197,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The environment is good, the facilities are complete, and the service is friendly. I only booked it for one night at first. It felt good, and I booked another week at the front desk. The University of Economics and Business is opposite, and the hotel is very close to the hotel for my children. The bed is very comfortable and the glass is super soundproof. It's better than sleeping at home! It’s really good and worth recommending!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "環境不錯，設施齊全，服務熱情，開始衹預訂了一晚，感覺不錯，又在前台訂了一週，對面就是經貿大學，孩子來酒店也非常近。床非常舒服，玻璃超級隔音，比在家睡的還好！真心不錯，值得推薦！",
+        "createDate": "2023-10-27 19:53:02",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Queen Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "看到了您的評論，小店內的服務人員心裏也美滋滋呢~能夠給您帶來一次美好的入住體驗是我們的榮幸，漢庭一直秉着酒店環境乾淨安全可靠為基礎的酒店，正如房卡上面寫的一樣，愛乾淨，住漢庭。讓您在喧囂的城市中，得到一份踏實，一份温暖。小店內增加自助洗衣房，高温殺菌的烘乾機，讓您旅途多一份安全與便捷。期待您的下次光臨，我們會繼續努力，給您帶來更好的入住體驗。祝您生活愉快~",
+            "translateContent": "After seeing your comments, the service staff in the store are very happy~ It is our honor to bring you a wonderful stay experience. Hanting has always been a hotel based on a clean, safe and reliable hotel environment, as shown on the room card It's the same as written, I love cleanliness and live in Hanting. Let you feel at ease and warm in the hustle and bustle of the city. A self-service laundry room and high-temperature sterilization dryer are added in the store to make your journey safer and more convenient. We look forward to your next visit and we will continue to work hard to give you a better stay experience. I wish you a happy life~",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703416890203+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a70178f-473171-196067"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "768cc060-12f4-4ca2-b7d2-577d9717b731"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a70c3da-473171-530114"
+      }
+    ]
+  }
+}

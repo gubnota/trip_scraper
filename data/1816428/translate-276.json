@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "5asvfJcXLshtvroB4GydN1FvX/GS5UjtGXHmAVe5J7sHR6WKZjgqKg==_review_639235147",
+        "content": "Good service, clean rooms"
+      },
+      {
+        "transKey": "7N+j8m9uqJaGB0l7Zt1Jk+YxoXqXuB+b6WAs8AZxc58HR6WKZjgqKg==_review_639728527",
+        "content": "Dear guest, thank you for choosing to stay at Orange Beijing Wukesong Hotel and giving us a high evaluation. Being recognized and trusted is a wealth that cannot be bought. Because we know each other, everything is understood. Because we understand, everything is just right. We will continue to move forward with your praise and affirmation, we will be here waiting for your arrival, and wish you a happy life! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

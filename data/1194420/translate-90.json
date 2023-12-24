@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "09hZ4BK6hae5gjEDy+SoZGLNwrK2AiseDuU8RlH4I1wHR6WKZjgqKg==_review_912470631",
+        "content": "The hotel environment is great, the room is very clean, the bedding is soft and comfortable, the service attitude is very good, the breakfast is also good, and it is affordable👍🏻."
+      },
+      {
+        "transKey": "wZjrBGAbDLMK5K0xB78bV2GBAzUas7TtkABqqvmz3McHR6WKZjgqKg==_review_912753757",
+        "content": "Thank you for your praise and affirmation. Meeting in this vast sea of ​​people is fate. I hope our fate will last forever and we look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,445 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 97,
+        "name": "Convenient location",
+        "commentCount": 163,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 138,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 115,
+        "type": 1
+      },
+      {
+        "id": 149,
+        "name": "Would stay again",
+        "commentCount": 85,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 85,
+        "type": 1
+      },
+      {
+        "id": 95,
+        "name": "Close to train station",
+        "commentCount": 77,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 62,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 35,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 1084
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 1075
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 9
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 183
+      }
+    ],
+    "totalCount": 853,
+    "repeatCommentCount": 231,
+    "commentList": [
+      {
+        "id": 484714777,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "nVdCTw53hyJ3LslKY52WFNNasKj4+ycAClS+s7u1CPgHR6WKZjgqKg==_review_484714777",
+        "canMarkUseful": true,
+        "checkInDate": "2021-02-01 23:59:00",
+        "content": "酒店距離朝陽站火車站很近，步行也就幾分鐘，很好找。在姚家園路與石佛營路交叉口，門口有個大鴨梨飯店，在這住附近吃飯也非常方便，逛街距離朝陽大悦城也很近。性價比很高，非常滿意！",
+        "createDate": "2021-02-24 09:50:30",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "您的滿意就是我們工作的最大動力，漢庭朝陽站火車站一直以最誠摯熱情的服務，帶給每一位客人賓至如歸的體驗，您的笑容是我們最好的回報，感謝您的選擇，期待與您的再次相遇，祝您生活愉快！",
+            "translateContent": "",
+            "securityKey": "S7wqfRUSFBuerQJLRsIZFO8MwSvJO5frPaZFFieJrDAHR6WKZjgqKg==_review_500940083"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0Z829120008pa0dep33E7_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "nigo_clot"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 481424729,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "PAaH6QOZbVUpuFALZAhYPJcOHwsAAg688OiAkPBkwL8HR6WKZjgqKg==_review_481424729",
+        "canMarkUseful": true,
+        "checkInDate": "2021-01-01 23:59:00",
+        "content": "位置很好找，就在姚家園與石佛營路交叉口，門口有個大鴨梨飯店。房間挺乾淨的，設施設備都很新，床很軟和，睡得挺舒服！早餐七點就開始了，在一樓，是中西自助餐，種類挺多。味道也很好！下次倒車還住這裏！",
+        "createDate": "2021-01-25 08:25:40",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，感謝您入住北京朝陽公園橋東店並給予好評，酒店屬於漢庭2.7版本，產品很新，乾淨衞生，距離朝陽大悦城也很近，裏面可以購物和吃飯，非常方便，早餐為中心自助餐，樣式豐富美味，還有有免費停車場和洗衣房，希望本酒店能成為您在北京的首選，熱誠期待您的再次光臨！",
+            "translateContent": "",
+            "securityKey": "p3dR6tX9AHunQIG7S6JHjPAWLW1RVPoy2FdfK1a6nWgHR6WKZjgqKg==_review_481438312"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 489299593,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "n0ahbzoPNKwBF6qi6xFmK047U2toRjufRMAYtCXbKyIHR6WKZjgqKg==_review_489299593",
+        "canMarkUseful": true,
+        "checkInDate": "2021-03-01 23:59:00",
+        "content": "跟朋友出差一起過來的，感覺房間乾淨整潔，住着挺不錯的，旁邊有個大鴨梨用餐方便，門口還有免費的停車場，離朝陽站火車站也很近，地理位置不錯，以後出差再過來住",
+        "createDate": "2021-03-29 16:44:05",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的貴賓，您好，感謝您對我們工作的支持和肯定，咱們酒店七點到十點有自助中西自助早餐，非常豐富美味，還有自煮小混沌和各種北京小吃，酒店裡還有免費洗衣房和停車場，距離朝陽火車站僅800米，非常方便，酒店熱烈期待貴賓的再次光臨！",
+            "translateContent": "",
+            "securityKey": "FftPi0OUantnI7x6+vRpizLhukhoDnQswPgyKtswCUQHR6WKZjgqKg==_review_500940939"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 8,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 487857090,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "tjUrV0Q05OGAVHFKI6cFDprdU4OSJV9Hsur4/0jDJ0MHR6WKZjgqKg==_review_487857090",
+        "canMarkUseful": true,
+        "checkInDate": "2021-03-01 23:59:00",
+        "content": "這家漢庭是我住過最滿意得漢庭了，前台小美女服務態度好，房間打掃的也乾淨整潔，早餐也特別豐盛，吃了早餐還可以走着就到北京朝陽站坐車，離得很近，下次還來這裏住。",
+        "createDate": "2021-03-20 16:10:31",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "非常感謝在眾多酒店中選到漢庭，感謝您對酒店的支持和認可，酒店目前新增了早餐特色，機器人也可以送餐到房間哦，酒店有免費洗衣房，期待您下次入住哦",
+            "translateContent": "",
+            "securityKey": "Q4CEJnsJk1wjdCOuHk7eIbOQKZS7soYDKCFvqYbHBOkHR6WKZjgqKg==_review_500940363"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 7,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 621624787,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "z3Vck7kZcSgpCxkNDJsyjzB5qhLIdr6oI+MSeGykPLcHR6WKZjgqKg==_review_621624787",
+        "canMarkUseful": true,
+        "checkInDate": "2022-07-01 00:00:00",
+        "content": "偶爾出門住一下 環境還行",
+        "createDate": "2022-08-10 22:41:35",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 60,
+        "travelTypeText": "Booked for others",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！感謝您選擇漢庭。酒店為漢庭2.7新版本，不僅設施齊全，裝修新穎，還地處北京朝陽區繁華商圈附近，出差辦公、購物、美食、旅遊都是非常方便，酒店還有自己獨立的免費停車場，自助洗衣房和送物機器人，提供着物超所值的服務，酒店的早餐也是中西結合自助形式的，品種多樣，豐盛無比，非常期待您再次光臨！",
+            "translateContent": "",
+            "securityKey": "5jTIU0uMseP78Pqy+Oc55SKY8teGTnpOXSQIF48PNXsHR6WKZjgqKg==_review_621648979"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80l0v000000jlasy1121_C_130_130_Q70.jpg",
+          "commentCount": 10,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 487946732,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "a96z7l0Bw+gwW9gSyXdljN20MVa34CfSuFf3hA9NGWYHR6WKZjgqKg==_review_487946732",
+        "canMarkUseful": true,
+        "checkInDate": "2021-03-01 23:59:00",
+        "content": "房間乾淨衞生，服務也很棒！距離朝陽大悦城不遠，公交就可以直達。距離朝陽站火車站特別近，步行十分鐘左右，倒車非常方便。在這家店住的也很舒服，有機會會常來的！",
+        "createDate": "2021-03-21 11:42:26",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "親您好，感謝你對我們工作的肯定，酒店每天都是消毒的，對細節的我位置也用酒精擦試過，所以在房間裏面你可以安心，距離酒店700米處有北京朝陽站火車站，出行很方便，距離朝陽大悦城也很近，是您出行的不二選擇。那裡衹有你想不到的，沒有你找不到的，期待您的下次光臨！",
+            "translateContent": "",
+            "securityKey": "plpr9rNEq6ktLrQsBzACblgql8dN2QWNmC5CyfWncKY=_review_500939888"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80l0v000000jlasy1121_C_130_130_Q70.jpg",
+          "commentCount": 9,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 573430862,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "LrdgVu3/4H4aFPsmCCH08GomfL3IL5sy0gUXjcuQHIcHR6WKZjgqKg==_review_573430862",
+        "canMarkUseful": true,
+        "checkInDate": "2022-01-01 00:00:00",
+        "content": "屋裡很乾凈，隔音挺棒的，早上也沒有被吵醒，完美",
+        "createDate": "2022-01-30 14:15:34",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的入住與點評，我們將再接再厲，竭誠為您提供優質服務，我們小院能停車，周邊交通便利，距離北京朝陽高鐵站不足兩公里，步行時間大約20分鐘，酒店設定了免費洗衣房，送餐機器人，免費閲讀區和茶水區，為您的出行提供物超所值的服務。",
+            "translateContent": "",
+            "securityKey": "FZesLPmU0C0rBRkZGxl30Ksu86Jpjo5xa451n8jN7ZcHR6WKZjgqKg==_review_573488466"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0Z84k120008qcgeir37AF_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Wanjudaxianshuci"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 655566075,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "V5Sm0yyTBsQNwIGWjoDTPju/n1U8lOYlQ92RVJ5LYzwHR6WKZjgqKg==_review_655566075",
+        "canMarkUseful": true,
+        "checkInDate": "2022-11-01 00:00:00",
+        "content": "服務很好，很不錯",
+        "createDate": "2022-11-04 17:09:21",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "感謝客官的點評喔~我們會努力做的更好為您和賓客帶來更加温馨的服務，酒店地理位置優越，出行便捷，距離朝陽站火車站距離僅需10幾分鐘，周圍吃喝也方便，環境衞生，房間設施也不錯的喔~酒店全體員工祝您生活愉快!期待您的再次光臨!",
+            "translateContent": "",
+            "securityKey": "Z7fcglP4xej/q6mIFQzNoLWRnrCVCF8zyaZhqiKecrY=_review_655673275"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 481175164,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "PZMRsjb3D537nun1QRBkB0BbJ0+v/q3/CQP+w4fUvAQHR6WKZjgqKg==_review_481175164",
+        "canMarkUseful": true,
+        "checkInDate": "2021-01-01 23:59:00",
+        "content": "很滿意得一次體驗，酒店位置很好找，前台小姐姐非常熱情，進門會打招呼，倒茶水，辦理入住可以無接觸辦理，還有送餐機器人。一樓還備有洗衣機烘乾機，很是方便，房間也特別乾淨，睡得很舒服，非常滿意！",
+        "createDate": "2021-01-22 08:57:16",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，感謝您入住北京朝陽公園橋東店並給予好評，酒店屬於漢庭2.7版本，產品很新，乾淨衞生，距離朝陽大悦城也很近，裏面可以購物和吃飯，非常方便，還有有免費停車場和洗衣房，希望本酒店能成為您在北京的首選，熱誠期待您的再次光臨！",
+            "translateContent": "",
+            "securityKey": "B4qK6uHvKLeKEGYgz8P/OMUzpVURvp2U9r/XVqUESHUHR6WKZjgqKg==_review_481438358"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 720245073,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "QQsC2sXbgHe0aenNp3+Ke3c4KSP6a0KX/KPbzt4LW7UHR6WKZjgqKg==_review_720245073",
+        "canMarkUseful": true,
+        "checkInDate": "2023-01-01 00:00:00",
+        "content": "非常適合出差",
+        "createDate": "2023-02-01 22:02:04",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好感謝您對我們的支持與信任，酒店距離朝陽高鐵站非常近，無需乘車即可到達，周邊距離大悦城很近，購物美食都很方便，我們的早餐是中西自助餐，品種很多，有北京的特色小吃，期待您常來入住哦",
+            "translateContent": "",
+            "securityKey": "Dhu8yHEZ149widLGCuYZvQGfZgGLuwMHMWPgpNwI/ucHR6WKZjgqKg==_review_720518521"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8070v000000k1tg7D66D_C_130_130_Q70.jpg",
+          "commentCount": 15,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703419588517+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a28189b-473172-59352"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "d5ca0788-1d63-4f1b-a58e-659a0b22285d"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a6e5f28-473172-163308"
+      }
+    ]
+  }
+}

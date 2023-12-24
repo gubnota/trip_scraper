@@ -1,0 +1,452 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 217,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 202,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 201,
+        "type": 1
+      },
+      {
+        "id": 96,
+        "name": "Close to metro",
+        "commentCount": 116,
+        "type": 1
+      },
+      {
+        "id": 5029,
+        "name": "Small room size",
+        "commentCount": 84,
+        "type": 2
+      },
+      {
+        "id": 53,
+        "name": "Many amenities",
+        "commentCount": 83,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 83,
+        "type": 1
+      },
+      {
+        "id": 136,
+        "name": "Great for business trips",
+        "commentCount": 30,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 1831
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 1815
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 16
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 241
+      }
+    ],
+    "totalCount": 1369,
+    "repeatCommentCount": 462,
+    "commentList": [
+      {
+        "id": 976745839,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel front desk and the cleaning lady were both very nice. They also helped me move to a more central location. I asked for an extra quilt and it was delivered quickly. Although it is next to the road, it is very quiet and the sound insulation effect is very good. The room is small, but it is located in Beijing after all. It is also very close to the subway station. It is very convenient to go to the Forbidden City. The light in the room is yellow, so it may be dark if you are working, but it is fine if you are not working.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "酒店前台和清潔阿姨的態度都很好，也幫我換了個比較靠中間的位置，叫了要加張被子也很快送到。雖然靠大路邊但是也很安靜，隔音效果很好。房間很小，但畢竟是在北京這個位置，離地鐵站也很近，去故宮哪裡都挺方便的。房間的燈是黃燈，辦公可能就比較暗，如果不辦公就挺好的。",
+        "createDate": "2023-11-18 18:19:24",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！看到您的好評，難掩我們內心的激動。桔子是一個富有年輕活力的酒店，以簡約的風格，温馨細緻的服務向您展示着酒店獨特的魅力，您的認可和支持不斷鼓舞着我們不斷前行，勇攀高峯，我們會用心服務好每一位家人朋友，期待和您的下次相逢！祝您生活喜樂開懷！酒店經理：趙丹",
+            "translateContent": "Dear guests, hello! Seeing your positive comments makes us excited. Orange is a hotel full of youthful vitality. It shows you the unique charm of the hotel with its simple style and warm and meticulous service. Your recognition and support continue to inspire us to keep moving forward and reach new heights. We will serve everyone well with our heart. A family friend, looking forward to seeing you next time! I wish you a happy life! Hotel Manager: Zhao Dan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 922743357,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The facilities are very good. The facilities are complete. The environment is very good. The environment is beautiful. The rooms are clean and tidy. The service staff are very polite.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "設施很好 設施齊全 環境很好 環境很優美 房間乾淨整潔 服務人員很有禮貌",
+        "createDate": "2023-09-09 15:04:18",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！看到您的好評，難掩我們內心的激動。桔子是一個富有年輕活力的酒店，以簡約的風格，温馨細緻的服務向您展示着酒店獨特的魅力，您的認可和支持不斷鼓舞着我們不斷前行，勇攀高峯，我們會用心服務好每一位家人朋友，期待和您的下次相逢！祝您生活喜樂開懷！酒店經理：趙丹",
+            "translateContent": "Dear guests, hello! Seeing your positive comments makes us excited. Orange is a hotel full of youthful vitality. It shows you the unique charm of the hotel with its simple style and warm and meticulous service. Your recognition and support continue to inspire us to keep moving forward and reach new heights. We will serve everyone well with our heart. A family friend, looking forward to seeing you next time! I wish you a happy life! Hotel Manager: Zhao Dan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/1h63o12000bf5s59g41FD_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Yangzhoushiengedianqizhanghaifeng"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 922020631,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "A very good business trip accommodation experience, the bath series are all orange-flavored. The lady at the front desk was very enthusiastic in reminding you of things to pay attention to. The room was very clean and quiet at night. I slept well",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "非常不錯的出差住宿體驗，沐浴系列都是橘子味的。前台服務小姐姐很熱情的提醒注意事項。 房間很乾凈，晚上也很安靜，睡的不錯",
+        "createDate": "2023-09-08 14:45:24",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客：您好！感謝下榻桔子北京五棵松酒店，非常感謝您對客房服務員以及房間衞生的認可，能給您帶來良好的入住體驗我們非常開心，酒店嚴格遵守華住集團的客房清潔流程，布草一客一換一消毒我們也會繼續努力，為每一位客人提供舒適安心的入住環境，酒店全體員工期待您的下次光臨，祝您生活愉快。經理：紀洪嬌",
+            "translateContent": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel. Thank you very much for your recognition of the room attendants and room hygiene. We are very happy to bring you a good stay experience. The hotel strictly abides by the Huazhu Group's room cleaning procedures. We will continue to work hard to provide every guest with a comfortable and secure stay. All hotel staff look forward to your next visit and wish you a happy life. Manager: Ji Hongjiao",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 708782781,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The facilities are old and dusty. I have stayed in several Orange Crystal and Orange hotels, but this one is the worst, and the decoration is not matching. Very poor experience!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-01-01 00:00:00",
+        "content": "設施老舊、滿地灰塵。住過多家桔子水晶、桔子酒店，這家是最差的，裝修都不配套。體驗極差！",
+        "createDate": "2023-01-13 22:30:38",
+        "imageList": [
+          "/0230q12000afqfhhuC1F6.jpg",
+          "/0231o12000afqe7jp455A.jpg",
+          "/0233j12000afqeb8v8EDA.jpg"
+        ],
+        "rating": 1,
+        "commentLevel": "",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，感謝您入住桔子北京五棵松酒店，給我們服務您的機會，酒店位於地鐵6號線海淀五路居站附近百得利汽車園區內，停車便利，酒店所有房間均為明亮大窗，視野開闊，與近期新開業的桔子酒店相比，酒店在裝修風格方面確實存在一定差距，但我們已在逐步更新改善，我們於去年更新了酒店大堂整體區域，新增的大堂商務區為有需求的客人提供免費上網打印服務，另有小食咖啡區，下午休閑時光，來一杯香濃現磨咖啡暖茶，帶給您愜意放鬆，酒店一層設有洗衣房，為在住客人提供24小時免費自助洗衣服務，我們於近期更新了房間內的窗簾燈具洗漱物品及全新的床品，舒適的入住體驗是我們始終不變的追求目標併為此不斷努力中，您反饋的房間地面灰塵問題，經我們實地查看，系酒店地板之間的接縫處正常無法清理到的死角，針對此項問題，我們已對客房服務員進行專項清潔培訓，給您使用帶來不佳的感受，我們深感歉意，同時您在住期間有任何的問題，可隨時聯繫前台，我們始終伴您左右，也誠懇的希望在如您一樣關注關心我們發展的客人的監督下，我們能做的更好，希望在您再次入住時能看到我們的努力與進步，期待您的每一次蒞臨，也希望在您監督下我們能做的更好，提前祝您新春快樂。經理：張明慧",
+            "translateContent": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel and giving us the opportunity to serve you. The hotel is located in the Badelli Automobile Park near Haidian Wuluju Station on Metro Line 6. Parking is convenient. All rooms in the hotel are Bright and large windows with a wide view. Compared with the recently opened Orange Hotel, there is indeed a certain gap in the decoration style of the hotel, but we have gradually updated and improved it. Last year, we updated the entire hotel lobby area and added a new lobby business area. The area provides free Internet printing services for guests in need. There is also a snack and coffee area. During leisure time in the afternoon, you can have a cup of fragrant freshly ground coffee and warm tea to bring you comfort and relaxation. There is a laundry room on the first floor of the hotel for in-house guests. 24-hour free self-service laundry service. We have recently updated the curtains, lamps, toiletries and brand-new bedding in the room. A comfortable stay experience is our unchanging goal and we are constantly working hard to achieve this. Your feedback on the dust on the floor of the room The problem, after our on-site inspection, is that the joints between the hotel floors cannot be cleaned normally. In response to this problem, we have conducted special cleaning training for the room attendants, which will bring you a bad experience. We deeply We apologize. If you have any questions during your stay, you can contact the front desk at any time. We will always be by your side. We also sincerely hope that we can do better under the supervision of guests who care about our development like you. We hope that we will do better in the future. You will be able to see our efforts and progress when you check in again. We look forward to your visit every time. We also hope that we can do better under your supervision. I wish you a happy New Year in advance. Manager: Zhang Minghui",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 780726829,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "I don’t know why there are so many mirrors in the corridors. It’s out of class. It’s a guest house style. The point is that the mirrors on the walls at night are scary. Besides, the installed Internet TV has no Internet. I called and asked, and said I’ll get back to you later Call, I waited for an hour, and I called back and said that I can cast the screen, but the staff needs to install something to get rid of it. I have to go to bed after so long. In short, the cleanliness is okay, and the rest is fine.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-04-01 00:00:00",
+        "content": "不知道樓道里幹嘛貼這麼多鏡子，很掉檔次，招待所風格，關鍵大晚上的滿牆的鏡子多恐怖，再有，安裝的網絡電視沒有網，我打電話問，説稍等給我回電話，這一等就個把小時，回電話説可以投屏，但是還要工作人員安裝個什麼東西，擺脱，這麼久我都要睡覺了，總之乾淨衞生還可以，其他的就算了",
+        "createDate": "2023-04-27 10:07:18",
+        "imageList": [],
+        "rating": 1,
+        "commentLevel": "",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，首先感謝您入住桔子北京五棵松酒店，能與您在此相遇是我們的榮幸，與其他新開業的桔子相比，酒店在裝修風格方面確實存在一定差距，但我們已在逐步更新改善，我們於去年更新了酒店大堂整體區域，新增的大堂商務區為有需求的客人提供免費上網打印服務，另有小食咖啡區，下午休閑時光，來一杯香濃現磨咖啡暖茶，帶給您愜意放鬆，酒店一層設有洗衣房，為在住客人提供24小時免費自助洗衣服務，我們於近期更新了房間內的窗簾燈具洗漱物品及全新的床品，舒適的入住體驗是我們始終不變的追求目標併為此不斷努力中，如發展的客人的監督下，我們能做的更好，希望在您再次入住時能看到我們的努力與進步，期待您的每一次蒞臨，祝您心情舒暢愉快。多方溝通了解，希望能夠找到替代的方式，給您使用帶來的不便，我們深感歉意，在店期間您反饋的問題，沒能讓您得到滿意的答覆，在此代表當班前台當班同事，致以深深的歉意，也誠懇的希望在如總經您反饋的房間內新配置的55寸網絡電視投屏問題，由於房間內網絡接口問題遲遲無法解決，我們已在多方協調中，正是有像您一樣關注關心我們，我們才擁有更多奮進的動力。感謝您的反饋，祝您身體健康。經理：張麗娟",
+            "translateContent": "Dear guest, first of all, thank you for staying at Orange Beijing Wukesong Hotel. It is our honor to meet you here. Compared with other newly opened Oranges, there is indeed a certain gap in the decoration style of the hotel, but we have Gradually updating and improving, we updated the overall area of ​​the hotel lobby last year. The newly added lobby business area provides free Internet printing services for guests who need it. There is also a snack and coffee area. In the leisure time in the afternoon, have a cup of fragrant freshly ground coffee to warm up Tea brings you relaxation. There is a laundry room on the first floor of the hotel, which provides 24-hour free self-service laundry service for residents. We have recently updated the curtains, lamps, toiletries and brand-new bedding in the room. The comfortable stay experience is We are always pursuing our goal and working hard for it. Under the supervision of developing guests, we can do better. We hope that you can see our efforts and progress when you stay again. We look forward to your visit every time. , I wish you a happy mood. We have communicated and understood with many parties, and hope to find an alternative method. We apologize for the inconvenience caused to you. During your stay in the store, you did not get a satisfactory answer. With deep apologies, I also sincerely hope that the problem of the newly configured 55-inch Internet TV projection screen in the room that you have given feedback from, as the network interface problem in the room has been unable to be resolved for a long time, we have been coordinating with multiple parties, and there are If you care about us as much as you do, we will have more motivation to move forward. Thank you for your feedback and I wish you good health. Manager: Zhang Lijuan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/zc0p170000011d1zy24F3_C_130_130_Q70.jpg",
+          "commentCount": 9,
+          "nickName": "💗daruirui～🐱💗"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 737127423,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room is very small, so small that there is no place to put the suitcase, and there is almost no place to walk around. The socket has fallen off and cannot be charged.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-02-01 23:59:00",
+        "content": "房間非常小，小到行李箱都沒地方放，然後幾乎一週圍沒地方走路，然後插座已經脱落，充電都充不進去",
+        "createDate": "2023-02-26 15:10:31",
+        "imageList": [],
+        "rating": 1,
+        "commentLevel": "",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好！感謝您入住桔子北京五棵松酒店，給我們服務您的機會，非常抱歉給您帶來不好的入住體驗，由於酒店裝修時間原因，酒店房間面積與新開業門店確實存在一定差距，麻雀雖小，但房間內設施齊全，酒店房間及公區配套設施可滿足您的日常住需求，我們將再接再勵，用我們的工作的細心換取您入住時的安心舒心，酒店全體員工期待您的每一次蒞臨，祝您生活愉快。酒店經理：張明慧",
+            "translateContent": "Dear guest, hello! Thank you for staying at Orange Beijing Wukesong Hotel and giving us the opportunity to serve you. We are very sorry to bring you a bad stay experience. Due to the renovation time of the hotel, there is indeed a certain gap between the hotel room area and the newly opened store. Although the majong is small , but the facilities in the room are complete, the hotel rooms and public area supporting facilities can meet your daily living needs. We will continue to work hard and use our careful work to exchange for your peace of mind and comfort when you check in. All the hotel staff look forward to your every stay Come and wish you a happy life. Hotel Manager: Zhang Minghui",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80l0v000000jlasy1121_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 840692999,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room is too small and the decoration is too poor",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-06-01 00:00:00",
+        "content": "房間太小，裝修太差",
+        "createDate": "2023-06-27 15:33:30",
+        "imageList": [],
+        "rating": 1,
+        "commentLevel": "",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好，首先感謝您選擇入住桔子北京五棵松酒店並給予點評反饋，您入住的舒心是我們始終不變追求的目標，但由於房間面積未能讓您擁有一次滿意的入住體驗我們深表歉意，受開業時間及租賃物業的限制，酒店房間面積與新開業門店相比確實存在一定差距，但麻雀雖小五臟俱全，房間內的設施可滿足您出門在外的工作需求，酒店今年新增的自助洗衣房更是為旅途中的客人提供了更多的便利，感謝您的點評，酒店全體員工期待您的再次蒞臨，祝您一切順利！經理:張麗娟",
+            "translateContent": "Dear guest, first of all, thank you for choosing to stay at Orange Beijing Wukesong Hotel and leaving your review and feedback. Your comfort during your stay is our unchanging goal, but due to the size of the room, we are unable to give you a satisfactory stay experience. We apologize deeply. Due to the limitations of the opening time and rental properties, there is indeed a certain gap between the hotel room area and the newly opened store. However, although the hotel is small and well-equipped, the facilities in the room can meet your work needs when you are away from home. The hotel is new this year. The newly added self-service laundry room provides more convenience for guests on the road. Thank you for your review. All the hotel staff look forward to your visit again and wish you all the best! Manager: Zhang Lijuan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/1h65n12000afzgks1C334_C_130_130_Q70.jpg",
+          "commentCount": 63,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 922715389,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel is very good",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "酒店很好的",
+        "createDate": "2023-09-09 14:27:29",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！看到您的好評，難掩我們內心的激動。桔子是一個富有年輕活力的酒店，以簡約的風格，温馨細緻的服務向您展示着酒店獨特的魅力，您的認可和支持不斷鼓舞着我們不斷前行，勇攀高峯，我們會用心服務好每一位家人朋友，期待和您的下次相逢！祝您生活喜樂開懷！酒店經理：張明慧",
+            "translateContent": "Dear guests, hello! Seeing your positive comments makes us excited. Orange is a hotel full of youthful vitality. It shows you the unique charm of the hotel with its simple style and warm and meticulous service. Your recognition and support continue to inspire us to keep moving forward and reach new heights. We will serve everyone well with our heart. A family friend, looking forward to seeing you next time! I wish you a happy life! Hotel Manager: Zhang Minghui",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 541217139,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Clean and sanitary service is very good, and there are free parking spaces.\n🔔Service: Good\n🧹Sanitation: clean",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2021-09-01 23:59:00",
+        "content": "乾淨衞生服務很好，還有免費的停車位。\n🔔服務：好\n🧹衞生：乾淨",
+        "createDate": "2021-09-28 14:56:54",
+        "imageList": [
+          "/023431200090udenu5A55.jpg",
+          "/0230q1200090uclxp8611.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Suite",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！感謝您在百忙之中給我們分享您的入住體驗，您在酒店度過的時光我們感到非常榮幸，我們的服務、品質、細節、能夠得到您的肯定，也讓我們感到心裏暖暖的，讓每位客人感到賓至如歸是我們堅持不懈的追求，我們將繼續努力，希望給您帶來更温馨舒適的住宿環境，期待着您再次光臨！總經理：李嫦霞",
+            "translateContent": "",
+            "securityKey": "ovxK/oiGSdG2JavYVYRKpk7CPTXdMV65NXUudb9E6TcHR6WKZjgqKg==_review_541265261"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 8,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 541532161,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Service attitude is super good, breakfast is great\n🍃Environment: Good\n🔔Service: Good\n🧹Hygiene: good\n🚗 Traffic: good",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2021-09-01 23:59:00",
+        "content": "服務態度超級好，早餐很棒\n🍃環境：好\n🔔服務：好\n🧹衞生：好\n🚗 交通：好",
+        "createDate": "2021-09-30 15:04:41",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "有星星的夜晚，才不會黑暗，有天空的海，才一片蔚藍，有夢想的生命，充滿陽光，有了您的日子，我們的工作才更有意義。感謝您選擇入住桔子北京五棵松酒店並給予我們服務態度的肯定，您的肯定是對我們工作最大的鼓勵，我們將再接再厲，為您提供更加舒適便捷的入住體驗，酒店全體員工期待與您的每一次相遇，祝您假期愉快！經理：任圓圓",
+            "translateContent": "",
+            "securityKey": "2/xdH1LfWKb4EqmHwL5dm6z+7xtQTbmvJWDBE3zhLW4HR6WKZjgqKg==_review_541642921"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 4,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703420377114+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a639123-473172-168605"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "ec530bf2-4ee2-4e14-81a2-07e1f7af4df8"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3d51fc-473172-510052"
+      }
+    ]
+  }
+}

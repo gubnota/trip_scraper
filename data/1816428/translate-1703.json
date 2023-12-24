@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "R7iuPc/Vbb613+jdXn2WMZYRo2DQhORXTChm1Git9aYHR6WKZjgqKg==_review_496852888",
+        "content": "The hotel facilities are old and there is a big gap compared to other orange hotels."
+      },
+      {
+        "transKey": "NaAbHyQjhgxKfnNH7NQtjmu+9UesRpbHI0NXRCjClN8HR6WKZjgqKg==_review_496938000",
+        "content": "Hello dear guests! Thank you for staying at Orange Beijing Wukesong Hotel and sharing your stay experience with us. We are very sorry that this stay did not bring you a more ideal stay experience. Since the hotel has been open for a long time, the room facilities and hotel lobby have been gradually updated. We will definitely step up the update of all facilities. We also hope that you can give us a chance to apologize to you next time you come. Thank you for your valuable feedback. We will continue to improve all aspects. I believe you will have a better stay experience next time you stay. The hotel looks forward to your visit again and wishes you a happy life! General Manager: Zhang Xiangyun"
+      }
+    ]
+  },
+  "ServerData": null
+}

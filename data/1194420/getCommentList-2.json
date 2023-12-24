@@ -1,0 +1,468 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 97,
+        "name": "Convenient location",
+        "commentCount": 163,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 138,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 115,
+        "type": 1
+      },
+      {
+        "id": 149,
+        "name": "Would stay again",
+        "commentCount": 85,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 85,
+        "type": 1
+      },
+      {
+        "id": 95,
+        "name": "Close to train station",
+        "commentCount": 77,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 62,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 35,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 1084
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 1075
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 9
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 183
+      }
+    ],
+    "totalCount": 853,
+    "repeatCommentCount": 231,
+    "commentList": [
+      {
+        "id": 998105823,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "Good place",
+        "createDate": "2023-12-18 14:07:36",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的顧客，感謝您對我們的認可，為您提供優質的服務是我們一直秉承的理念，帶給您優質服務的同時，我們酒店還有許多其他的特色。我們有免費的停車場，寬敞的會議室，自助早餐廳，免費洗衣間，您可以按需使用。您閑暇之餘還可以在我們的讀書吧看看書，在為自己點上一杯咖啡，盡情享受屬於自己的温暖時光。酒店毗鄰朝陽站，步行僅15分鐘左右。西臨朝陽公園，東臨朝陽大悦城，既可以享受美食，又可以欣賞風景，期待您的再次光臨。",
+            "translateContent": "",
+            "securityKey": "H5R0a8699I7IlGIDi0503Xxn0Gj9QtVqrXbeUgM3F54HR6WKZjgqKg==_review_998722943"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 11,
+          "nickName": "Mansur"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 535620766,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2021-05-01 23:59:00",
+        "content": "Very very small room and check in a long process. For Beijing though the price is fair enough and it's clean at least. Breakfast just a very small collection.",
+        "createDate": "2021-08-18 15:52:42",
+        "imageList": [],
+        "rating": 4,
+        "commentLevel": "Very Good",
+        "roomTypeName": "Double Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，感謝對酒店的認可，酒店距離新開通的北京朝陽站火車站距離非常近，步行過去衹需要8分鐘，門口交通也非常便利，出門吃美食地方也很多，酒店是漢庭2.7版本漢庭新品，早餐非常豐盛，有自助免費洗衣房，期待您下次入住哦",
+            "translateContent": "Dear guest, thank you for your recognition of the hotel. The hotel is very close to the newly opened Beijing Chaoyang Railway Station. It only takes 8 minutes to walk there. The traffic at the door is also very convenient. There are many places to go out to eat food. The hotel is Hanting Version 2.7 is a new product of Hanting, the breakfast is very rich, and there is a free self-service laundry room. I look forward to your next stay.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 10,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 495948859,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2021-05-01 23:59:00",
+        "content": "The reception is friendly, fast and accommodating. The rooms are neat, tidy and clean. Very quiet atmosphere, beautiful ambience and friendly environment for a good night's sleep!!",
+        "createDate": "2021-05-03 11:33:22",
+        "imageList": [],
+        "rating": 4.7,
+        "commentLevel": "Amazing",
+        "roomTypeName": "Double Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "非常感謝您對酒店的支持，朝陽區目前有幾個火車站名字都叫朝陽站，所以您搜尋時候寫朝陽站火車站就可以搜尋出來了，酒店隔音效果還是不錯的，玻璃和隔音條都是升級時候更換的雙層的，房間考慮到入住人數可能會多，礦泉水家庭房我們會放置4瓶礦泉水，放置在水壺，請您放心入住哦",
+            "translateContent": "",
+            "securityKey": "vVT2Q7IPz7wcrQFqc1mA5ZOo/nFcLs/XkEwYdI35mgwHR6WKZjgqKg==_review_500941782"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0a24b42156hmkxotsEC23_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Peter Zinganga"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 487812095,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2021-03-01 23:59:00",
+        "content": "I arrived late at the hotel because of a late flight.  I checked in had a nice room,  all electrical sockets were working.  I was only there for one day since it was a quick trip to Beijing to handle some business.  Also easy to make use of public transportation.  Pretty decent hotel to stay at if you're not intending to stay long.  Also it's about approximately 20min drive from the airport. ",
+        "createDate": "2021-03-20 10:17:01",
+        "imageList": [],
+        "rating": 4.7,
+        "commentLevel": "Amazing",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "非常高興看到您對我們前台服務人員的認可，您的滿意是我們前進的動力，我們會繼續努力，未來可期！",
+            "translateContent": "",
+            "securityKey": "gObzBgTyRfFlxygmJKYWi9TlJU/l63SCUP9itOLaE+cHR6WKZjgqKg==_review_500941304"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 9,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 1000078139,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The front desk service is warm and thoughtful, the environment is very good, and the room is very clean. The hotel also has a washing machine and dryer, which is very convenient. There is also a parking lot. I enjoyed my stay. I will come back next time I go to Beijing.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "前台服務熱情周到，環境很好，房間也很乾凈，酒店還有洗衣機和烘乾機，很方便，還有停車場，住的很開心，下次去北京還會再來",
+        "createDate": "2023-12-21 12:15:17",
+        "imageList": [
+          "/0235812000crt6jj7D55C.jpg",
+          "/0230i12000crtev7j4205.jpg",
+          "/0233p12000crtbmhk05BB.jpg",
+          "/0236b12000crtau9iCCE5.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的顧客，感謝您對我們的認可，為您提供優質的服務是我們一直秉承的理念，帶給您優質服務的同時，我們酒店還有許多其他的特色。我們有免費的停車場，寬敞的會議室，自助早餐廳，免費洗衣間，您可以按需使用。您閑暇之餘還可以在我們的讀書吧看看書，在為自己點上一杯咖啡，盡情享受屬於自己的温暖時光。酒店毗鄰朝陽站，步行僅15分鐘左右。西臨朝陽公園，東臨朝陽大悦城，既可以享受美食，又可以欣賞風景，期待您的再次光臨。",
+            "translateContent": "",
+            "securityKey": "H5R0a8699I7IlGIDi0503Xxn0Gj9QtVqrXbeUgM3F54HR6WKZjgqKg==_review_1000863155"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/1h61s3224x01g5qwg60CA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Gloria_D"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 996703019,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The sanitation is good and the service is good. There are elderly people traveling with me, and they took the initiative to help upgrade the room with a window. The details are particularly well done! It's also very close to Chaoyang Railway Station! Perfect!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "衞生好，服務好，同行有長者，主動幫忙升級有窗房間，細節做得特別好！離朝陽火車站也很近！完美！",
+        "createDate": "2023-12-16 15:02:11",
+        "imageList": [
+          "/0233p12000cqtivgyF46C.jpg",
+          "/0235q12000cqtileu140B.jpg",
+          "/0233m12000cqtjfc01394.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，感謝您選擇漢庭!酒店為漢庭2.7版本，裝修新穎，設施齊全，為每位旅客提供乾淨舒適的入住環境是我們服務的重點，也非常期待您再次入住酒店，酒店不僅地理優越，還配備有送物機器人，自助洗衣房，烘乾機，便利的停車場，總之讓您的出行無比的便捷舒適，期待您再次光臨!",
+            "translateContent": "Dear guest, thank you for choosing Hanting! The hotel is version 2.7 of Hanting, with novel decoration and complete facilities. Providing a clean and comfortable stay environment for every traveler is the focus of our service. We also look forward to having you stay at the hotel again. The hotel is not only geographically Superior, it is also equipped with delivery robots, self-service laundry rooms, dryers, and convenient parking lots. In short, it will make your travel extremely convenient and comfortable. We look forward to your visit again!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80l0v000000jlasy1121_C_130_130_Q70.jpg",
+          "commentCount": 4,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 997088609,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room is very clean, the service is very good, the breakfast is delicious, it is very close to the train station, the room facilities are complete, the surrounding supporting facilities are sufficient, and the front desk is also very welcoming",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "房間很乾凈，服務也很好，早餐很好吃，距離火車站也超近，房間設施也齊全，周邊配套設施也夠用，前台也很熱情",
+        "createDate": "2023-12-17 08:56:39",
+        "imageList": [
+          "/0234x12000cqxh3cfBAE6.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，感謝您選擇漢庭!酒店為漢庭2.7版本，裝修新穎，設施齊全，為每位旅客提供乾淨舒適的入住環境是我們服務的重點，也非常期待您再次入住酒店，酒店不僅地理優越，還配備有送物機器人，自助洗衣房，烘乾機，便利的停車場，總之讓您的出行無比的便捷舒適，期待您再次光臨!",
+            "translateContent": "Dear guest, thank you for choosing Hanting! The hotel is version 2.7 of Hanting, with novel decoration and complete facilities. Providing a clean and comfortable stay environment for every traveler is the focus of our service. We also look forward to having you stay at the hotel again. The hotel is not only geographically Superior, it is also equipped with delivery robots, self-service laundry rooms, dryers, and convenient parking lots. In short, it will make your travel extremely convenient and comfortable. We look forward to your visit again!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80q0v000000jmf90B344_C_130_130_Q70.jpg",
+          "commentCount": 5,
+          "nickName": "Jiaojiaoroulizi"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 989664219,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Breakfast is very good, transportation is convenient, service attitude is very good, recommended to stay, soundproofing is very good, very welcoming, hygienic and clean, there is also laundry, the first choice for business trips, free parking lot, comfortable and quiet!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "有早餐 很好 交通方便 服務態度很好 推薦入住 隔音很好 也很熱情 衞生乾淨 還有洗衣服 出差首選 免費停車場 舒適安靜！",
+        "createDate": "2023-12-06 14:09:50",
+        "imageList": [
+          "/0235c12000coshccyC665.jpg",
+          "/0232z12000cosf5wa3609.jpg",
+          "/0231l12000cosgisg55B6.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的入住與點評，我們將再接再厲，竭誠為您提供優質服務，我們小院能停車，周邊交通便利，距離北京朝陽高鐵站不足兩公里，步行時間大約20分鐘，酒店設定了免費洗衣房，送餐機器人，免費閲讀區和茶水區，為您的出行提供物超所值的服務。",
+            "translateContent": "",
+            "securityKey": "FZesLPmU0C0rBRkZGxl30Ksu86Jpjo5xa451n8jN7ZcHR6WKZjgqKg==_review_991061813"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8070v000000k1tg7D66D_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 992481313,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room is quiet and the sound insulation effect is very good. There is a hotel next to the room that is convenient and very welcoming. It is the first choice for business trips. It is very professional and has a rich variety of breakfasts that combine Chinese and Western styles. The room is relatively clean and the service attitude of the service staff is also very good. There is also a laundry room Dryer",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "房間安靜，隔音效果很很好，房間旁邊還有一家飯店交通方便也很熱情，出差首選很專業有豐富的早餐種類很多中西結合房間衞生比較乾淨，服人員服務態度也很不錯，還有洗衣房烘乾機",
+        "createDate": "2023-12-10 15:49:57",
+        "imageList": [
+          "/0233512000cpldh8zF6C9.jpg",
+          "/0235c12000cplaacb55A3.jpg",
+          "/0236312000cpl87h02F89.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好！感謝您在眾多酒店中選擇我們，非常感謝您對我們工作的支持和信任，酒店為漢庭2.7版本，裝修新穎，設施齊全；周邊交通便捷，餐館、超市應有盡有的，可以滿足您的一切需求，酒店內還增加了送物機器人、免費自助洗衣房，烘乾機，早餐中西自助品種齊全味道很好，期您下次入住帶家人一起品嚐呦",
+            "translateContent": "Hello dear guests! Thank you for choosing us among many hotels. Thank you very much for your support and trust in our work. The hotel is Hanting version 2.7, with novel decoration and complete facilities. The surrounding transportation is convenient, with restaurants and supermarkets available, which can meet all your needs. The hotel has also added a delivery robot, a free self-service laundry room, and a dryer. The breakfast buffet has a complete range of Chinese and Western varieties and tastes very good. I hope you can try it with your family next time you stay.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 986815973,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "I felt good about my stay. Breakfast is provided. Transportation is convenient. It is about 1 km away from Chaoyang Station. You can also take a taxi. The rooms are clean and the service attitude is very good. The room is quiet. There is laundry and a dryer. Overall it is good.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "入住感覺不錯 有早餐 交通方便 距離朝陽站很近1公里左右 打車也可以 客房乾淨 服務態度很好  房間安靜 有洗衣服 還有烘乾機  總體不錯",
+        "createDate": "2023-12-02 15:15:45",
+        "imageList": [
+          "/0234w12000co2qtdd43B0.jpg",
+          "/0234b12000co2x5b60E24.jpg",
+          "/0233k12000co2q76gDD33.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Family Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "謝您的好評，得到您的認可是小馬最大的榮幸，同時也給小馬巨大的動力，讓小馬在今後的服務中不斷提升、不斷創新，期待您再次光臨小馬，我們將竭誠為您服務！",
+            "translateContent": "Thank you for your praise. It is Xiaoma's greatest honor to receive your recognition. It also gives Xiaoma a huge motivation to continue to improve and innovate in future services. We look forward to your visit to Xiaoma again. We will wholeheartedly serve you. You serve!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703419093671+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a38914e-473171-475442"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "7756c8b8-01fe-422b-9267-120a4b331b21"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3d52da-473171-1480269"
+      }
+    ]
+  }
+}

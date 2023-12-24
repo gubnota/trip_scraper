@@ -1,0 +1,207 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 97,
+        "name": "Convenient location",
+        "commentCount": 163,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 138,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 115,
+        "type": 1
+      },
+      {
+        "id": 149,
+        "name": "Would stay again",
+        "commentCount": 85,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 85,
+        "type": 1
+      },
+      {
+        "id": 95,
+        "name": "Close to train station",
+        "commentCount": 77,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 62,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 35,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 1084
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 1075
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 9
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 183
+      }
+    ],
+    "totalCount": 853,
+    "repeatCommentCount": 231,
+    "commentList": [
+      {
+        "id": 490535100,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "RDrVzk49otb7rwu2ghJOWuD1o85ABWIiPXWKgvxG+QQHR6WKZjgqKg==_review_490535100",
+        "canMarkUseful": true,
+        "checkInDate": "2020-11-01 23:59:00",
+        "content": "不錯       ",
+        "createDate": "2021-04-06 09:39:56",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的貴賓，您好，感謝您對我們工作的支持和肯定，咱們酒店七點到十點有自助中西自助早餐，非常豐富美味，還有自煮小混沌和各種北京小吃，酒店裡還有免費洗衣房和停車場，距離朝陽火車站僅800米，非常方便，酒店熱烈期待貴賓的再次光臨！",
+            "translateContent": "",
+            "securityKey": "FftPi0OUantnI7x6+vRpizLhukhoDnQswPgyKtswCUQHR6WKZjgqKg==_review_500940996"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 6,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 496492797,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "AEg6RQrIh9l0+Gj8Q5yJ4hYwamSVnx+eQ3D544oXBKkHR6WKZjgqKg==_review_496492797",
+        "canMarkUseful": true,
+        "checkInDate": "2021-05-01 23:59:00",
+        "content": "感覺還不錯",
+        "createDate": "2021-05-05 13:25:37",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Family Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，感謝對酒店的認可，酒店距離新開通的北京朝陽站火車站距離非常近，步行過去衹需要8分鐘，門口交通也非常便利，出門吃美食地方也很多，酒店是漢庭2.7版本漢庭新品，早餐非常豐盛，有自助免費洗衣房，期待您下次入住哦",
+            "translateContent": "",
+            "securityKey": "My5i0Ck0u9dRqAFlaCSYp55/6lBA1vGekwdlp1gA+3YHR6WKZjgqKg==_review_500939750"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 489019866,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "FgnJz8i2ZxHOZgxhlrU/Z8MlomMI8UX7sNG50mLYMmw=_review_489019866",
+        "canMarkUseful": true,
+        "checkInDate": "2021-03-01 23:59:00",
+        "content": "乾淨，寬敞",
+        "createDate": "2021-03-28 12:09:17",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "您的滿意就是我們工作的最大動力，漢庭朝陽站火車站一直以最誠摯熱情的服務，帶給每一位客人賓至如歸的體驗，您的笑容是我們最好的回報，感謝您的選擇，期待與您的再次相遇，祝您生活愉快！",
+            "translateContent": "",
+            "securityKey": "S7wqfRUSFBuerQJLRsIZFO8MwSvJO5frPaZFFieJrDAHR6WKZjgqKg==_review_500941711"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 11,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703419782872+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a61163d-473172-77884"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "8e7e2f10-eb95-41a2-9f30-016dc7bf71f2"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3d52d6-473172-252261"
+      }
+    ]
+  }
+}

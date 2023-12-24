@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "nVdCTw53hyJ3LslKY52WFNNasKj4+ycAClS+s7u1CPgHR6WKZjgqKg==_review_484714777",
+        "content": "The hotel is very close to Chaoyang Railway Station, only a few minutes' walk, and it is easy to find. At the intersection of Yaojiayuan Road and Shifoying Road, there is a Dayali Hotel at the door. It is very convenient to eat nearby, and it is also very close to Chaoyang Joy City for shopping. Very cost-effective, very satisfied!"
+      },
+      {
+        "transKey": "S7wqfRUSFBuerQJLRsIZFO8MwSvJO5frPaZFFieJrDAHR6WKZjgqKg==_review_500940083",
+        "content": "Your satisfaction is the biggest motivation for our work. Hanting Chaoyang Railway Station has always provided the most sincere and enthusiastic service to bring every guest a home away from home experience. Your smile is our best reward. Thank you for your choice and look forward to it. See you again and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

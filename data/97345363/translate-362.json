@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "SjrHvEtpBSH3rIkumvMVBHbU4x8NyzX4Le4B3omTBK4HR6WKZjgqKg==_review_716270475",
+        "content": "The room was neat and clean!"
+      },
+      {
+        "transKey": "A8bs/wZ1XlpJsPh31zbCrZDYbhGyAlg+4VTB4H5I16MHR6WKZjgqKg==_review_716276083",
+        "content": "Hello, dear guests, the cat is rolling in the fallen leaves, the sunset is filling the sky, the wind is blowing my longing for you to the world that my little man loves, it’s just you, my little man who loves you."
+      }
+    ]
+  },
+  "ServerData": null
+}

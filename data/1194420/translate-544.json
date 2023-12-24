@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "V5Sm0yyTBsQNwIGWjoDTPju/n1U8lOYlQ92RVJ5LYzwHR6WKZjgqKg==_review_655566075",
+        "content": "The service is very good, very good"
+      },
+      {
+        "transKey": "Z7fcglP4xej/q6mIFQzNoLWRnrCVCF8zyaZhqiKecrY=_review_655673275",
+        "content": "Thank you for your review~ We will work hard to do better and provide you and our guests with more warm services. The hotel is strategically located and convenient for travel. It is only 10 minutes away from Chaoyang Station and the train station. It is also convenient to eat and drink around. The environment is sanitary and the room facilities are also good. All the hotel staff wish you a happy life! We look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

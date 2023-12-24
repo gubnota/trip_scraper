@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Mw92MMDvxUwQzIzME3FBr9Ve2vdJrkE4bZADy0F8wxY=_review_489808866",
+        "content": "Rich breakfast, very close to Chaoyang Railway Station, and free parking lot"
+      },
+      {
+        "transKey": "S7wqfRUSFBuerQJLRsIZFO8MwSvJO5frPaZFFieJrDAHR6WKZjgqKg==_review_500940037",
+        "content": "Your satisfaction is the biggest motivation for our work. Hanting Chaoyang Railway Station has always provided the most sincere and enthusiastic service to bring every guest a home away from home experience. Your smile is our best reward. Thank you for your choice and look forward to it. See you again and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

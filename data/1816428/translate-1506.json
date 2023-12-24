@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "i6m7yP6IIxO0Bd1MGVfQxAfC470hVt4zJ3fquA4ccZAHR6WKZjgqKg==_review_480636785",
+        "content": "This is my first time staying in Orange. The location is good and the room is clean. The overall decoration of the hotel is very beautiful, the guest supplies are good to use, and the service of the lady at the front desk is also very good. The only drawback is that the room size is a bit small."
+      },
+      {
+        "transKey": "NX7M2waW7BAzPH4t7L11XnAy0NJG/lK09Yic4TA1AosHR6WKZjgqKg==_review_480687369",
+        "content": "Hello dear guests! Thank you for staying at Orange Beijing Wukesong Hotel and sharing your stay experience with us. Our hotel is located near the West Fourth Ring Auxiliary Road and is at Wuluju Station of Metro Line 6, with convenient transportation. We are glad to see your positive recognition of our hygiene and service in your review. Before guests check in, we will conduct ward rounds, clean the rooms and change the sheets to ensure that all guest supplies are changed \"one for each guest\". Please feel free to check in. We will continue to work hard and continue to do a good job in all aspects. I believe that you will stay with us next time You will get a better stay experience. All the hotel staff look forward to your visit every time and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

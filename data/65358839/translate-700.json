@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "QF9JFweofKba494gR5t7qlVm/8LId/u9/S8XpBxL9Y8HR6WKZjgqKg==_review_657110971",
+        "content": "Warm and thoughtful service, clean and hygienic, very satisfied"
+      },
+      {
+        "transKey": "R4bYbN7BUM8EhJEtAay2mTYhIq9K+R7H+ceH2/sOmOQHR6WKZjgqKg==_review_657256329",
+        "content": "Thank you for your review. Your satisfaction is our greatest recognition. Welcome to visit us next time."
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dZtcZaX+jnBWHql757LR/mtzsNDKLvahkWiEhb4mDFkHR6WKZjgqKg==_review_486353171",
+        "content": "Rich breakfast and comfortable room. Suitable for travel, business trip and date. Recommended stay\nWill come again."
+      },
+      {
+        "transKey": "n9LnalI+4W6nPEM8kXhy3tNIhww3knnE02N641mOdzEHR6WKZjgqKg==_review_486383569",
+        "content": "Dear guest, hello! Thank you for your stay. We are glad that you have such a positive review of our hotel. While we strive to create a first-class living environment for our guests, we also need to provide guests with considerate services. Your recognition and affirmation are the basis for the survival and development of our hotel. We hope to serve you again and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "acpzPDjDUQidW5W3Z8cmUSPkvNwlXJTllPVlT7J2vyIHR6WKZjgqKg==_review_956426923",
+        "content": "very good. The receptionist's service was very good"
+      },
+      {
+        "transKey": "Syn9rUS69ykxV4qVfY3h9fqAXzDtItcIGItf6KNP9kAHR6WKZjgqKg==_review_956670905",
+        "content": "Dear guest, thank you very much for your five-point praise. Your praise is our goal and motivation for moving forward. We look forward to your next visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

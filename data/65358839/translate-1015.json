@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "8ONnRmmzt4XHslOZ2/nYbuF4A/H+PuxodxzPZ0xzW90HR6WKZjgqKg==_review_568565115",
+        "content": "This bed is too small"
+      },
+      {
+        "transKey": "ONZjXUGoaUUaxRq/HcW+wOaa7ky/7GE05UDF1Ot0jwgHR6WKZjgqKg==_review_570052470",
+        "content": "Thank you for your review. Xiao Ji is deeply sorry that we did not get a 5-point praise from the guest reviewer. Next time you come, you can choose the zero-pressure superior king bed room in the store ~ ​​Xiao Ji looks forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

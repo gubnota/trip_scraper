@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "oQK3xGMQ57d/yU09QbfQJpvtjE0+pNdE+EO3xNACIa0HR6WKZjgqKg==_review_902561261",
+        "content": "Facilities: The facilities are very complete and smart. You can turn on the lights and TV by calling Xiaodu. There is also a food delivery robot, which is very convenient.\nHygiene: clean and tidy\nEnvironment: The surrounding environment is very good\nService: The service attitude is very good and very considerate."
+      },
+      {
+        "transKey": "6o7SGOgEH4RZyEJ+n52sFlspU/IAFieXP8zz3Q53JQsHR6WKZjgqKg==_review_903224327",
+        "content": "Your compliment is better than the sunshine, and your affirmation is better than the blooming flowers. We look forward to your stay again."
+      }
+    ]
+  },
+  "ServerData": null
+}

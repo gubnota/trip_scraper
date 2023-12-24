@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "ekps3wV78gw9DQWi23iFqkET6idJPBqIwPod2RTbxl4HR6WKZjgqKg==_review_502213224",
+        "content": "There is a parking lot, which is very convenient!"
+      },
+      {
+        "transKey": "HYLAMLbLegU4xu08XCNzNnV6p4t87/HPJsj2U5aqt0AHR6WKZjgqKg==_review_502223830",
+        "content": "Dear guests: Hello! Thank you for your 5-point review! Every city always has its reasons for people to miss it, every season has its scenery that we can’t leave behind, and every hotel has its sweet and warm memories. I hope Xiaoji will be the warmest and most unique one in your memories. ! Wish you: be well!"
+      }
+    ]
+  },
+  "ServerData": null
+}

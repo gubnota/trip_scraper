@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "8TvFTgY4rtGM7N5cFZgT11b00dTV5IBZpWi20kGiEU8HR6WKZjgqKg==_review_774922755",
+        "content": "Very satisfied with the stay"
+      },
+      {
+        "transKey": "/VbYP9zXcx1b2tn+kUS1sGpBdppFew4us9jPmBp5gQcHR6WKZjgqKg==_review_775207899",
+        "content": "Xiao Ji is willing to give everything to you, just to make you smile"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "DU/7cNhVw2pgYXMLBgVOrR8rjobTsbm1NEz+8NWaa8kHR6WKZjgqKg==_review_764256071",
+        "content": "Overall, I'm quite satisfied. The room is clean and the service attitude is very good. I will consider staying there in the future when traveling on business."
+      },
+      {
+        "transKey": "dxCp2nwXOgJoqWaSxwpoxCzIsP4wLjwPzJAyh9i1r2YHR6WKZjgqKg==_review_764398747",
+        "content": "Concise words outline the standards of All Seasons. What we pursue is to satisfy every customer. All the All Seasons family members wish you happiness!"
+      }
+    ]
+  },
+  "ServerData": null
+}

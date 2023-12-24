@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "gCXKk1rDoAbM0EEjEpoMDj91WUWf5RbMdPPbt8E4kXoHR6WKZjgqKg==_review_505913434",
+        "content": "The breakfast is very rich and feels good"
+      },
+      {
+        "transKey": "eJNzkT7slHYP+DqFL6KzyY0d4jO7Ry9CpDIsSwrgWBUHR6WKZjgqKg==_review_505917298",
+        "content": "Dear guest, thank you for choosing Orange Beijing Wukesong Hotel among many hotels. Thank you very much for your review and support. The hotel's breakfast time is from 7:00 to 11:00. The Chinese and Western buffet breakfast is diverse and nutritious. , freshly cooked noodles, hot soup noodles and small pastries will satisfy your special delicacies without leaving home. The hotel's considerate service and a cup of hot tea will make you feel at home. The room you stay in has the most trustworthy The cleaning aunt provides attentive service like a housekeeper and looks forward to your visit. General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

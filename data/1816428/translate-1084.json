@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "cx0uZQLkOSNWtZrAyEx9UX/F2iBoWmV6rlK79+d6HPoHR6WKZjgqKg==_review_500053977",
+        "content": "The mattress in the hotel is very comfortable, the windows are soundproofed, and I slept well. The takeout is delivered to the room by a robot, which is really convenient. There are plenty of parking spaces in the yard where high-end cars are sold! Free parking, available for check-in"
+      },
+      {
+        "transKey": "m2LEk6B9hoUzI4hCmnecIkdPN14uYHRmhCBAWJ8eO0IHR6WKZjgqKg==_review_500119635",
+        "content": "Hello dear guest! Thank you for choosing to stay at Orange Beijing Wukesong Hotel and recognizing the hotel's environment and services. The room is equipped with double-glazed glass to provide you with a comfortable and quiet space. Your satisfaction is the driving force for our progress. The Orange brand is one of the most comfortable hotels in Huazhu. Brand, we attach great importance to the stay experience of all guests, and we are extremely honored that you are happy to stay! The hotel is being disinfected and cleaned every day, and the hotel has also strengthened its intelligent \"contactless\" service. During your stay, items required will be delivered to the room by a robot, ensuring that the robot will be disinfected again after each use, ensuring your travel safety. Escorting and protecting the \"peace of mind\" and \"safety\" of every guest is our consistent and important mission! Looking forward to your next stay! Thanks! General Manager: Zhang Xiangyun"
+      }
+    ]
+  },
+  "ServerData": null
+}

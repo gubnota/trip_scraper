@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "1dDRBo6xbO3KWTXrgxmeVbYHz3saSEawk26Kmgyc0g0HR6WKZjgqKg==_review_498753753",
+        "content": "It's just so-so. It's a bit different from the photos online."
+      },
+      {
+        "transKey": "havka8kDzpOMiteF/0ax1iJWPbFNXO3FnL4r/Yntr+kHR6WKZjgqKg==_review_498764169",
+        "content": "First of all, thank you for your stay. Your expectations may not be met during your stay, but we will work hard to improve the overall product. If you are not satisfied with anything during your stay, you can contact us at any time and we will try our best to help you solve it. . I hope you can see our efforts and progress and look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

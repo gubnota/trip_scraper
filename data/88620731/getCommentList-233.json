@@ -1,0 +1,377 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 52,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 38,
+        "type": 1
+      },
+      {
+        "id": 32,
+        "name": "Great amenities",
+        "commentCount": 29,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 23,
+        "type": 1
+      },
+      {
+        "id": 53,
+        "name": "Many amenities",
+        "commentCount": 15,
+        "type": 1
+      },
+      {
+        "id": 149,
+        "name": "Would stay again",
+        "commentCount": 13,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 6,
+        "type": 1
+      },
+      {
+        "id": 79,
+        "name": "Convenient public transportation",
+        "commentCount": 6,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 344
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 341
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 3
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 70
+      }
+    ],
+    "totalCount": 258,
+    "repeatCommentCount": 86,
+    "commentList": [
+      {
+        "id": 628077753,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "jlsQ+q9xOFUBez+FfCiZjP9oADN/+Z3icJgGxixv3y4HR6WKZjgqKg==_review_628077753",
+        "canMarkUseful": true,
+        "checkInDate": "2022-08-01 00:00:00",
+        "content": "房間比較乾淨",
+        "createDate": "2022-08-23 19:59:02",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Queen Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人，感謝您對我們工作的認可及肯定。 愛乾淨，住漢庭”是我們多年不變的的口號及工作內容。漢庭北京對外經貿大學酒店嚴格遵守華住集團的愛乾淨的條款，致力於為客人打造良好的酒店環境。漢庭北京對外經貿大學酒店坐落於北京北四環交通十分便利，臨近中日友好醫院，性價高。感謝您百忙之中為華住漢庭北京對外經貿大學酒店做評論。祝您諸事順利。",
+            "translateContent": "",
+            "securityKey": "EXl6ytIUXn2315kF2fQFJBbqyOcy/Jm3CgZ07xHFEn0HR6WKZjgqKg==_review_628307467"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 581928758,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "AMj+Rj7cetw2x2sruzOW3Tw48kGEcQiNiduo/u3tuhg=_review_581928758",
+        "canMarkUseful": true,
+        "checkInDate": "2022-03-01 00:00:00",
+        "content": "很乾凈，服務態度非常好",
+        "createDate": "2022-03-20 06:50:59",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Queen Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好，感謝您百忙之中為小店做評論。漢庭對外經貿大學酒店坐落於北京北四環芍葯居甲2號院1號樓，距離北京地鐵10號線、13號線芍葯居站僅有800米的距離，交通十分便利。 有自助洗衣服務，機器人送物服務。這裡是您的出差，旅遊，外出辦公的首選地點。歡迎您的再次光臨",
+            "translateContent": "",
+            "securityKey": "zabHED6IvVCHKsE7lfohrU1Qolpght5zmnLd8BU4cT0HR6WKZjgqKg==_review_581935185"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8020z000000nf03k0AE4_C_130_130_Q70.jpg",
+          "commentCount": 144,
+          "nickName": "Puti$"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 623871199,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "r16MM394P2BcukQbdLC7xZdTXhAMUUp6zNxBAY3neQcHR6WKZjgqKg==_review_623871199",
+        "canMarkUseful": true,
+        "checkInDate": "2022-08-01 00:00:00",
+        "content": "很不錯，推薦",
+        "createDate": "2022-08-15 11:37:35",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Queen Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "親！您的支持就像那一抹荼蘼花藤清脆開放在心底的聲音，讓小店的員工們有了更多的希望，更多的動力！茫茫人海，期待與您再次相遇～",
+            "translateContent": "",
+            "securityKey": "Bimj8KWfPuCAmlS32T1PqecSjztoeAySqkC7ivrVgkEHR6WKZjgqKg==_review_624157261"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 620555303,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "VsheOr+TpG3HJJbb1mhGoMD0p1ipFBqZNGaSFUC5mbUHR6WKZjgqKg==_review_620555303",
+        "canMarkUseful": true,
+        "checkInDate": "2022-08-01 00:00:00",
+        "content": "服務好，乾淨",
+        "createDate": "2022-08-08 22:02:12",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "2-bed Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好，感謝您百忙之中為小店做評論。漢庭對外經貿大學酒店坐落於北京北四環芍葯居甲2號院1號樓，距離北京地鐵10號線、13號線芍葯居站僅有800米的距離，臨近中日友好醫院，交通十分便利。 有自助洗衣服務，機器人送物服務。這裡是您的出差，旅遊，外出辦公的首選地點。歡迎您的再次光臨",
+            "translateContent": "",
+            "securityKey": "5rW7ZWtugcUza1BPO0L4eBS7AlLBc2we/YLqtYFYNx8HR6WKZjgqKg==_review_620720381"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 584258358,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "BULqxdRzd3aAe6WTwKIvG6X1h5aXD7tS8ltLfh3y3nIHR6WKZjgqKg==_review_584258358",
+        "canMarkUseful": true,
+        "checkInDate": "2022-03-01 00:00:00",
+        "content": "乾淨、衞生、舒適。",
+        "createDate": "2022-04-02 11:18:37",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Queen Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "感謝您對我們酒店及我們工作的認可。“愛乾淨，住漢庭”是我們多年不變的的口號及工作內容。服務方面，所有的工作人員都是需要嚴格的培訓才可以上崗。我代表華住漢庭北京對外經貿大學店全體員工感謝您的光臨。",
+            "translateContent": "",
+            "securityKey": "QUsttGphgPRNbyikaZkofSJbawzBIQcffGS8LhHGc5YHR6WKZjgqKg==_review_586517975"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 631989633,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "zvNRW4mi2VLieFq2+q4xeDeoeFPcEBRdFkM6poat96QHR6WKZjgqKg==_review_631989633",
+        "canMarkUseful": true,
+        "checkInDate": "2022-08-01 00:00:00",
+        "content": "服務態度好",
+        "createDate": "2022-09-02 11:21:00",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Queen Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人，感謝您對我們工作的認可及肯定。 愛乾淨，住漢庭”是我們多年不變的的口號及工作內容。漢庭北京對外經貿大學酒店嚴格遵守華住集團的愛乾淨的條款，致力於為客人打造良好的酒店環境。漢庭北京對外經貿大學酒店坐落於北京北四環交通十分便利，臨近中日友好醫院，性價高。感謝您百忙之中為華住漢庭北京對外經貿大學酒店做評論。祝您諸事順利。",
+            "translateContent": "",
+            "securityKey": "EXl6ytIUXn2315kF2fQFJBbqyOcy/Jm3CgZ07xHFEn0HR6WKZjgqKg==_review_632077707"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 3,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 583478119,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "ohGjDKgdH2ClVsYNi1nRi3ajBXfAe68caf03AgmjQPMHR6WKZjgqKg==_review_583478119",
+        "canMarkUseful": true,
+        "checkInDate": "2022-03-01 00:00:00",
+        "content": "服務環境很好",
+        "createDate": "2022-03-27 14:27:36",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好，感謝您百忙之中為小店做評論。漢庭對外經貿大學酒店坐落於北京北四環芍葯居甲2號院1號樓，距離北京地鐵10號線、13號線芍葯居站僅有800米的距離，交通十分便利。 有自助洗衣服務，機器人送物服務。這裡是您的出差，旅遊，外出辦公的首選地點。歡迎您的再次光臨",
+            "translateContent": "",
+            "securityKey": "zabHED6IvVCHKsE7lfohrU1Qolpght5zmnLd8BU4cT0HR6WKZjgqKg==_review_583900601"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 581014234,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "XXlSyFE8/ydQK5N2IhUlVTIXJAXJQ3YwrX0NIjF2GVYHR6WKZjgqKg==_review_581014234",
+        "canMarkUseful": true,
+        "checkInDate": "2022-03-01 00:00:00",
+        "content": "新裝修，乾淨",
+        "createDate": "2022-03-13 21:37:18",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 60,
+        "travelTypeText": "Booked for others",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好，感謝您百忙之中為小店做評論。漢庭對外經貿大學酒店坐落於北京北四環芍葯居甲2號院1號樓，距離北京地鐵10號線、13號線芍葯居站僅有800米的距離，交通十分便利。 有自助洗衣服務，機器人送物服務。這裡是您的出差，旅遊，外出辦公的首選地點。歡迎您的再次光臨",
+            "translateContent": "",
+            "securityKey": "zabHED6IvVCHKsE7lfohrU1Qolpght5zmnLd8BU4cT0HR6WKZjgqKg==_review_581935182"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 2,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703417425920+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a1c79f2-473171-280431"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "bf2e8084-b4b6-49e2-9335-2802d55d059d"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a71b625-473171-750416"
+      }
+    ]
+  }
+}

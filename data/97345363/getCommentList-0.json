@@ -1,0 +1,473 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 73,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 64,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 48,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 30,
+        "type": 1
+      },
+      {
+        "id": 12,
+        "name": "Well decorated",
+        "commentCount": 16,
+        "type": 1
+      },
+      {
+        "id": 15,
+        "name": "Clean bedding",
+        "commentCount": 5,
+        "type": 1
+      },
+      {
+        "id": 35,
+        "name": "Excellent TV",
+        "commentCount": 5,
+        "type": 1
+      },
+      {
+        "id": 136,
+        "name": "Great for business trips",
+        "commentCount": 3,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 431
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 425
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 6
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 97
+      }
+    ],
+    "totalCount": 365,
+    "repeatCommentCount": 66,
+    "commentList": [
+      {
+        "id": 973949653,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "Fangjiannanyi\n卫生：henhai",
+        "createDate": "2023-11-14 16:18:04",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "親親您好呀，我們要打開心內的窗，讓人間的繁花滿樹與燈火輝煌一片一片飄進您那扇明亮的窗，我們會讓您這份信任期待延續下去，愛您的漢庭呦",
+            "translateContent": "",
+            "securityKey": "A88W6KIPJynQ39bUyqKa4F1qJLOKfA9tBtN3DlFRbfAHR6WKZjgqKg==_review_973985623"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 989474551,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The environmental facilities are very new, and the hotel facilities are also complete with free laundry and buffet breakfast! Hygiene is also very clean",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "環境設施都很新，酒店配套也很齊全有免費洗衣房，自助早餐！衞生也很乾凈",
+        "createDate": "2023-12-06 09:59:19",
+        "imageList": [
+          "/0231z12000coqr3maE3AB.jpg",
+          "/0230f12000coqlojwF195.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，如果笑容有色彩，您就是五彩斑斕的。內裏晶瑩剔透，像晨間綠葉上的露珠，想用雙手去觸摸。但當您微笑時，就是那温暖的朝陽，讓人如沐春光，愛您的小漢呦",
+            "translateContent": "Dear guest, if your smile has color, you are colorful. The inside is crystal clear, like dewdrops on green leaves in the morning, I want to touch it with my hands. But when you smile, it’s the warm sunrise that makes people feel like spring. I love you, little man.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 983855835,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel is really close to the test site, and the service is very good. The decoration is very new and all the facilities are in place. I stayed very comfortable during the two days of the test.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "酒店離考點真的超級近，而且服務也特別好，裝修很新，各項設施都很到位，考試這兩天住的很舒服",
+        "createDate": "2023-11-28 14:01:25",
+        "imageList": [
+          "/0231012000cnbybum6C2B.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "親您好呀，我們要打開心內的窗，讓人間的繁花滿樹與燈火輝煌一片一片飄進您那扇明亮的窗，我們會讓您這份信任期待延續下去，愛您的漢庭呦",
+            "translateContent": "Hello dear, we want to open the window in our heart and let the flowers, trees and lights of the world float into your bright window one by one. We will let your trust and expectation continue. I love you Hanting.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 7,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 972623549,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The service is very good. There is also a small robot to deliver takeaways, which is very cute^_^. The room is also very clean!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "服務很好哎，還有小機器人來送外賣，很可愛^_^，房間也挺乾淨的！",
+        "createDate": "2023-11-12 23:49:57",
+        "imageList": [
+          "/0231512000ck8341eFA63.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "親情能照亮人的生命，是前行道路鋪滿鮮花；它是一種堅定的信念，一種執着的本能，及時身無分文，親情依然存在，您言語對我們的支持，會讓我們走的更遠，會讓我們更有動力愛您的漢庭",
+            "translateContent": "Family love can illuminate a person's life and pave the road ahead with flowers; it is a firm belief and a persistent instinct. Even if we are penniless, family love still exists. Your words of support for us will make us Going further will give us more motivation to love your Hanting",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 1,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 969807527,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 2,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "I checked in that night. At 4 o'clock in the morning, I felt itchy in parts of my body and couldn't sleep. I contacted Ctrip customer service, and then I bought medicine the next day. The hotel made no apology. The coffee table in the hotel was completely covered with dust. I touched it with my hand. It was dust (I forgot to take a picture at the time) and the bed had a musty smell. I was speechless! ! !",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "當天晚上入住，凌晨四點身體局部癢的實在是睡不着聯繫了攜程客服，然後第二天自己還買了葯，酒店方面沒有任何的歉意，酒店的茶几上面全部是灰塵，用手一摸全是灰塵（當時忘記了拍圖片）床上一股黴味，很無語！！！",
+        "createDate": "2023-11-09 00:30:06",
+        "imageList": [
+          "/0231l12000cjf02jn3860.jpg",
+          "/0236g12000cjexv1778D3.jpg",
+          "/0230c12000cjf13hj20A7.jpg",
+          "/0234812000cjeyyy6B0E9.jpg"
+        ],
+        "rating": 1,
+        "commentLevel": "",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，感謝您對酒店的點評！對於您在酒店入住期間的經歷，我們深表遺憾。您的寶貴意見對我們非常重要，我們會將意見告知相關部門以提高服務質量。若您下次至此，希望能再次預訂本酒店，給我們一個機會致歉。期待再次光臨！",
+            "translateContent": "Dear guest, thank you for your review of the hotel! We regret for your experience during your stay at the hotel. Your valuable opinion is very important to us, we will inform relevant departments to improve service quality. If you come here next time, I hope to book this hotel again and give us a chance to apologize. Looking forward to visiting again!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80g1f000001gfefzC800_C_130_130_Q70.jpg",
+          "commentCount": 6,
+          "nickName": "Dongxldongkang"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 960825017,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Environment: The environment is very good, very clean, and the surrounding environment is also very good, very quiet\nService: The service at the front desk is also very good, and the staff is also very responsible",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "環境：環境很好，很乾凈，而且周邊環境也很好，很安靜\n服務：前台的服務也很好，工作人員也很負責任",
+        "createDate": "2023-10-27 15:16:53",
+        "imageList": [
+          "/0230412000cgoi0wa973B.jpg",
+          "/0232r12000cgoawk11BFB.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，非常感謝您在百忙之中抽出時間來分享您的入住體驗，祝您發財祝您被愛 祝您好運常在.愛您的小漢呦",
+            "translateContent": "Dear guest, thank you very much for taking time out of your busy schedule to share your stay experience. I wish you fortune, I wish you are loved, and I wish you good luck. I love you, little man.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 4,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 961041775,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "This store is probably newly built, so the equipment is completely OK, and the interior of the room is basically the same as in the photos. The water is very large and the bath is very comfortable. Full-length mirrors and bathroom mirrors are great for taking photos. I ordered breakfast, which includes porridge, noodles, wontons, steamed dumplings, etc. There are quite a lot of varieties, very Chinese style. If you are full in the morning, you can go out and play until the afternoon. The only drawback is that although it is shown to be about 1.6 kilometers away from the subway station, it is very troublesome to walk. The road is very dark and I dare not walk at night. I have to take a taxi when I come back. There are two other things, which are not considered shortcomings, but I would like to make some comments here. First, when I checked in, the clerk told me that I didn't have breakfast. Later, I contacted Ctrip's customer service. They contacted me and told me that it was a backend failure. I think both Ctrip and Hanting are relatively mature systems. Then I checked out on the 26th. When cleaning on the 25th, my aunt didn't give me mineral water, towels, or slippers. I felt like I could have come and left feeling at home, but it felt a little weird to have something suddenly reduced on the 25th. When I came back on the night of the 25th and left on the 26th, I actually didn’t have enough water to drink. It felt like I was about to leave and just started to deal with it casually.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "這家店應該是新建的，所以設備完全都OK，房間內部跟照片上的基本沒有差別。水很大，洗澡很舒服。全身鏡和浴室裏麪的鏡子拍照片很好看。我定的是帶早飯的，早飯有稀飯，麪條，餛飩，蒸餃等等，種類還是比較多的，很中式，早上吃飽一點，出去玩可以撐到下午。唯一缺點是離地鐵站雖然顯示1.6公里左右，但是走路起來很麻煩，路上很黑，晚上不敢走，回來都是打車的。還有兩件事，不算缺點吧，但是想在這裏提一下意見。首先是辦入住的時候，店員跟我説我是沒有早飯的，後來又找了攜程的客服，他們倆聯繫好了，跟我説是後台故障。我覺得攜程和漢庭都是比較成熟的系統吧。然後就是我26號退房，25號阿姨打掃的時候沒有給我加礦泉水，毛巾，還有拖鞋。我覺得本來可以賓至如歸地過來和離開，但是25號突然減了東西，感覺有一點奇怪。25號晚上回來到26號走的時候，我水其實是不夠喝的。好像是要走了就開始隨便應付的感覺。",
+        "createDate": "2023-10-27 22:57:52",
+        "imageList": [
+          "/0232u12000cgrzvzyCBE0.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，非常感謝您的選擇，感謝您對我們的肯定，同時對於給您帶來不愉快的體驗，我們深感歉意，非常感謝您提出的寶貴意見，我們將繼續努力！提高酒店員工的服務意識，重視服務品質的提升，對員工加強培訓！爭取給您帶來更加舒適温馨的入住體驗。祝您生活愉快，歡迎您的下次光臨與監督！謝謝！",
+            "translateContent": "Dear guest, thank you very much for your choice, thank you for your affirmation of us, and we are deeply sorry for bringing you an unpleasant experience. Thank you very much for your valuable opinions, we will continue to work hard! Improve the service awareness of hotel employees, pay attention to the improvement of service quality, and strengthen training for employees! We strive to bring you a more comfortable and warm stay experience. I wish you a happy life and welcome your next visit and supervision! Thanks!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 7,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 953841435,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room is clean and tidy, and the service is friendly. Especially the hotel is equipped with a washing machine and dryer, which brings a lot of convenience to the guests. There are also special items: drop-off service, very down-to-earth, and a good breakfast, which left us with a wonderful stay. Memory, thumbs up for you! I will stay here again next time I come to Beijing.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "房間乾淨整潔，服務熱情，尤其是酒店配備了洗衣機和烘乾機，給住客帶來了很多方便，還有特色項目：送站服務，非常接地氣，早餐吃好，給我們留下來了美好記憶，為你們點贊！下次來北京還會入住這裏。",
+        "createDate": "2023-10-18 08:59:48",
+        "imageList": [
+          "/0232q12000cerw1cz9D99.jpg",
+          "/0236x12000ceruoraCFD1.jpg",
+          "/0232612000cervjq247E9.jpg",
+          "/0235c12000cerxej6D934.jpg",
+          "/0230212000cersycdF70E.jpg",
+          "/0235h12000cervwxz6287.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "在這個陽光細碎而又悠長的午後，飲一杯淺淡的清茶，聽着一段治癒音樂，看着遠處的風景，淡淡的温柔與舒靜的情懷在心間縈繞，希望您的每一個午後都如此寧靜而又素靜。愛您的漢庭",
+            "translateContent": "In this sunny and long afternoon, drink a cup of light tea, listen to a piece of healing music, and look at the distant scenery. A touch of gentleness and tranquility linger in your heart. I hope that every afternoon of yours will be like this. Peaceful and quiet. Love your Hanting",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 15,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 931715051,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Opened by a fellow villager 🤭, the boss is very nice. The environment is also very good and very clean. The pick-up and drop-off from the subway was very timely and the children liked it very much.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-08-01 00:00:00",
+        "content": "老鄉開的🤭，老闆人特別好。環境也特別好，很乾凈。接送地鐵很及時，孩子很喜歡",
+        "createDate": "2023-09-21 11:04:36",
+        "imageList": [
+          "/0232z12000c77hmw487BA.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，非常感謝您在百忙之中抽出時間來分享您的入住體驗，祝您發財祝您被愛 祝您好運常在.愛您的小漢呦",
+            "translateContent": "Dear guest, thank you very much for taking time out of your busy schedule to share your stay experience. I wish you fortune, I wish you are loved, and I wish you good luck. I love you, little man.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 869605495,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The interior of the hotel is very new, and the rooms are spacious enough for one large and one small, and there is a washing machine and dryer. The hotel is a bit far from the subway station, but we told the front desk that they would immediately arrange a car to pick us up from the subway station. We would like to express special praise to the driver who left the hotel. The car took us to the subway entrance and took our suitcases to the subway stairs. The hotel is surrounded by a residential area, which is very quiet. There are no restaurants or other businesses, but the nearby takeout is delicious and affordable. The hotel has a robot that delivers takeout to the room, and the children like it very much. The only problem is the breakfast. When I placed the order, it showed one breakfast per day, and children had free breakfast. I thought there was breakfast for adults and children every day, but I was told that there was only one person per head. Overall, the hotel is very cost-effective and is recommended.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "酒店內部環境很新，房間空間一大一小也夠用，有洗衣機烘乾機。酒店距離地鐵站有點距離，但是跟前台説會立馬安排小車接送地鐵站，特別表揚下離店司機，小車將我們送到地鐵口還將行李箱給送到地鐵樓梯下了。酒店周邊是住宅小區，很安靜，沒有餐館等做生意的，但是附近外賣口味好價格實惠，酒店有機器人送外賣到房間，小孩很喜歡。唯一有點問題的是早餐，下單顯示每天一份早餐，然後小孩是免費早餐的，我以為每天是一大一小都有早餐，結果告訴按人頭衹有一個人。整體來説，酒店性價比很高，推薦入住。",
+        "createDate": "2023-07-19 16:20:53",
+        "imageList": [
+          "/0236y12000bp1mlzu34B5.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "親愛的家人，這眼能所見的，耳能聽聞的，不是肩上梅枝，不是山中細雨，不是苦酒山河，而是您，愛您的小漢呦",
+            "translateContent": "Dear family, what you can see with your eyes and hear with your ears is not the plum branches on your shoulders, the drizzle in the mountains, or the mountains and rivers of bitter wine, but you, the little man who loves you",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703418591447+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a1c79f2-473171-461399"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "df135330-97ac-48cc-8931-e087f1957a49"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a71b625-473171-1237116"
+      }
+    ]
+  }
+}

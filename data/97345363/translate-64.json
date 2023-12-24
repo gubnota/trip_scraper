@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "B5+qzohpv7ESsJN1m+W67U00ddlxBeQUBC1Jx8HM6LgHR6WKZjgqKg==_review_647387071",
+        "content": "The room is clean and the facilities are new. The breakfast was good and delicious. The food was fresh and the fruits were delicious. The front desk service is really great, very professional and proactive. Very satisfied"
+      },
+      {
+        "transKey": "uqtWAhlXBESGQg3jtZSNpBTX+wH0McOxSuxJadeY4xcHR6WKZjgqKg==_review_647387635",
+        "content": "Dear guest, thank you for taking time out of your busy schedule to share your stay experience. You are a little man with a gentleness that is concealed by your publicity. I love you."
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Cx/40UTReIoXDbbnOYmB00GUbUGYFdIxQzU1zo3dWOE=_review_475920644",
+        "content": "The front desk service is very good, the breakfast is quite rich, and you can park for free. There is a washing machine and dryer on the first floor. Recommended"
+      },
+      {
+        "transKey": "FFjg5wBd4arSiBcdFceqyNrg0loR8eijq//pr2oIPUwHR6WKZjgqKg==_review_475999239",
+        "content": "Dear guest, thank you for staying at Beijing Chaoyang Park Qiaodong Branch and giving us a favorable review. The hotel belongs to the Hanting 2.7 version. The products are very new, clean and hygienic, and very convenient. The breakfast is a central buffet with rich and delicious styles. There is also free parking and Laundry room, I hope this hotel can become your first choice in Beijing, and we sincerely look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

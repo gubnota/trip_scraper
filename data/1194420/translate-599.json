@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "3kaqD6YNUZtseZU1cfkR0i4RWQNYZ/3hzhsGdb7q3VMHR6WKZjgqKg==_review_534392271",
+        "content": "The hotel service is very good, parking is very convenient, and measures for disinfection and temperature measurement during the epidemic are in place. Recommended stay"
+      },
+      {
+        "transKey": "vVT2Q7IPz7wcrQFqc1mA5ZOo/nFcLs/XkEwYdI35mgwHR6WKZjgqKg==_review_534417767",
+        "content": "Thank you very much for your support of the hotel. There are currently several train stations in Chaoyang District called Chaoyang Station, so when you search, you can search for it by writing Chaoyang Station Train Station. The hotel's sound insulation effect is quite good, with glass and sound insulation strips. During the upgrade, the double-layered room was replaced. Considering the number of people staying in the room, we will place 4 bottles of mineral water in the kettle in the mineral water family room. Please feel free to check in."
+      }
+    ]
+  },
+  "ServerData": null
+}

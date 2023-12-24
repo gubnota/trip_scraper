@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "MTFm9pw1VKRKKN2KDphrsCUk7jW4zeYL6q8qN6eej+0HR6WKZjgqKg==_review_536215355",
+        "content": "Hotel front desk service is good and breakfast is rich"
+      },
+      {
+        "transKey": "Og9SpISRIECr9+Lnj4smZMvEuou+yAmPMMXMnqmu2oQHR6WKZjgqKg==_review_536257889",
+        "content": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel. The hotel is located in the business district. This location provides guests with great convenience for eating, accommodation, travel, entertainment and shopping. I am very happy to see your recognition of the hotel staff’s service and your contribution to the hotel. Your pleasant stay is a great encouragement to us. The hotel's breakfast time is from 7:00 to 11:00. The Chinese and Western buffet breakfast has a variety of varieties, is nutritious and delicious, freshly cooked noodles, hot soup noodles and small pastries to satisfy your special delicacies without leaving home. The hotel's attentive service, a cup Hot tea will make you feel at home. The room you are staying in has a cleaning lady who is most worthy of your trust and provides attentive butler-like service. We look forward to your visit. General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

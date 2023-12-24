@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "rbFw7DBGENauQ7GTkfG8rSt1jbbEcHM3e7jl5EO3D8IHR6WKZjgqKg==_review_981710037",
+        "content": "The room was clean and tidy and the service was good"
+      },
+      {
+        "transKey": "+WqeDlLc9GRyEcCePVVFbPrj62w38ULNQxrDGLPqPUcHR6WKZjgqKg==_review_981997313",
+        "content": "Thank you for your review, Xiao Ji will work harder and look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

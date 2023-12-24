@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "yQ1WYtBvZ/d4KngT2gh8QbGmB81p3ODznOPaO2GBcG4HR6WKZjgqKg==_review_655857273",
+        "content": "The front desk service is very good, the room facilities are well-equipped, the subway station is 10 minutes away, transportation is convenient, parking is convenient, free parking spaces, and the environment is good."
+      },
+      {
+        "transKey": "A8bs/wZ1XlpJsPh31zbCrZDYbhGyAlg+4VTB4H5I16MHR6WKZjgqKg==_review_656521809",
+        "content": "Hello, dear guests, the cat is rolling in the fallen leaves, the sunset is filling the sky, the wind is blowing my longing for you to the world that my little man loves, it’s just you, my little man who loves you."
+      }
+    ]
+  },
+  "ServerData": null
+}

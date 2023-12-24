@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "f44BFwCQ0CA9GLgOPqsfE+r3TE7uHFXWLhifMNoDvzsHR6WKZjgqKg==_review_858375377",
+        "content": "The main reason is that the air conditioner is too noisy and there is no air conditioner in the lobby corridor. The room is a bit small. When I renewed my room after staying for three days, the price increased by 30%. The experience was very bad. I just changed to another hotel."
+      },
+      {
+        "transKey": "nv9dBO+C9P7WPE2lGAeKuvra490tC/lDhAsSeU/InzcHR6WKZjgqKg==_review_859626875",
+        "content": "Dear guest, the hotel has given positive feedback on the situation you reported, and the store has conducted self-examination and rectification. We will take your questions very seriously and look forward to your next visit."
+      }
+    ]
+  },
+  "ServerData": null
+}

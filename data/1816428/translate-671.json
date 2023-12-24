@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "COhltGsXk677NnO+zLcgJSvZS/hYatSMb/jS0oWU18MHR6WKZjgqKg==_review_804027749",
+        "content": "The service is very good, the breakfast is also good, but the room is a bit small"
+      },
+      {
+        "transKey": "wJeEDeB69Mu7S9k9awwYR0CwzRzL3yKbAMuZMNZcyh8HR6WKZjgqKg==_review_804317051",
+        "content": "Hello dear guests! Thank you for staying at Orange Beijing Wukesong Hotel and sharing your stay experience with us. It is our greatest affirmation to receive your recognition and praise, including the warm hospitality of the front desk staff, the meticulous cleaning of the guest rooms, and the buffet provided in the restaurant. Breakfast is a combination of Chinese and Western styles, with various varieties. We also specialize in Wuchang rice porridge cooked with pure water, freshly baked fragrant and glutinous croissants, and the most popular egg tarts. We look forward to your tasting. Thank you again for your stay. Definitely, I sincerely look forward to your visit again and wish you a happy life! Manager: Zhang Lijuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Mknr9hwQAbOlyJlhqONyJZ1Bqez0BkSz9YwiLHnVe6MHR6WKZjgqKg==_review_478073748",
+        "content": "The front desk service was great. We had our temperature taken when we entered the door. We didn't know how to scan the code and they patiently helped us. We also provided free masks and disinfection supplies. The room was also disinfected and very clean. The hotel lobby also smells of coffee. Recommended for everyone to stay."
+      },
+      {
+        "transKey": "342X75DeijwuKSKkIO9jMStfgSzvOyd6KrwPjeEZQxIHR6WKZjgqKg==_review_481438639",
+        "content": "Dear guest, thank you for staying at Beijing Chaoyang Park Qiaodong Branch and giving us a favorable review. The hotel belongs to the Hanting 2.7 version. The products are very new and clean. It is also very close to Chaoyang Joy City, where you can shop and eat. The hotel also has Free parking lot and laundry room. I hope this hotel can become your first choice in Beijing. We sincerely look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

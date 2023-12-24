@@ -1,0 +1,474 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 94,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 71,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 41,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 32,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 30,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 22,
+        "type": 1
+      },
+      {
+        "id": 136,
+        "name": "Great for business trips",
+        "commentCount": 15,
+        "type": 1
+      },
+      {
+        "id": 96,
+        "name": "Close to metro",
+        "commentCount": 10,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 680
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 669
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 11
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 135
+      }
+    ],
+    "totalCount": 539,
+    "repeatCommentCount": 141,
+    "commentList": [
+      {
+        "id": 876323697,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "pcERYNHn2pQVn02m95bhK9/ShY2eUuNODDzEF9lKGwgHR6WKZjgqKg==_review_876323697",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "房間乾淨整潔，前台小姐姐十分熱情，送了入住水果小點心等，超級滿意😇",
+        "createDate": "2023-07-26 20:24:02",
+        "imageList": [
+          "/0231z12000br7gdg881AF.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "感謝您的點評，小季會更加努力的，期待您再次光臨哦！",
+            "translateContent": "",
+            "securityKey": "+WqeDlLc9GRyEcCePVVFbPrj62w38ULNQxrDGLPqPUcHR6WKZjgqKg==_review_876576685"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 859907301,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "8fXeXWDgzW+FYtLQE9t8UI2hRHCqR6JtUXY/9oSvJxYHR6WKZjgqKg==_review_859907301",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "前台服務態度很好!房間很乾凈舒適，因為有考試，還給延遲退房時間，整體都是推薦的。",
+        "createDate": "2023-07-08 15:48:18",
+        "imageList": [
+          "/0231p12000bltzfglE12A.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "",
+            "securityKey": "iZiFR1LsUzDHwtHC0d4rdDtp72RSoVP+bWNM47/BCPMHR6WKZjgqKg==_review_860330469"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 764290469,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "Fpp97Go9cM44Z30KCahyyF+8e30moLayRw3/A4eGq2gHR6WKZjgqKg==_review_764290469",
+        "canMarkUseful": true,
+        "checkInDate": "2023-03-01 00:00:00",
+        "content": "酒店乾淨衞生，設施設備也很棒，點外賣有機器人送上樓，很智能化，都不用去前台。辦理入住時也有自助機器人辦理，房間的設施也很棒，電視超級大，可以投屏，看着很舒服呢。酒店的工作人員很熱情，也很負責。位置便利，臨近地鐵，性價比很好。",
+        "createDate": "2023-04-03 19:57:04",
+        "imageList": [
+          "/0232s12000auhy0ag034A.jpg",
+          "/0233012000auhtj535B78.jpg",
+          "/0231512000auhtln9D886.jpg",
+          "/0234612000auhwuj8663F.jpg"
+        ],
+        "rating": 4.7,
+        "commentLevel": "Amazing",
+        "roomTypeName": "Memory Foam Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "衹要您喜歡，對於小季來説就是最大的滿足了，還期待小季有您的多多支持哦～",
+            "translateContent": "",
+            "securityKey": "rPh+gLrey4djgXkiqNLKEHXXlb6kXoDcodGCpH7bpAYHR6WKZjgqKg==_review_764398797"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8030v000000jkq8j46C9_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 759032791,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "9DEFsbwKYdgO7m8zpP3Jslbj/3GKbDkGgw2Fs1HCeHk=_review_759032791",
+        "canMarkUseful": true,
+        "checkInDate": "2023-03-01 00:00:00",
+        "content": "房間裏面自帶8瓶礦泉水，，如果不夠還可以免費增加水，吹風機是感應的，客房服務員很熱情，很周到，打掃的很細緻，房間滿意，燈光明亮，整體衞生很好.酒店位置也很好，停車是免費。出行方便。",
+        "createDate": "2023-03-27 10:29:31",
+        "imageList": [
+          "/0235812000atbij4g3357.jpg",
+          "/0234512000atbp7zs3D0A.jpg",
+          "/0232u12000atbqdjzF3D9.jpg",
+          "/0230n12000atbhpm3FBBE.jpg",
+          "/0231x12000atbd5n28473.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Memory Foam Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "冷暖不重要，重要的是心情常好，聚散不重要，重要的是情誼長存，你一直在，小季一直愛。",
+            "translateContent": "",
+            "securityKey": "XpirmHiwgtOB3kaKYG/Ji2AP31M3OaospBhXjc7Trt8HR6WKZjgqKg==_review_759504425"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 834943813,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "Sz2lC+ZfWKLaVFQRJfbVjERBDnJ/bb2GQyMl6YT0yxkHR6WKZjgqKg==_review_834943813",
+        "canMarkUseful": true,
+        "checkInDate": "2023-06-01 00:00:00",
+        "content": "房間乾淨整潔，小姐姐服務非常好！\n設施：好\n衞生：好\n環境：好\n服務：好",
+        "createDate": "2023-06-20 21:29:15",
+        "imageList": [
+          "/0234o12000bgjv7ja6AC6.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "一句肯定的話語，一個淺淺的微笑，都是對小季工作莫大的肯定，小季追求做到更好",
+            "translateContent": "",
+            "securityKey": "zU+NmSm7PM2ZyOGQyI6+ExtTIL9ZPnM0I+ftG3Tcn7UHR6WKZjgqKg==_review_835175661"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 901002201,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "7Nn2UfAs1EwpRYyhs1gFXYsL936CeS9VsTYP8mJvzKQHR6WKZjgqKg==_review_901002201",
+        "canMarkUseful": true,
+        "checkInDate": "2023-08-01 00:00:00",
+        "content": "入住體驗非常好",
+        "createDate": "2023-08-17 11:54:46",
+        "imageList": [
+          "/0235i12000bxklz372F58.jpg",
+          "/0231n12000bxkloijBE5E.jpg",
+          "/0236312000bxkgi72E696.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "",
+            "securityKey": "iZiFR1LsUzDHwtHC0d4rdDtp72RSoVP+bWNM47/BCPMHR6WKZjgqKg==_review_901281609"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8050v000000jnn3hF304_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 824331023,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "kI/pHYbnwAqIiw5uDikrdVUO42PuO55e321nBZe53gIHR6WKZjgqKg==_review_824331023",
+        "canMarkUseful": true,
+        "checkInDate": "2023-06-01 00:00:00",
+        "content": "酒店環境很好 設施齊全 房間乾淨  前台服務相當到位也很迅速 非常不錯的入住體驗",
+        "createDate": "2023-06-06 16:37:38",
+        "imageList": [
+          "/0236f2224vcamujk0BAEF.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "感謝您的點評，小季會更加努力的，期待您再次光臨哦！",
+            "translateContent": "",
+            "securityKey": "+WqeDlLc9GRyEcCePVVFbPrj62w38ULNQxrDGLPqPUcHR6WKZjgqKg==_review_824496385"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8050v000000jnn3hF304_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Helenama521"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 829501319,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "7oeN2FJbF05QiaisvLloNl20CMZFSmlAMlbd0rvpI28HR6WKZjgqKg==_review_829501319",
+        "canMarkUseful": true,
+        "checkInDate": "2023-06-01 00:00:00",
+        "content": "來這邊出差，地段好，外賣可以機器人服務，工作人員也很熱情～很好的體驗",
+        "createDate": "2023-06-13 18:35:27",
+        "imageList": [
+          "/0235p12000bepu5di1C5D.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "一句肯定的話語，一個淺淺的微笑，都是對小季工作莫大的肯定，小季追求做到更好.",
+            "translateContent": "",
+            "securityKey": "rMYuUsn+YgTvwSoT9BWafYm9l6oOewgnblip0Azvn00HR6WKZjgqKg==_review_829640671"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 839866299,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "vdmRBcImrbKa8jn1pM4BVyo85zMezAGcDnraRtQeSHIHR6WKZjgqKg==_review_839866299",
+        "canMarkUseful": true,
+        "checkInDate": "2023-06-01 00:00:00",
+        "content": "房間乾淨衞生，機器人送物非常房產，前台服務態度熱情。",
+        "createDate": "2023-06-26 15:17:31",
+        "imageList": [
+          "/0234l12000bi5z2cuEAC7.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "",
+            "securityKey": "iZiFR1LsUzDHwtHC0d4rdDtp72RSoVP+bWNM47/BCPMHR6WKZjgqKg==_review_840015535"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 753227017,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "9dNmshkvjPdYJIjnZAuDlkOOzZ7ooBwnwh+exk7gR6AHR6WKZjgqKg==_review_753227017",
+        "canMarkUseful": true,
+        "checkInDate": "2023-03-01 00:00:00",
+        "content": "地理位置還算比較便利，去周邊大學辦事很方便。免費幫忙升級了房間，雖然臨街，但是比較安靜，空間安排得剛剛好，點心及牛奶很貼心。總之，是一次舒適的體驗，推薦！",
+        "createDate": "2023-03-18 23:19:51",
+        "imageList": [
+          "/0236y12000ascclgy5F26.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "時光正好，微風不燥，感謝老朋友的支持，小季願陪您度過漫長歲月。",
+            "translateContent": "",
+            "securityKey": "3CewQCL4Q1pPJ4dRPxSlu0xTxNPATf+JBMhRHePcfnwHR6WKZjgqKg==_review_753417785"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8050v000000jnn3hF304_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703420396461+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a28189b-473172-192223"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "bf7081ad-40fe-4a2d-94d5-de69b87b3b82"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a70c340-473172-506896"
+      }
+    ]
+  }
+}

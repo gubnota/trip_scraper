@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "kq313lwBcduGui1rF3VyK1ceeqUgaL8agIxGc/SSRGMHR6WKZjgqKg==_review_981767335",
+        "content": "There is free parking space, complete facilities in the room, good hygiene, and free drinks."
+      },
+      {
+        "transKey": "+WqeDlLc9GRyEcCePVVFbPrj62w38ULNQxrDGLPqPUcHR6WKZjgqKg==_review_981997279",
+        "content": "Thank you for your review, Xiao Ji will work harder and look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

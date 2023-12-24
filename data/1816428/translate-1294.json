@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "mk8euRt9HQjLkNX76D84+Juq1KuHBGGWwnSPQIv44a0HR6WKZjgqKg==_review_828812151",
+        "content": "The room is too small"
+      },
+      {
+        "transKey": "leqrZWK7zneKrI8sIYYg7IIRUFN/CK9RzsGwRV8mvGA=_review_829037461",
+        "content": "Dear guest, thank you for choosing to stay at Orange Beijing Wukesong Hotel and leaving your review. Your satisfaction is our constant pursuit. Compared with newly opened stores, there is indeed a certain gap in the hotel's environment, but although the hotel is small, It is fully equipped and the facilities in the hotel room can meet your daily needs outside. This year the hotel has newly renovated a self-service laundry room on the first floor. We provide you with 24-hour worry-free self-service free laundry service. We are constantly improving to provide you with better services. For a comfortable and convenient check-in experience, all the hotel staff look forward to your every visit and wish you safety and success! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

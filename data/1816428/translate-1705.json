@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "M4z1nVUVXkk5WRE3mmpZlUk4bbMTME0uxSxmuK7b0egHR6WKZjgqKg==_review_480723005",
+        "content": "The manager sent fruits and snacks and helped choose breakfast. He was very enthusiastic and the room was very clean."
+      },
+      {
+        "transKey": "5W7E5NcpRioSFLO+1dH4/VFhP0qB/81zWp3KB7+bPr8HR6WKZjgqKg==_review_480767037",
+        "content": "Hello dear guest! Thank you for your recognition of the service attitude of our friends at Orange Beijing Wukesong Hotel. Your encouragement is very important. If life is a journey, we are willing to be your warmest stop. If meeting is a ballad, we are willing to be your wisp. Happy note, I want you to write down your mood in notes. Friends, I look forward to meeting you next time."
+      }
+    ]
+  },
+  "ServerData": null
+}

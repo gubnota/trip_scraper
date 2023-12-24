@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "bmcSNYKFdf5jF6+r1FNPd+/yalXgnFSZbuSvK5zzwlQHR6WKZjgqKg==_review_487500636",
+        "content": "I came here after being recommended by a friend. The hotel is very nice. I was very satisfied with my stay. The staff is very friendly. It is also very close to Chaoyang Joy City. It is more convenient to take a taxi at the door. I will recommend it to my colleagues when I go back."
+      },
+      {
+        "transKey": "bdmtOeFDQWGF2I7QALg0kK+84uCjSsARFcRUgj/9qLUHR6WKZjgqKg==_review_500941350",
+        "content": "Dear guests: Hello! Thank you very much for your support and recognition of the hotel. Everything we do is to bring a different holiday experience to every guest. We are really touched to see your satisfaction and affirmation. We We will continue to work hard and be ready for you to come back at any time."
+      }
+    ]
+  },
+  "ServerData": null
+}

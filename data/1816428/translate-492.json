@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "lZu948i8rUdU2nNULmVmeYalt6/IJIGbGo1NZ/FlDNUHR6WKZjgqKg==_review_968241337",
+        "content": "The price is really good in Beijing..."
+      },
+      {
+        "transKey": "jiCbl0eebIvuVws6zwpdRou4B58uEdSPQUXNckzeW5MHR6WKZjgqKg==_review_968309191",
+        "content": "Dear guest, hello, thank you for your \"full 5-star\" review. We will work hard to provide guests with a better stay environment. Orange friends are also working hard to provide the most considerate service to every family member we welcome. I would like to leave you the best stay experience. I hope you can pay more attention to Xiaoju. Xiaoju’s growth is inseparable from your support. I sincerely thank you for your review and look forward to meeting you again after Orange. I wish you a happy life! Hotel Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

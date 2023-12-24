@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "S9vZpiWJ/fv59dZi6Q/nwIx2GBtfsvPnA3AQ8AjKjBIHR6WKZjgqKg==_review_757330431",
+        "content": "Breakfast was good! Very tasty"
+      },
+      {
+        "transKey": "DQI92LR/Hij7lMSyOZE7tD01SGl8o/ZCWd1ugVL/WpUHR6WKZjgqKg==_review_757340969",
+        "content": "Thank you dear guest for your compliments on Xiaohan~ The hotel’s breakfast is mainly Chinese style, with delicious wontons and freshly cooked noodles and more delicious and nutritious breakfasts waiting for you to experience~ Looking forward to seeing you again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

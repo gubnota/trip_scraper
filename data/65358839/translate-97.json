@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "UyIotlqcqCIpKYXCp8p2WxB7bhJ0CE3vEG3DExDUYMIHR6WKZjgqKg==_review_780164801",
+        "content": "We booked this hotel for the exam. We arrived late that night but the room was still available (the front desk took the initiative to call and communicate, and it was already the last room when we arrived). Due to some problems with the water pipes, we were moved to another room the next day (upgraded). room). I booked it for five days. The front desk service was very good and the cleaning was very clean. I will consider staying here next time I come back."
+      },
+      {
+        "transKey": "4fMyOb7kB/JK4H9Z5MpVNDTQmtobzmFMj4PnE86K/d0HR6WKZjgqKg==_review_780541799",
+        "content": "Thank you for your review despite your busy schedule. We will continue to work hard to provide better service and look forward to your next stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

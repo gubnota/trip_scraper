@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "fFx6JG9MnOX38DxW3MxmGFsZWu53DiJJDT65Jx5XiIsHR6WKZjgqKg==_review_643176567",
+        "content": "The room is very clean, the floor is cleaned very carefully, the sheets and pillows are also very clean, the pillows and quilt are very soft and comfortable to sleep on, and the hotel environment is also very good! The front desk is also very professional in introducing room types and prices! The service was great!"
+      },
+      {
+        "transKey": "sGsRO1O0p4NVD/8ETOBdOHzS53f0nfPARS3xD5B2uVEHR6WKZjgqKg==_review_643177557",
+        "content": "Dear guest, thank you very much for choosing me. You are not a dim star, but the entire galaxy that encompasses the bright moon. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

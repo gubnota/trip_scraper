@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "TNQ8Um1qWIPVpx4VBA9YEh5k3uwMhu1/xMC41OcdNp8HR6WKZjgqKg==_review_762767763",
+        "content": "Not bad, but the room is a bit small. It's a bit far from the subway station, but the shuttle service is available. Overall, I'm satisfied."
+      },
+      {
+        "transKey": "b6LcJK0WxolnVJoiItc6y1D0sT7DI55Utf48hobL3bYHR6WKZjgqKg==_review_763439189",
+        "content": "Hello, dear customer, we are deeply sorry for the unpleasant experience that other stores have given you. At the same time, you are very welcome to stay in our store. We hope that this time we can eliminate the unpleasant experience that other stores have brought you. Love you, little man. Yo"
+      }
+    ]
+  },
+  "ServerData": null
+}

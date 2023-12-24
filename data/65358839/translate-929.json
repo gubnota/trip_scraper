@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "mfvH29KZuFWuTAfM/69JCsZmHL/28XMDZvV+8RFHOsgHR6WKZjgqKg==_review_564900382",
+        "content": "Good service, clean rooms, very good"
+      },
+      {
+        "transKey": "9Y9T0aO0qV3iuMq+cJ+oPYDA2v2+2ApTLHu6Vxc1Hb4HR6WKZjgqKg==_review_565258693",
+        "content": "Dear guest, have you ever felt that happiness is blooming like a flower? I hope I can give you a very comfortable, comfortable, and comfortable experience. Remember to come back next time"
+      }
+    ]
+  },
+  "ServerData": null
+}

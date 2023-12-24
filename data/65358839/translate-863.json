@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "1Pj3aDjoN3BOoROoyeb7lA6GgX6n3LE9rcs4i+XTWhQHR6WKZjgqKg==_review_562505778",
+        "content": "Very good. Good service, comfortable environment, good room service, good breakfast"
+      },
+      {
+        "transKey": "APWYY4JTRkcQD/c64GcS6rjbEOW17RGLXprMHvcD/TUHR6WKZjgqKg==_review_562747701",
+        "content": "Your language is plain yet elegant, simple and true, and every word is precious. It gives us hope and warms our hearts! Thank you for your support, guys. Roll up your sleeves and work hard tomorrow, and cheer for us!"
+      }
+    ]
+  },
+  "ServerData": null
+}

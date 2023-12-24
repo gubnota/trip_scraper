@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "7voLyRxxoxWAAmkv+w7zU6Qb4XYzd2gAUytPkPLAx8cHR6WKZjgqKg==_review_870461501",
+        "content": "The room is clean and tidy, and the front desk service is enthusiastic. They also helped to upgrade the room type. The room facilities are very new, and it is very convenient to turn off the lights and TV with small controls. The TV in the room is big, the shampoo and shower gel smells good, it’s a great stay experience!"
+      },
+      {
+        "transKey": "bkMb1FZ4cqt6pFS5XiX+fQuSqYmrB/h1p6gJSQ8sxdoHR6WKZjgqKg==_review_871401531",
+        "content": "Dear guests: Thank you for your support to us. Your satisfaction is the biggest motivation for hotel employees to move forward. With your encouragement, we will work harder to do better. Thank you for your continuous word-of-mouth communication. Thank you! Looking forward to your next visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

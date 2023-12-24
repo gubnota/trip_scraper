@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "JtvpxEG82jGgongY9YRdA9PqnSKan/ET6oPSaldWtbQHR6WKZjgqKg==_review_837953121",
+        "content": "Very satisfied with the service, very considerate, the room is also very good, I slept very comfortably"
+      },
+      {
+        "transKey": "UU4A8ObSpLysqNmnPlgwjyK5c0W0eEPUmUnjRUmc12QHR6WKZjgqKg==_review_838197663",
+        "content": "Dear guest: Thank you very much for your affirmation of our store's service. The store strictly implements the brand's service spirit and standards and provides warm, cordial and thoughtful service to guests coming from all over the world."
+      }
+    ]
+  },
+  "ServerData": null
+}

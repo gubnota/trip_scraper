@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Ln9DumJhu5TUnFSnQM4Pn+q9oAkI38MovpiALlBQweEHR6WKZjgqKg==_review_535999710",
+        "content": "Very satisfied, I will definitely stay at All Seasons every time I go on a business trip!"
+      },
+      {
+        "transKey": "bd4mQqrJc5Rg7bvXlSisx44uGLCVipUsSIfhmflttP8HR6WKZjgqKg==_review_536258612",
+        "content": "The store is the brand's latest version 4.0 product, and the guest rooms adopt Xiaodu intelligent control, smart appliances, and smart curtains. The guest room is equipped with a 65-inch LCD TV, which supports screen projection and provides a super refreshing visual experience. Looking forward to your patronage again."
+      }
+    ]
+  },
+  "ServerData": null
+}

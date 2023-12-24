@@ -1,0 +1,445 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 73,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 64,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 48,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 30,
+        "type": 1
+      },
+      {
+        "id": 12,
+        "name": "Well decorated",
+        "commentCount": 16,
+        "type": 1
+      },
+      {
+        "id": 15,
+        "name": "Clean bedding",
+        "commentCount": 5,
+        "type": 1
+      },
+      {
+        "id": 35,
+        "name": "Excellent TV",
+        "commentCount": 5,
+        "type": 1
+      },
+      {
+        "id": 136,
+        "name": "Great for business trips",
+        "commentCount": 3,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 431
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 425
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 6
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 97
+      }
+    ],
+    "totalCount": 365,
+    "repeatCommentCount": 66,
+    "commentList": [
+      {
+        "id": 650925919,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "vQxLbZ/UQNJ2jTnUhMc2SVZLkEBA5J6HumyplfhpmWsHR6WKZjgqKg==_review_650925919",
+        "canMarkUseful": true,
+        "checkInDate": "2022-09-01 00:00:00",
+        "content": "酒店乾淨 晚上很安靜 工作人員很nice",
+        "createDate": "2022-10-21 18:55:08",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，感謝您在百忙之中抽出時間來分享您的入住體驗，您是聲色張揚下小漢的欲蓋彌彰的温柔，愛您的小漢呦",
+            "translateContent": "",
+            "securityKey": "uqtWAhlXBESGQg3jtZSNpBTX+wH0McOxSuxJadeY4xcHR6WKZjgqKg==_review_650927261"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8070v000000k1tg7D66D_C_130_130_Q70.jpg",
+          "commentCount": 4,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 857396239,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "+XsdAXl5wmHwxbdlmlwDWaglzfhBHEDRssIyUr5ZOE8HR6WKZjgqKg==_review_857396239",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "一切都很滿意！",
+        "createDate": "2023-07-05 16:12:04",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，温柔的風一定能吹散所有的不愉快，愛您的小漢呦",
+            "translateContent": "",
+            "securityKey": "kgyZE42/Cvxrb5yQU3LUfTd7iQLjB68Aj/KyPtNIWwAHR6WKZjgqKg==_review_857807649"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 762171815,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "w0YqjNXqrSsvxCZoc69FiiTVG8j0Jw0VBLJkQNlWo+8HR6WKZjgqKg==_review_762171815",
+        "canMarkUseful": true,
+        "checkInDate": "2023-03-01 00:00:00",
+        "content": "服務態度好，設施健全",
+        "createDate": "2023-03-31 19:29:16",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "美好的一天從美味早餐開啟哦，漢庭早餐有現磨的豆漿和美味的炸醬麪，滿足您的味蕾，小漢義不容辭。",
+            "translateContent": "",
+            "securityKey": "eytNgemuWvBSSGehQj2ZjwegGgiS9m4jD1NmLKj+Ku4HR6WKZjgqKg==_review_762435811"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8070v000000k1tg7D66D_C_130_130_Q70.jpg",
+          "commentCount": 7,
+          "nickName": "Niuniu6580"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 640870817,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "Mfn3PKGY83wvT1LCgGjJrUp0Kq01r5n5l8fvDaY0i1gHR6WKZjgqKg==_review_640870817",
+        "canMarkUseful": true,
+        "checkInDate": "2022-09-01 00:00:00",
+        "content": "房間特別乾淨，有一股淡淡的清香早餐也很好",
+        "createDate": "2022-09-25 17:24:46",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，非常感謝您選擇，您不是暗淡渺小的星光而是囊括了明月的整個銀河，愛您的小漢呦",
+            "translateContent": "",
+            "securityKey": "sGsRO1O0p4NVD/8ETOBdOHzS53f0nfPARS3xD5B2uVEHR6WKZjgqKg==_review_640886759"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 803988883,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "58eoweJAvvtPvlNuF42UW9pBi8tP2Jcd8KuQ6PCbkfcHR6WKZjgqKg==_review_803988883",
+        "canMarkUseful": true,
+        "checkInDate": "2023-05-01 00:00:00",
+        "content": "服務好，非常滿意",
+        "createDate": "2023-05-25 17:14:19",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "親愛的家人，​山海的風林間的雲不及您眉眼，您就是最明媚的風景 ！入目無別人，四下皆是您。您追世界，我追逐你背影，愛您的小漢呦",
+            "translateContent": "",
+            "securityKey": "Jhn27gbEmw/koA3ogo6NXa9KVi/OSUGOQBwcUixyU5EHR6WKZjgqKg==_review_803998663"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 718430091,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "H7/OSFX95wRkmVBxqz9wbALkNVIGUfBoxWxzWjkb0bEHR6WKZjgqKg==_review_718430091",
+        "canMarkUseful": true,
+        "checkInDate": "2023-01-01 00:00:00",
+        "content": "非常滿意服務人員很有禮貌",
+        "createDate": "2023-01-30 11:05:57",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，希望小漢可以掃落您生命裏的塵埃。一抬頭就看見滿眼星光燦爛，愛您的小漢呦",
+            "translateContent": "",
+            "securityKey": "ioHvqi4EiPsIWqoJZQ/wZQhwd1RdNnoLHblExgzzT4IHR6WKZjgqKg==_review_718456067"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/1h63912000ah2iouh20DE_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Rain、007"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 652894789,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "BWnfF+nSmwFvTt3JJrUYOEr844SWE8auiGSoEFpMG8kHR6WKZjgqKg==_review_652894789",
+        "canMarkUseful": true,
+        "checkInDate": "2022-10-01 00:00:00",
+        "content": "非常棒，性價比很高，又乾淨，又安靜",
+        "createDate": "2022-10-27 16:31:32",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，貓咪在落葉裏打滾，晚霞鋪滿天空，風把思念吹向您小漢貪戀的人間，不過是您而已，愛您的小漢呦",
+            "translateContent": "",
+            "securityKey": "A8bs/wZ1XlpJsPh31zbCrZDYbhGyAlg+4VTB4H5I16MHR6WKZjgqKg==_review_652896469"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80q0v000000jmf90B344_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 657723331,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "ToU4I4JHu0QvoqkLY8h7babkKXMvlc2c4Tf7wEMy+ScHR6WKZjgqKg==_review_657723331",
+        "canMarkUseful": true,
+        "checkInDate": "2022-11-01 00:00:00",
+        "content": "服務超級棒 很好\n衞生打掃很乾凈",
+        "createDate": "2022-11-11 08:02:41",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，員工在上崗前，經過了嚴格的崗位培訓，所表達出的專業性也很強，能夠給您帶來優質質的住宿體驗，門店交通便利，環境優美，設備設施很新，期待您再次光臨。",
+            "translateContent": "",
+            "securityKey": "4qGjLGQ2XpaK1qMEHrPUI5HNDfrLLXW6+seNfgaRabUHR6WKZjgqKg==_review_657865949"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80s0x000000laq3oD826_C_130_130_Q70.jpg",
+          "commentCount": 5,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 933210595,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "+3+BcpaFkJfHpUr6tf7NsrRYpi7EGLjCKdPBPWF8JeQHR6WKZjgqKg==_review_933210595",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "還好還好哈",
+        "createDate": "2023-09-23 12:45:42",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，感謝您在百忙之中抽出時間來分享您的入住體驗，十里清風，萬里星河，您和他們一樣，都是小寶藏，愛您的小漢呦",
+            "translateContent": "",
+            "securityKey": "6evrp+pYZ7ZBpHUlgU1yCZ0EcfM8okk0duOX3ffKZ6EHR6WKZjgqKg==_review_933411749"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 13,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 643304663,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "MZ7XYulW6znb3y9TM1MvUzJG6cX9XAy5vBGTrgUGggUHR6WKZjgqKg==_review_643304663",
+        "canMarkUseful": true,
+        "checkInDate": "2022-09-01 00:00:00",
+        "content": "房間有點小 ，衞生乾淨 ，早餐很一般",
+        "createDate": "2022-10-01 20:16:46",
+        "imageList": [],
+        "rating": 4,
+        "commentLevel": "Very Good",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 60,
+        "travelTypeText": "Booked for others",
+        "feedbackList": [
+          {
+            "content": "短暫的相聚，匆匆的離別，留下的卻是心心想念的美好！您的評價就是我們動力的源泉！誠邀您的再次光臨！",
+            "translateContent": "",
+            "securityKey": "R7pRmeJoeax7UlnQ1gUfmQzANujO2ISzcnSMIc+lgeo=_review_643485717"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 4,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703418834131+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a7039db-473171-492210"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "cc53a65b-61e1-466d-a23d-67f3f04ce2c0"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a71b6ac-473171-1335473"
+      }
+    ]
+  }
+}

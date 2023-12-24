@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "v5OJdr3DU0AwPILG8E9lekLYt83W6eZ9ribJ8xtaARAHR6WKZjgqKg==_review_831606245",
+        "content": "The room is very clean and the service attitude is very good. Recommended"
+      },
+      {
+        "transKey": "8DXdpBZmk2Z5qTrkUQYPsVDWKe7H+KKI9ha+UY0YCkQHR6WKZjgqKg==_review_832042963",
+        "content": "Xiao Ji is willing to devote everything to you, just to make you smile."
+      }
+    ]
+  },
+  "ServerData": null
+}

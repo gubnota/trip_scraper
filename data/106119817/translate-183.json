@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "zHkgmzf4tMa7xPpbJxyrP/ml7Nya8u0MkXiyBaoogUQHR6WKZjgqKg==_review_998196389",
+        "content": "Conditions are average, but prices are on the high side"
+      },
+      {
+        "transKey": "TTRKvb/Kodhyhr+UXNj4PeQBQ4Uk470X+q3pYyBP4QUHR6WKZjgqKg==_review_999262205",
+        "content": "Dear guests: Hello! Thank you very much for your support of the hotel. The high housing prices indicate that our services are in place, and what kind of service follows what kind of housing prices. So please rest assured that what you mentioned is our final decision after considering many reasons. Thank you for your valuable opinions. We will convey your opinions to our superiors. We hope that you can enjoy our better service next time. Thanks!"
+      }
+    ]
+  },
+  "ServerData": null
+}

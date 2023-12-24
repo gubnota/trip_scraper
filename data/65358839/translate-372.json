@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Mrhri7XbvkjYf2sMPspNu2p+7/y2jg3cyVke7McOCl0HR6WKZjgqKg==_review_873573087",
+        "content": "It's quite good. It's very convenient to go to the surrounding universities and subway stations."
+      },
+      {
+        "transKey": "/DKe2Sb63HE9NOwvaNhU7nvgcN+TDkaOHCe3mo/Z1BIHR6WKZjgqKg==_review_873665581",
+        "content": "No words can be worth your recognition. Xiao Ji’s goal is to get your recognition. I hope you can introduce Xiao Ji to more of your friends."
+      }
+    ]
+  },
+  "ServerData": null
+}

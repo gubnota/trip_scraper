@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "F57qPxFYT3AGokBGEpShZx7WJl4ixOdtALCjcGSDeLkHR6WKZjgqKg==_review_786959595",
+        "content": "The hotel is in a good location, next to the Fourth Ring Road and close to the subway. Parking is convenient. The room facilities are good and hygienic. The breakfast is rich."
+      },
+      {
+        "transKey": "QK1ToV9HyWUUAvsM8RfxP90MisIWZBCAzVPYEU1eNvUHR6WKZjgqKg==_review_788294183",
+        "content": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel. The hotel is located in the business district. This location provides guests with great convenience in terms of food, accommodation, travel, entertainment and shopping. Moreover, the hotel's enthusiastic staff will escort you during your trip. We With \"the happy mood of the family\" as our top priority, we touch everyone with the most considerate warmth. All the staff at Orange Beijing Wukesong Hotel look forward to your next stay, thank you! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

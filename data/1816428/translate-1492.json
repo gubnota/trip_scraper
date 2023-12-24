@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "GkzEc+m4r+SbR5zIMe+9VSAcfDlRSO0sm4Imsa60hIEHR6WKZjgqKg==_review_543893200",
+        "content": "The room is clean and tidy. The front desk service is good. Opposite the subway line 6. Parking is free."
+      },
+      {
+        "transKey": "iU8s+TpwTt59kSlrpMcQRfLXKNDBw3H0z0UwqSByRE0HR6WKZjgqKg==_review_544049591",
+        "content": "Hello dear guest! Thank you for staying at Orange Beijing Wukesong Hotel and taking your precious time to share your stay experience with us. It is our honor to have a clean and comfortable stay. The hotel is located in the Badili Automobile Park on the West Fourth Ring Road, 5 km from Haidian Metro Line 6. It only takes five minutes to walk from Luju Station, and public transportation is accessible in all directions, making travel convenient. Thank you for your support and recognition, so that all our staff at Orange Beijing Wukesong Hotel are confident on the road ahead and look forward to meeting you every time! I wish you all the best! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

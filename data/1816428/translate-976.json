@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "CZU5Hze0ciWIK4aDscnSxhYsmOgg+uF6ZfIoqT9l/a8HR6WKZjgqKg==_review_529767110",
+        "content": "The hotel room is clean and tidy. There is a free parking space. The surrounding area is very convenient. There is a free breakfast, which is very rich. It combines Chinese and Western food. It is highly recommended!"
+      },
+      {
+        "transKey": "B6hejTJu8cu8BWYFGkPBGjaqR/jW62cXC/xPD0Ngl/wHR6WKZjgqKg==_review_530010193",
+        "content": "Hello dear guests! Thank you for staying at Orange Beijing Wukesong Hotel. Thank you very much for your recognition of the hotel room hygiene and breakfast. Everything we do is to provide every guest with a home-like experience. The products and services we deliver are of reliable quality. Cleanliness and safety come first. We are really touched to see your satisfaction and affirmation. We will continue to work hard and be ready for you to come back at any time. All the staff of Orange Beijing Wukesong Hotel are looking forward to your next stay. Thank you! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

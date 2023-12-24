@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "FOXtZGsOEWfL/JUONE6c9noJFEOhZbGZZeXqrSs7FDMHR6WKZjgqKg==_review_542355946",
+        "content": "Very good, hope to keep it up"
+      },
+      {
+        "transKey": "+ph+Up4gbYNRmh8XndqySdUoSyE7hzY6bSMfBHADF+UHR6WKZjgqKg==_review_553204217",
+        "content": "Dear guest, your encouragement will be the source of motivation for us to continuously optimize our services. All store staff will continue to do our job well and hope to provide you with a better service experience next time you stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

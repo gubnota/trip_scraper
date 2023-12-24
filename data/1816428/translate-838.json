@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "H/qiODLq5twwgWzcYnBp3ikC07k9CPosHO/LRA8LicAHR6WKZjgqKg==_review_829579839",
+        "content": "The room is too small! Not cost-effective!"
+      },
+      {
+        "transKey": "G7DbDhEWJMHwX3dn6VjLseVJowI8oSQ2BX3zcvL63CsHR6WKZjgqKg==_review_829802147",
+        "content": "Dear guest, first of all, thank you for choosing to stay at Orange Beijing Wukesong Hotel and leaving your review and feedback. Your comfort during your stay is our unchanging goal, but due to the size of the room, we are unable to give you a satisfactory stay experience. We apologize deeply. Due to the limitations of the opening time and rental properties, there is indeed a certain gap between the hotel room area and the newly opened store. However, although the hotel is small and well-equipped, the facilities in the room can meet your work needs when you are away from home. The hotel is new this year. The newly added self-service laundry room provides more convenience for guests on the road. Thank you for your review. All the hotel staff look forward to your visit again and wish you all the best! Manager: Zhang Lijuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

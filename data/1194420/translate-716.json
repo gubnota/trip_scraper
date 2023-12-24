@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "ejmZrWJQZ23RsETHnsNai7MSNLtMA1YibzFrzUxswMMHR6WKZjgqKg==_review_549231095",
+        "content": "Suitable for business travel"
+      },
+      {
+        "transKey": "qDfThuNu6fgmnIAZACfYsAVe0bcXHZKsqZ/t0Va8mUkHR6WKZjgqKg==_review_552827507",
+        "content": "Dear guest, thank you for your trust and review. Parking is available in our courtyard and the surrounding transportation is convenient. It is two kilometers away from Beijing Chaoyang Station and takes about 15 minutes to walk. The transportation around the hotel is convenient and there is a free laundry room inside. Food delivery robots, free reading areas and tea areas provide value-for-money services for your travels."
+      }
+    ]
+  },
+  "ServerData": null
+}

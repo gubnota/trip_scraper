@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "oagcsjrxk4kXZhB/b+WOuBO1109yofK9/WDcDryilekHR6WKZjgqKg==_review_499956951",
+        "content": "What a great hotel! ! ! ! ! ! ! ! ! ! ! ! ! !\nThe service was excellent! ! ! ! ! ! !\nThe environment is very warm! ! ! ! ! ! ! ! ! ! ! !"
+      },
+      {
+        "transKey": "jwEIbZpm9zAo/W+ZfjVxw8sHhrHw8mCNWWK2MAWY4MwHR6WKZjgqKg==_review_499974258",
+        "content": "Hello dear guests! Thank you very much for your trust in Orange Beijing Wukesong Hotel and your choice to stay at this hotel. Thank you very much for your recognition of the service of the hotel staff and the accommodation environment. Only when you stay comfortable can you feel like home. I believe that with your support, we will continue to improve the quality of all aspects of the hotel to ensure that you will be happy every time you stay. Gold cups and silver cups are not as good as your satisfactory reputation. All hotel staff sincerely look forward to your every stay! I wish you all the best! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

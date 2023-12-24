@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "+GePDP9npPeFlkTpk21xKomb/tVRXTJUxJLEteXQTUoHR6WKZjgqKg==_review_909670547",
+        "content": "Very good, there are free oranges to eat! hhhhh"
+      },
+      {
+        "transKey": "tVcydvpL7xlgNiXDDWejx8FEIKxZzDOgletD7bn5aM0=_review_909767345",
+        "content": "Dear guest, hello! Thank you for your stay. We are glad that you have such a positive review of our hotel. While we strive to create a first-class living environment for our guests, we also need to provide guests with considerate services. Your recognition and affirmation are the basis for the survival and development of our hotel. We hope to serve you again and wish you a happy life! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

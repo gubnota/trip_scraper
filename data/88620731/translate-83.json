@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Y7cPdTYKSzZBP1tI948/AAWdWgC2dO470coFt45JqVMHR6WKZjgqKg==_review_794982669",
+        "content": "The environment is good and the transportation is very convenient. If you travel on May Day, you won’t have any trouble. You deserve it."
+      },
+      {
+        "transKey": "KWqrNhUWWJn4Og0eh+gsvU+/+mNGqnJP2E7kKIFWGjUHR6WKZjgqKg==_review_795060275",
+        "content": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey."
+      }
+    ]
+  },
+  "ServerData": null
+}

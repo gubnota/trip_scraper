@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "72jf5sLoHrC7yhMd803L5H7InSn61KvMTLteYiMMbSU=_review_484018391",
+        "content": "The hotel is very good. The bed is big and comfortable. The transportation is convenient. The service is very attentive. The ladies at the front desk are very friendly. Free parking. The breakfast is rich. Highly recommended."
+      },
+      {
+        "transKey": "aadZ3N9uafnug+8HUdhZuRsLtckwDzKk7jnRhg8TPpYHR6WKZjgqKg==_review_484121927",
+        "content": "We are very glad that you like our Orange Beijing Wukesong Hotel. We hope that the warmth will accompany you all the way. We cherish your encounter with us. Thank you for your trust in every word. We will never forget our original aspirations and forge ahead. Thank you for having you along the way. Your choice and recognition, all the hotel partners sincerely look forward to your every visit, and wish you good luck and all the best in the Year of the Ox!"
+      }
+    ]
+  },
+  "ServerData": null
+}

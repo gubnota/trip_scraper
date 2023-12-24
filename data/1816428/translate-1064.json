@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "0khFD3ByM0d6gTns7YMVUJvN05cQbTc+JRcatSenKZI=_review_891989971",
+        "content": "Very good, comfortable stay"
+      },
+      {
+        "transKey": "op7iiV/5cEAkpJv0/ZZbXES0aZpEz4HZTlGhXDOBAGEHR6WKZjgqKg==_review_892376939",
+        "content": "Dear guest: I am very happy to know from your message that I have left such a good impression on you. I hope you can continue to pay attention to Orange Hotel in the future and tell us more about your feelings and experiences when you stay in the future. We sincerely look forward to seeing you again. Come! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

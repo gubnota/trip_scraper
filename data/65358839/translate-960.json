@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "iTRkBw0J8DYn9wDm67mo0Hj3io88F/DDWbAFZiyS/2IHR6WKZjgqKg==_review_582315114",
+        "content": "Poor room quality"
+      },
+      {
+        "transKey": "mFC/5qeEb5Mo/5r675XobGKYXBvg0xPb7QkmvMuJ+pYHR6WKZjgqKg==_review_583108593",
+        "content": "Thank you for staying in our hotel. The area of ​​our double bed room A that you stayed in may be a bit small. Next time, you can try our zero-pressure superior double room, which is spacious. The bedding is imported memory foam pillows and mattresses. It's very comfortable and stress-relieving to go up there. All the hotel staff look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "CEFDEJR+UDWg51rYXHeICVYHrOVlPrPV2XtsE3s/hIg=_review_990335345",
+        "content": "It's very good. I booked it for my colleagues on a business trip. The location is good and the service is good. Ms. Wang at the front desk is very nice. She gave me free late check-out. I like it."
+      },
+      {
+        "transKey": "/loiFjnkQXTxm6W3JMTCctrQs8e7tDXjpXsAFIVFvl0HR6WKZjgqKg==_review_990865621",
+        "content": "The hotel’s reply: The words are silent but sweet, the greetings are ordinary but warm, your trust is the most real, the friendship is elegant but the most precious, I wish you happiness and joy!"
+      }
+    ]
+  },
+  "ServerData": null
+}

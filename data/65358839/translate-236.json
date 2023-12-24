@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "p1f1CpqcoGIyuUf0Brxj2/UFQRp5d5lbFuDkaJvinPsHR6WKZjgqKg==_review_617320241",
+        "content": "The front office service is very good, clean and hygienic, the environment is also good, and the robot food delivery is very convenient."
+      },
+      {
+        "transKey": "/DKe2Sb63HE9NOwvaNhU7nvgcN+TDkaOHCe3mo/Z1BIHR6WKZjgqKg==_review_617635827",
+        "content": "No words can be worth your recognition. Xiao Ji’s goal is to get your recognition. I hope you can introduce Xiao Ji to more of your friends."
+      }
+    ]
+  },
+  "ServerData": null
+}

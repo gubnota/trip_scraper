@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "WJ/iExfjnKl/ISdXQwcxEss5j9Bt8XFl+pQ/hGsxyr8HR6WKZjgqKg==_review_659672739",
+        "content": "The front desk service is very good. The breakfast is delicious. The room facilities are very good. I originally booked a double bed room A. The front desk helped to upgrade it to a double bed room for free. The lobby environment is very good."
+      },
+      {
+        "transKey": "DB9aSdSJlhWYfyjROa+/b7e29ykWbihnFOg679GUUTIHR6WKZjgqKg==_review_659703187",
+        "content": "The time is right, the breeze is not dry, we have a small gathering, thank you for your review, I hope you will come next time"
+      }
+    ]
+  },
+  "ServerData": null
+}

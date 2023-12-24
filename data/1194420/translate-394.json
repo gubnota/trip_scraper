@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "1S8gU3TBZuJlcxlSQDIdipsFO+eMbjbXReNgxrpBsd0HR6WKZjgqKg==_review_842306405",
+        "content": "The room was very nice and the service was very good"
+      },
+      {
+        "transKey": "uTgxfmSF7btt2C+HZB5dBIn3LHHcpV1enYGDcP0zxwsHR6WKZjgqKg==_review_842886533",
+        "content": "Dear, thank you for your recognition. Your recognition is the biggest motivation for us to move forward. We will continue to work hard with your encouragement and welcome you with better services and a cleaner and tidier sanitary environment. I wish you and your family the best All the best."
+      }
+    ]
+  },
+  "ServerData": null
+}

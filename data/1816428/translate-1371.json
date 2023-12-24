@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dpiJzRx848Tunr7QrVZ08QVRs0T8COioKXj49pxfSk8HR6WKZjgqKg==_review_492575019",
+        "content": "I think it’s pretty good. The breakfast is a combination of Chinese and Western. It’s all hot. The beautiful woman at the front desk is also very gentle. The big bed is suitable for a family of three. The child can be placed in the middle to avoid falling on the floor. If you are missing something, just tell the front desk and everything can be done. It's done, I think it's pretty good"
+      },
+      {
+        "transKey": "KAEgWf+PAFaVZtdtVLy/YR0hFYEZiXasU0LRjBM50iAHR6WKZjgqKg==_review_492644614",
+        "content": "Dear guests, hello! Thank you for sharing your stay experience with us despite your busy schedule. We are very honored that you spent time in the hotel. Our service, quality and details can be recognized by you, which also makes us feel warm in our hearts. It is our unremitting pursuit to make every guest feel at home. We will continue to work hard and hope to bring you a more warm and comfortable accommodation environment. We look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

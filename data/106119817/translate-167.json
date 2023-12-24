@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "OXpfuBxpBF1pm1/OPU9KVzLcw0K7cQAodHcXi/GX2IEHR6WKZjgqKg==_review_782951795",
+        "content": "The room is clean and tidy, without any peculiar smell, complete facilities, convenient transportation, and a good stay experience!"
+      },
+      {
+        "transKey": "FA8p8vD3TYuxZLCTZYs/PV8DhGUkXs+AtnurNzk6iNUHR6WKZjgqKg==_review_782956833",
+        "content": "We hope that when you come here, it will bring you a relaxed and comfortable environment. We will use the most enthusiastic service to let you experience the warmth of home. We look forward to your visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

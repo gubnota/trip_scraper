@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "OKugYCDqKqEocAsoOTvDM3NhNG51b89cLJkb0tgyrLYHR6WKZjgqKg==_review_840755835",
+        "content": "The environment is good and the room is cleaned in a timely manner! Food delivery by Xiaodu robot is also very convenient, and the overall experience is very good👍"
+      },
+      {
+        "transKey": "j0ERK4mIKle07DDveLESfVkIb1ft+LzwFz7Yu1TvLJwHR6WKZjgqKg==_review_840816507",
+        "content": "Dear family, what our eyes can see and what our ears can hear is not the plum branches on our shoulders, the drizzle in the mountains, or the mountains and rivers of bitter wine, but you, the little man who loves you."
+      }
+    ]
+  },
+  "ServerData": null
+}

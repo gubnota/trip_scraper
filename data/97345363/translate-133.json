@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "iWLpDcMbW9yOloRUE+KqLe9xxtQ2xAoGXTixJcbg/QIHR6WKZjgqKg==_review_814981397",
+        "content": "Facilities: Newly opened hotel, very new\nHygiene: Hygienic and clean,\nEnvironment: Beautiful environment, there is a park at the door"
+      },
+      {
+        "transKey": "F+xK+WfnH1OTYX+RamGeSSz9cibXr514KRytw7p+TP0HR6WKZjgqKg==_review_815130673",
+        "content": "Thank you for your affirmation of the hotel and welcome to visit again"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "hRXA/jval1VyXHhod+fVxEVMycN3EnY43W4nBxyTWdYHR6WKZjgqKg==_review_928270735",
+        "content": "This is my second stay. It’s very close to Honey Country. It’s very convenient to go back to the hotel directly after playing. There are windows in the room for good ventilation. Takeaways can be delivered by robots, which is very convenient."
+      },
+      {
+        "transKey": "FZesLPmU0C0rBRkZGxl30Ksu86Jpjo5xa451n8jN7ZcHR6WKZjgqKg==_review_928276039",
+        "content": "Dear guest, thank you for your stay and review. We will continue our efforts and wholeheartedly provide you with high-quality services. Parking is available in our courtyard and the surrounding transportation is convenient. It is less than two kilometers away from Beijing Chaoyang High-speed Railway Station and takes about 20 minutes to walk. The hotel has set up a free laundry room, food delivery robot, free reading area and tea area to provide value-for-money services for your travel."
+      }
+    ]
+  },
+  "ServerData": null
+}

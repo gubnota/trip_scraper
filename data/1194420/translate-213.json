@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "z8wQgzAlNBLpp4csaNBkXXe5R59RSozhTsBJ7rlqeCwHR6WKZjgqKg==_review_996366871",
+        "content": "The service is very considerate and the transportation is very convenient"
+      },
+      {
+        "transKey": "WfohjPfEDmcf/iCoWfJJtPVUxxgdhbPs6ycKRedz53kHR6WKZjgqKg==_review_996780691",
+        "content": "Dear guest, thank you for choosing Hanting! The hotel is version 2.7 of Hanting, with novel decoration and complete facilities. Providing a clean and comfortable stay environment for every traveler is the focus of our service. We also look forward to having you stay at the hotel again. The hotel is not only geographically Superior, it is also equipped with delivery robots, self-service laundry rooms, dryers, and convenient parking lots. In short, it will make your travel extremely convenient and comfortable. We look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

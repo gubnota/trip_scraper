@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "MZ7XYulW6znb3y9TM1MvUzJG6cX9XAy5vBGTrgUGggUHR6WKZjgqKg==_review_643304663",
+        "content": "The room is a bit small, clean and the breakfast is average"
+      },
+      {
+        "transKey": "R7pRmeJoeax7UlnQ1gUfmQzANujO2ISzcnSMIc+lgeo=_review_643485717",
+        "content": "A brief reunion, a hasty parting, but what is left is the beauty that is missed in the heart! Your evaluation is the source of our motivation! We sincerely invite you to visit us again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "YpoW2haeXOloh6Cw90mY9aY6/gNu6Wjhdomz+fCSI1sHR6WKZjgqKg==_review_482978972",
+        "content": "This is my first time staying at an All Seasons hotel, and it feels pretty good!"
+      },
+      {
+        "transKey": "8nvJ5N6AlcWt3PrSSIuz+e987wwzcDWejA3ulmKH8bMHR6WKZjgqKg==_review_483009888",
+        "content": "The years are just right and the time is just right. In these busy days, Xiaoji is beautiful because of your arrival. Please take care of me in the days to come!"
+      }
+    ]
+  },
+  "ServerData": null
+}

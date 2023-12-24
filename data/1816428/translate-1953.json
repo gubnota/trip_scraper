@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "P4LOwCGuL4MKO0SnmfqPT0OqB+geuU6xn7c5fpitQxUHR6WKZjgqKg==_review_483707938",
+        "content": "Breakfast was very good"
+      },
+      {
+        "transKey": "LOCXFrzKrHVP61UqjEGTM3AYtkMdymfjXKSL54sBpu8HR6WKZjgqKg==_review_483727909",
+        "content": "Hello dear guests, it is full of love that warms the hearts of Orange people. Although the encounter is short, the memories are eternal. I hope you will look back and be in a good mood every day! We will continue to work hard to live up to your trust! All the staff of Orange Beijing Wukesong Hotel look forward to your every visit and wish you a happy life and smooth work!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "eqGmQNRn9iq7QALXq1uwH0T60xRruuNvsaqRzsoJJn4HR6WKZjgqKg==_review_930194507",
+        "content": "Warm service, clean rooms, and convenient check-in. good!"
+      },
+      {
+        "transKey": "6evrp+pYZ7ZBpHUlgU1yCZ0EcfM8okk0duOX3ffKZ6EHR6WKZjgqKg==_review_930258373",
+        "content": "Dear guest, thank you for taking time out of your busy schedule to share your stay experience. Breeze ten miles away, stars thousands miles away, you are a little treasure just like them. I love you little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

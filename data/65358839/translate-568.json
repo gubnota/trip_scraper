@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "9ZZP7uaFdibLgjWvKlFif96IltlOjvOllVydOjRVZBQHR6WKZjgqKg==_review_768890107",
+        "content": "The service is very good, the environment is very good, I am very satisfied."
+      },
+      {
+        "transKey": "2Q/nOiqcUEPofqtaZ4Ipf/FPCsBmHQ1Q4drZ/xqhNR8HR6WKZjgqKg==_review_769108425",
+        "content": "Xiao Ji feels happy to be recognized by the guests and looks forward to your next return."
+      }
+    ]
+  },
+  "ServerData": null
+}

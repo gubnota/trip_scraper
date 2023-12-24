@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "gOa1LWWDB8LyGyFpig7RTucxBVvbcKqEGQ4kSxBX9sMHR6WKZjgqKg==_review_520356301",
+        "content": "The hotel has a strategic location, the hotel is clean and sanitary, and I am satisfied"
+      },
+      {
+        "transKey": "2EVXJckGG461h59ERapNkjvmLvnBrvXW7PcaYH/wI40HR6WKZjgqKg==_review_520746313",
+        "content": "Stay healthy, sunny and happy, love cleanliness and live in Huazhu. Hello, dear guests! Thank you for choosing to stay at Orange Beijing Wukesong Hotel and for commenting and approving the room hygiene. Providing you with a clean and comfortable stay environment is always our constant pursuit. When cleaning guests, we strictly abide by one guest, one change, and strictly abide by hygiene standards, just to provide you with a clean and comfortable stay. To provide you with a more secure stay, the hotel is located in the Badali Automobile Park on the West Fourth Ring Road, with a superior location and convenient transportation. All hotel staff thank you for your support and recognition. We look forward to your every visit and wish you good luck in your work! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

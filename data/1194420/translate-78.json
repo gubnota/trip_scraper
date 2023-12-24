@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "s5edVN6+23D+G07BT30ijiVGM5g4untDGkNTTbNve2gHR6WKZjgqKg==_review_953917915",
+        "content": "A very average place to stay. I chose it because it was close to the high-speed rail station. In fact, I still had to take a taxi. If I didn’t bring a diffuser and essential oils with me that day, I can’t imagine that I would not be able to sleep at all."
+      },
+      {
+        "transKey": "cLAB7RoOJ5V307WVrWSaAIGQ+hqz6TWI1BHTiRxaOckHR6WKZjgqKg==_review_955710193",
+        "content": "Dear guest, I am sorry to have brought you a bad experience during your stay. I would like to sincerely apologize to you. Your opinion is very important to us, and we will focus on training the front desk service. We look forward to seeing our changes during your next stay and looking forward to your next visit."
+      }
+    ]
+  },
+  "ServerData": null
+}

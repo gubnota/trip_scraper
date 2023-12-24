@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "PC6CJb9HY4Pml1DDvYaxxsEKEjbw/GORnkbDsY9EJgkHR6WKZjgqKg==_review_848005351",
+        "content": "Recommended to stay, super good"
+      },
+      {
+        "transKey": "f7oW5ykaw7l0F8xQsrhePG8qRFuyxiCybDtCn50tjs4HR6WKZjgqKg==_review_852272579",
+        "content": "Dear, thank you for your affirmation. We are very happy to give you a satisfactory stay experience. The hotel is only about 15-20 minutes' walk from Chaoyang Station. Wanxianghui is nearby, which is a good choice for dining in your spare time. We look forward to welcoming you See you again. I wish you and your family all the best."
+      }
+    ]
+  },
+  "ServerData": null
+}

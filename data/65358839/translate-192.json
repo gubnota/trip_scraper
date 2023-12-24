@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "jEiGwfIgFA8tiy6P3DlwtQZpSwF+EaCUsHbu320NQCAHR6WKZjgqKg==_review_919289991",
+        "content": "The location of the hotel is very good and the environment is very clean. It is a good choice for business travel, but the price is slightly expensive."
+      },
+      {
+        "transKey": "iZiFR1LsUzDHwtHC0d4rdDtp72RSoVP+bWNM47/BCPMHR6WKZjgqKg==_review_919690873",
+        "content": "Dear guest: Thank you very much for your affirmation of the store's service. The store is only 450 meters away from Suzhouqiao Subway Station (Line 16) and only takes 10 minutes to walk. There are all kinds of restaurants nearby the store, which is very convenient; it is also a short distance from Renmin University and Beijing The University of Foreign Studies is within a 10-minute drive and the location is very convenient. The store is one of the few stores nearby that has its own parking lot. The store is free for hotel guests and has ample parking spaces."
+      }
+    ]
+  },
+  "ServerData": null
+}

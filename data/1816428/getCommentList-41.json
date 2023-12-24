@@ -1,0 +1,457 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 217,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 202,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 201,
+        "type": 1
+      },
+      {
+        "id": 96,
+        "name": "Close to metro",
+        "commentCount": 116,
+        "type": 1
+      },
+      {
+        "id": 5029,
+        "name": "Small room size",
+        "commentCount": 84,
+        "type": 2
+      },
+      {
+        "id": 53,
+        "name": "Many amenities",
+        "commentCount": 83,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 83,
+        "type": 1
+      },
+      {
+        "id": 136,
+        "name": "Great for business trips",
+        "commentCount": 30,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 1831
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 1815
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 16
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 241
+      }
+    ],
+    "totalCount": 1369,
+    "repeatCommentCount": 462,
+    "commentList": [
+      {
+        "id": 762039941,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "dqZ9ThLmfL8FKCVKFcjfO7SxdsaB+ChkrNwgcTIC0QIHR6WKZjgqKg==_review_762039941",
+        "canMarkUseful": true,
+        "checkInDate": "2023-03-01 00:00:00",
+        "content": "很舒服，服務也好，也很安靜，有需要可以找前台姓趙的小姐姐，人很nice！",
+        "createDate": "2023-03-31 15:00:03",
+        "imageList": [
+          "/0232312000atyw8fq016E.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！看到您的好評，難掩我們內心的激動。桔子是一個富有年輕活力的酒店，以簡約的風格，温馨細緻的服務向您展示着酒店獨特的魅力，您的認可和支持不斷鼓舞着我們不斷前行，勇攀高峯，我們會用心服務好每一位家人朋友，期待和您的下次相逢！祝您生活喜樂開懷！經理：張麗娟",
+            "translateContent": "",
+            "securityKey": "pbwT6ocLPSyMW1CstnzAQHrZyZDdBcl0G3NXt66ZlcEHR6WKZjgqKg==_review_762222359"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 876036043,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "hn4jiQ+nlk2c3qTUjkCO1uZz0O7KbWrd7jbgCuKb9YwHR6WKZjgqKg==_review_876036043",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "服務人員都特別的有耐心 全體員工都很細心 對客人真是的像對家人一樣親切 走進房間 房間給我的第一感覺特別舒心 房間乾淨 設施齊全 早餐也特別好吃 種類特別多 入住體驗特別好",
+        "createDate": "2023-07-26 14:48:33",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好！感謝您對桔子北京五棵松酒店小夥伴們服務態度的認可，您的鼓勵很重要，如果人生是場旅途，我們願做您最温暖的站點，如果相逢是首歌謠，我們願做您一縷快樂的音符，想您用筆記書寫心情，小夥伴們期待下次與您相遇相知在桔子北京五棵松酒店，祝您一切順利！總經理：任圓圓",
+            "translateContent": "",
+            "securityKey": "vHQOxjA5jgUXPJytUBG1RMjuCuCSVb/OFdALa+qjjlcHR6WKZjgqKg==_review_876084485"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80d0x000000kytnv0FEC_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 775618349,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "fy4vcAsBivlA2RYxN5dKA50/pxO6uW/LIjdhTn6urqYHR6WKZjgqKg==_review_775618349",
+        "canMarkUseful": true,
+        "checkInDate": "2023-04-01 00:00:00",
+        "content": "房間乾淨整潔，入住手續快捷方便，服務人員熱情大方",
+        "createDate": "2023-04-19 18:36:33",
+        "imageList": [
+          "/0234z12000b03hrnp431A.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Twin Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！萬分感謝您百忙中給予我們好評鼓勵哦，能為您提供給熱情，貼心，優質的服務是我們的榮幸，能夠得到您的認可，我們心裏感覺比蜜還甜！客人每一絲需求都是我們真誠為之努力的方向，我們一定會更加努力！您的滿意是我們前進的動力，桔子酒店作為華住會旗下中端品牌，一直秉承着我們交付產產品和服務質量可靠，清潔和安全居首位”的經營觀念，力求給客人提供近乎完美的入住體驗，酒店配備了機器人、華掌櫃自助辦理入住、退房，讓您體驗無接觸、高科技的服務，二樓自助餐廳更是推出了桔子品牌特色現烤的牛角包，蛋撻，純凈水熬製的白粥等，還有現煮餛飩和麪條，歡迎您入住品鑒，衷心期待您的下次光臨！祝您生活愉快！經理：張麗娟",
+            "translateContent": "",
+            "securityKey": "wTz0HhWNf/EkZkBaFJatyal8arMpXkwdxCI6VoZ20+AHR6WKZjgqKg==_review_775661433"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 774180177,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "JQAxB3tuHKJW+wcNap/4ATB/pvQTrzDIJ5CEOGlpuu8HR6WKZjgqKg==_review_774180177",
+        "canMarkUseful": true,
+        "checkInDate": "2023-04-01 00:00:00",
+        "content": "非常滿意的一次住宿，好評！下次在來北京還住這裏！",
+        "createDate": "2023-04-17 18:23:41",
+        "imageList": [
+          "/0233k12000az5yil78DAF.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！非常感謝您對本酒店的信任下榻本酒店，也非常感謝您對酒店裡早餐的認可，住好，吃好才會有家的感覺。相信在您的支持下，我們將不斷提高酒店的各個方面質量，確保您的每次入住都能開心愉快，酒店全體員工真誠的期待您再次入住！祝您生活愉快！經理：張麗娟",
+            "translateContent": "",
+            "securityKey": "/ihSy/OMyV2aXbFVLvKX2B+LT/un/OiNh5KyV0c2dHkHR6WKZjgqKg==_review_774211747"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/zc0l170000011e3741A91_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "linan0308"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 781745371,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "HUMd/waCpJhX7rHScWTSDGYJUOPueH6dT5bBDl4NDvoHR6WKZjgqKg==_review_781745371",
+        "canMarkUseful": true,
+        "checkInDate": "2023-04-01 00:00:00",
+        "content": "對房間，環境，服務都很滿意",
+        "createDate": "2023-04-28 18:57:54",
+        "imageList": [
+          "/0233h12000b3jkx4a5928.jpg",
+          "/0234a12000b3j9dhw1C0A.jpg",
+          "/0236m12000b3jcwr2F904.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好!感謝下榻桔子北京五棵松酒店 ，桔子品牌作為華住舒適型品牌，我們十分注重所有賓客的入住感受，您能入住的開心我們也感到萬分榮幸！並且酒店還強化了智能化服務，店內配備智能機器人，可及時將您所需物品主動送往您入住房間，省去您上下樓的辛苦，同時為了能夠讓您在這裏擁有家一樣的感覺，我們將洗衣房安置在一樓的電梯間對面，洗衣房內有齊全的洗護用品供您使用，並配有烘乾機，掛燙機，希望用我們百倍的用心換您十分的滿意！！！酒店全體員工期待您的下次光臨。祝您工作順利，生活幸福！經理：張麗娟",
+            "translateContent": "",
+            "securityKey": "o63HeqSenajF/52bYkcJPzSbuuW5WV80chJDFODCyaIHR6WKZjgqKg==_review_781819461"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 920119969,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "g2C5DYn/RB1RB4/BrkXhYh58QEXEKx4UBJs9sasufl0HR6WKZjgqKg==_review_920119969",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "房間比較小，有點擁擠，設施稍微陳舊。床品還算舒服，橘汁暢飲，然而不是橘汁，也不是時時都有可以暢飲。也建議把洗髮水換成無淚的。服務還算不錯。",
+        "createDate": "2023-09-06 07:10:02",
+        "imageList": [],
+        "rating": 4.5,
+        "commentLevel": "Great",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好！感謝您入住桔子北京五棵松酒店，給我們服務您的機會，非常抱歉給您帶來不好的入住體驗，由於酒店裝修時間原因，酒店房間面積與新開業門店確實存在一定差距，麻雀雖小，但房間內設施齊全，酒店房間及公區配套設施可滿足您的日常住需求，我們將再接再勵，用我們的工作的細心換取您入住時的安心舒心，酒店全體員工期待您的每一次蒞臨，祝您生活愉快。經理：紀洪嬌",
+            "translateContent": "",
+            "securityKey": "lXuksIVE5p9fB7vf/7ZCee+xxr6xR2N+Q5TkA4E1YUAHR6WKZjgqKg==_review_920140381"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 5,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 980939623,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "3O6kXlqhxY0K8yyBv8D2NOhfjsUTxT4kVDJZD0k2TncHR6WKZjgqKg==_review_980939623",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "房間乾淨衞生，工作人員熱情，是一家有真桔子免費送的桔子酒店哦，還有可樂和雪碧哦，農夫山泉是免費管夠的",
+        "createDate": "2023-11-24 14:11:31",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好！感謝您對桔子北京五棵松酒店小夥伴們服務態度的認可，您的鼓勵很重要，如果人生是場旅途，我們願做您最温暖的站點，如果相逢是首歌謠，我們願做您一縷快樂的音符，想您用筆記書寫心情，小夥伴們期待下次與您相遇相知在桔子北京五棵松酒店，祝您一切順利！經理：張明慧",
+            "translateContent": "",
+            "securityKey": "oHNOTMOgv9Ym/YM/QWp0bIwTk1eBfT0D0W5fnXlOgasHR6WKZjgqKg==_review_981208647"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 949384577,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "qreAPPO2mSs+pL3IfIDI/gA2Zd9TU6GXVJHjsALS/zAHR6WKZjgqKg==_review_949384577",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "服務非常好，一樓有打印機，臨時文件打印也很方便，而且充電器臨時壞了，前台也給予了幫助。房間安靜，早餐豐富。整體很滿意！",
+        "createDate": "2023-10-12 11:07:46",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，滿滿的全是愛，温暖桔子人的心，相逢雖短暫，回憶卻永恆，願君再回首，天天好心情！我們會再接再厲，繼續努力不辜負您的信任！桔子北京五棵松酒店全體員工期待您的每一次蒞臨，祝您生活幸福，工作順心！經理：趙丹",
+            "translateContent": "",
+            "securityKey": "jsG/8iDkwK9+EjnqKzjhxzPyMXjrmG82KKi9MIoAtIMHR6WKZjgqKg==_review_950044297"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8070v000000k1tg7D66D_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 964623679,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "hIz1jC9vhLhNbit5dqXLgs9iKuaf77mWA1ZuWboB0RY=_review_964623679",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "衞生：房間非常乾淨\n服務：客服非常有禮貌！\n環境：一般，畢竟在一個賣車的環境，車輛進出特別多，要多多注意進出安全！",
+        "createDate": "2023-11-01 17:17:59",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客：您好！感謝下榻桔子北京五棵松酒店，非常感謝您對酒店房間以及客房小姐姐的認同，我們所做的一切都衹為每一位賓客帶來家一般的入住體驗，我們交付的產品和服務質量可靠，清潔和安全居首位，看到您的滿意和肯定，我們真的是非常感動，我們會繼續努力時刻準備着您隨時回來，桔子北京五棵松酒店全體員工期待您的下次入住，謝謝！經理：張明慧",
+            "translateContent": "",
+            "securityKey": "/cWQo5MMPPtIMJY7hA9MHfc6o9W2q4geSVVqElnqExkHR6WKZjgqKg==_review_964965637"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 5,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 755958883,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "",
+        "securityKey": "87hIza+Naxo0ndXjAEqirAOeiFvicV5XrszYJwoBsLkHR6WKZjgqKg==_review_755958883",
+        "canMarkUseful": true,
+        "checkInDate": "2023-03-01 00:00:00",
+        "content": "設施：齊全\n環境：很好\n衞生：乾淨\n服務：貼心",
+        "createDate": "2023-03-22 19:39:36",
+        "imageList": [
+          "/0232812000assvbxf7CB8.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！感謝您在百忙之中給我們分享您的入住體驗，您在酒店度過的時光我們感到非常榮幸，我們的服務、品質、細節、能夠得到您的肯定，也讓我們感到心裏暖暖的，讓每位客人感到賓至如歸是我們堅持不懈的追求，我們將繼續努力，希望給您帶來更温馨舒適的住宿環境，期待着您再次光臨！經理：趙丹",
+            "translateContent": "",
+            "securityKey": "9T80WWVd+h5TVeY3aQifMc2FDb6LgEvkvOF2DVXgIhoHR6WKZjgqKg==_review_756023573"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703420400192+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a624f5b-473172-173751"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "e980d9d0-65a5-4f84-b5df-0a54a73e3994"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3d511b-473172-520208"
+      }
+    ]
+  }
+}

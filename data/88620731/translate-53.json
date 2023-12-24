@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "X/jxsnfjaI2ZxGRUh5bRR/AxJ34Ybzg0jowSCbYHZ5QHR6WKZjgqKg==_review_651166139",
+        "content": "The hotel is very new, the sanitary environment is very good, the soundproofing is also very good, the overall stay is very comfortable, and they are very considerate of customers. I am really grateful to this hotel this time in Beijing. I am very grateful. I will come to Beijing often in the future. , Hanting Foreign Economic and Trade Store will always be my firm choice."
+      },
+      {
+        "transKey": "5rW7ZWtugcUza1BPO0L4eBS7AlLBc2we/YLqtYFYNx8HR6WKZjgqKg==_review_653224477",
+        "content": "Dear guest, thank you for taking the time out of your busy schedule to leave a review for our store. Hanting University of International Business and Economics Hotel is located in Building 1, No. 2, Shaoyaoju A, North Fourth Ring Road, Beijing. It is only 800 meters away from Shaoyaoju Station of Beijing Subway Line 10 and Line 13. It is close to the China-Japan Friendship Hospital and has very convenient transportation. convenient. There are self-service laundry services and robot delivery services. This is your first choice location for business trips, tourism, and work outings. Welcome to visit again"
+      }
+    ]
+  },
+  "ServerData": null
+}

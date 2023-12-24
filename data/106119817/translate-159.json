@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "vHb7gY9DVhrOh5ULzW4neUBpU4XiDwkH/iKxdAOMft8HR6WKZjgqKg==_review_884999353",
+        "content": "I stayed here for 2 days and now I am staying for 2 more days. I have a great experience. Five stars."
+      },
+      {
+        "transKey": "p1U1v4VVBePzXjVxhANF1GbH3tSOOXcF+JMq+PIe/5E=_review_885076749",
+        "content": "We know each other as clear as water, as bright as a mirror, and our hearts are clear and reflected. I believe you must feel our sincerity and efforts. Your praise is our pride. We look forward to seeing you again."
+      }
+    ]
+  },
+  "ServerData": null
+}

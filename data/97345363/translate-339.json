@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "2F5ToSAzFXhAWlq9MoPuMmRsMwrx+fUA9yH1wz426TUHR6WKZjgqKg==_review_632878545",
+        "content": "The environment is very good, the decoration is new and there is no smell."
+      },
+      {
+        "transKey": "AlpSnfKSDwNELMCmlfqVKHPo68YcTl2t0dS688XF11cHR6WKZjgqKg==_review_632880851",
+        "content": "A brief reunion, a hasty parting, but what is left is the beauty that is missed in the heart! Your praise is the source of our motivation! We sincerely invite you to visit us again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "2n2t13155YJeQ6SQg8l8RqN0DxjQZ674z+4Xch2bhoQ=_review_835796417",
+        "content": "The front desk and service staff have very good service; very enthusiastic; communicate with the front desk if you need it, and respond quickly; the location is good, parking is free for residents; the room is clean and tidy"
+      },
+      {
+        "transKey": "pdkPKE5FL0ITqojn4XyMDP9CnlsNBIa8zA18vpQdO74HR6WKZjgqKg==_review_836034971",
+        "content": "Thank you for your review despite your busy schedule. Just to meet you. Xiao Ji is working hard every day. I hope to be with you all the time. I look forward to meeting you next time~"
+      }
+    ]
+  },
+  "ServerData": null
+}

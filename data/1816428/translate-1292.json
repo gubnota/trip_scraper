@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "JubdpQBis9SfghJK1b4g7N/H0Rv6ilkCZ3hUDah2viEHR6WKZjgqKg==_review_535591922",
+        "content": "The service in the hotel is very good. Let’s talk about the room. Although the room is not large, it is fully equipped and clean. The room near the park is relatively quiet. The breakfast is also very good. I am very satisfied!"
+      },
+      {
+        "transKey": "NFAKuRiYyc6QPZHlR2CWoCi2qORNpYZMfSAiwPp7dmMHR6WKZjgqKg==_review_535649151",
+        "content": "The night with stars will not be dark, the sea with sky will be blue, the life with dreams will be full of sunshine, and with your days, our work will be more meaningful. Thank you, guest, for choosing to stay at Orange Beijing Wukesong Hotel and giving us full recognition. Your affirmation is the greatest encouragement for our work. Due to the renovation time of the hotel, there is indeed a certain gap between the hotel room area and the newly opened store. Although the sparrow is small, , but the facilities in the room are complete, the hotel rooms and public area supporting facilities can meet your daily living needs. We will continue to work hard to provide you with a more comfortable and convenient stay experience. All the hotel staff look forward to every encounter with you, and wish you a great job Good luck! General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

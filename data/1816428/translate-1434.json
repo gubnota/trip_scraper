@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "0ZsmZNcnjVIjd2q0sX1d0aofDvomyyYeYpjhaNacE4IHR6WKZjgqKg==_review_532877394",
+        "content": "The location is relatively remote, the service is very good, and the breakfast is acceptable. The room was very small and the oranges were so sour that I couldn't eat them. Overall, the price is on the high side."
+      },
+      {
+        "transKey": "59dlNXG0LlFopnLRTr6eUvHtdNh0BnWLz1FpqhQdv2YHR6WKZjgqKg==_review_533014119",
+        "content": "Dear guest, thank you very much for staying at Orange Beijing Wukesong Hotel. We are deeply sorry for your recognition of our service. We are deeply sorry for bringing you bad feelings. Our hotel is located on the West Fourth Ring Road, with very convenient transportation. , very close to 301 Hospital, subway and bus stations, and the hotel provides electronic parking tickets for free parking. Travel routes can be diversified according to your travel mode. The hotel's breakfast time is from 7:00 to 11:00. The Chinese and Western buffet breakfast has a variety of varieties and is nutritious and delicious. Regarding your feedback about the oranges, the oranges are a bit sour due to seasonal reasons. We will also contact the supplier to select sweet oranges for guests to eat. At the same time, are you dissatisfied during your stay? You can contact us at any time and we will try our best to help you solve it. I hope you can see our efforts and progress, and look forward to your visit again! Manager: Zhang Minghui"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "xM5tue4w7C9yUqWWFt5tIv+gnjBLOWqw2ce1tnmj/EMHR6WKZjgqKg==_review_500303178",
+        "content": "Service attitude and quality are not good"
+      },
+      {
+        "transKey": "IAjd2krFY0xHeZCLLwlONEMH/e9xz8MyWM3N7+Y3qzIHR6WKZjgqKg==_review_500430333",
+        "content": "Dear guest, thank you for your review. We are very sorry to bring you a bad stay experience. We will actively rectify the shortcomings, strengthen staff training, and provide good service. We look forward to your next visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

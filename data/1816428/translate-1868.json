@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "6ar1ZkfbVTQEwprilh3C+buIj9r0Q9zhc88UqTQ7pbsHR6WKZjgqKg==_review_480719760",
+        "content": "Friendly service, good hygiene and disinfection"
+      },
+      {
+        "transKey": "Z1HJMljhohlnJN/JQB8VhbRQ3opoSszy9GMnjkZ5SjgHR6WKZjgqKg==_review_480767060",
+        "content": "Thank you for taking the time out of your busy schedule to make a sincere review of Orange Beijing Wukesong Hotel. We are deeply honored. The weather is cold, so bring more clothes during your trip. I wish you a happy and healthy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

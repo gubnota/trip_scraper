@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "wNO9YihOmgZUhy4GtipIl4X3GqQn+J8Wplo14HS+91kHR6WKZjgqKg==_review_541432641",
+        "content": "The hotel is very new, well decorated and clean;\nThe laundry room has a dryer, a Panasonic one;\nGood front desk service, Sprite/Coke, plus oranges for free, great hotel"
+      },
+      {
+        "transKey": "tkQnzYUpdpvrGUKLHPP7rYO0fMF3T4i0+jKze/QGUUwHR6WKZjgqKg==_review_541488049",
+        "content": "Dear guest, thank you for choosing to stay at Orange Beijing Wukesong Hotel and giving your review and approval. Your comfort during your stay is our unchanging goal. The self-service laundry room newly added this year on the first floor of the hotel provides convenience for guests on the road. The convenience has been recognized by more and more guests. Your affirmation of the hotel service and hygiene is the infinite motivation for our work. All the hotel staff look forward to your visit again and wish you a happy holiday! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

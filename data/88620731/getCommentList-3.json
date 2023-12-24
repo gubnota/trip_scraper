@@ -1,0 +1,461 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 52,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 38,
+        "type": 1
+      },
+      {
+        "id": 32,
+        "name": "Great amenities",
+        "commentCount": 29,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 23,
+        "type": 1
+      },
+      {
+        "id": 53,
+        "name": "Many amenities",
+        "commentCount": 15,
+        "type": 1
+      },
+      {
+        "id": 149,
+        "name": "Would stay again",
+        "commentCount": 13,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 6,
+        "type": 1
+      },
+      {
+        "id": 79,
+        "name": "Convenient public transportation",
+        "commentCount": 6,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 344
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 341
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 3
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 70
+      }
+    ],
+    "totalCount": 258,
+    "repeatCommentCount": 86,
+    "commentList": [
+      {
+        "id": 907834393,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room was well decorated and cleaned very well. The girls at the front desk were very enthusiastic and the housekeeping staff were also very polite. It was a very good stay experience. There is a bus at the door of the hotel and the east gate of the University of Trade and Economics is opposite. , great, looking forward to meeting you next time",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-08-01 00:00:00",
+        "content": "房間裝修的很好，打掃的也很乾凈，前台小美眉都很熱心，客房打掃人員也很有禮貌，非常好的一次住宿體驗，出了酒店門口就有公交車，對過就是貿大東門，太好了，期待下一次的遇見",
+        "createDate": "2023-08-23 22:12:12",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Queen Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 732438627,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel has an elegant environment. The hotel lobby is very warm. There is free tea in the lobby. The front desk has a smiling service. It is warm, professional and thoughtful. The hotel has a free parking lot. Parking is very convenient. The location is also very convenient. It is very close to the Sino-Japanese Friendship. The University of International Business and Economics is very convenient, the rooms are very clean, the environment is very new, the bath is comfortable, the bedding is comfortable, the housekeeper service is good, she takes the initiative to say hello, the guest room feels very good, highly recommended to stay!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-02-01 00:00:00",
+        "content": "酒店環境優雅，酒店大廳很温馨，大廳有免費的茶水，前台微笑服務，熱情專業周到，酒店有免費的停車場，停車特別方便，地理位置也很方便，離中日友好很近，緊挨着對外經貿大學都很方便，房間衞生也很乾凈，環境很新，洗澡舒適，床品舒適，客房大姐服務好，主動問好，客房的感覺特別好，非常推薦入住！",
+        "createDate": "2023-02-19 22:05:16",
+        "imageList": [
+          "/0230q12000aovuu79FBD8.jpg",
+          "/0233c12000aow05qaABA5.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 731625947,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "I came here to take my children to school. The hotel is just across from the University of International Business and Economics. It is a newly opened hotel with new facilities, good front desk service, and clean rooms. The TV can also cast the screen with one click, and there are robots that deliver goods. It is very Convenient and very cost-effective. It is also very convenient for taking care of children. It is worth recommending.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-02-01 00:00:00",
+        "content": "送孩子上學來入住的，酒店就在對外經濟貿易大學對過，是一家新開業的酒店，設施很新，前台服務好，房間乾淨，電視還可以一鍵投屏，還有機器人送物，非常方便，性價比很高，主要是看孩子也很方便，值得推薦",
+        "createDate": "2023-02-18 17:27:05",
+        "imageList": [
+          "/0204o12000aora7ad6B53.jpg",
+          "/0202d12000aor29stB8B8.jpg",
+          "/0201112000aor5v9i5DE1.jpg",
+          "/0202o12000aor4slxA171.jpg",
+          "/0203c12000aor5tkv9C63.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Queen Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 722834467,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The service attitude of the lady at the front desk is very good. The hotel's facilities are also very complete. There is a washing machine and dryer, which is very convenient for washing clothes. There is also a free parking lot, which saves an extra parking fee. It is great value.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-02-01 00:00:00",
+        "content": "前台小姐姐服務態度非常不錯，酒店的設施也很齊全，有洗衣機烘乾機，洗衣服簡直太方便了，還有免費的停車場，又額外省了一筆停車費用，超值",
+        "createDate": "2023-02-05 18:36:54",
+        "imageList": [
+          "/0236g12000allzxar8683.jpg",
+          "/0236012000almsf617296.jpg",
+          "/0231e12000almqw0j5538.jpg",
+          "/0232e12000almpcss8F1F.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 716355677,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The transportation is convenient, the bus station is right at the door, and it is only two stops away from the subway station. The hotel's elevator is super compact🤣🤣😂😂The room is very new, and the mattress is comfortable to sleep on! The attitude at the front desk is also very good!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-01-01 00:00:00",
+        "content": "交通便利，門口便是公交車站，衹是離地鐵站有兩站路，酒店的電梯超袖珍🤣🤣😂😂房間很新，床墊睡着也舒服！前台態度也很好！",
+        "createDate": "2023-01-27 17:25:02",
+        "imageList": [
+          "/0232112000ais3gd88E71.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior 2-bed Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，非常感謝您對我們酒店的好評，我們會再接再厲不辜負您的好評，再次感謝您對酒店的肯定，期待再次光臨，祝旅途愉快",
+            "translateContent": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80l0v000000jlasy1121_C_130_130_Q70.jpg",
+          "commentCount": 7,
+          "nickName": "Doupizi"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 896087575,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The service is good, but the room is too small, not worth more than 700",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-08-01 00:00:00",
+        "content": "服務不錯，就是房間太小，不值700多",
+        "createDate": "2023-08-12 20:26:09",
+        "imageList": [],
+        "rating": 3,
+        "commentLevel": "",
+        "roomTypeName": "Queen Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "親愛的客人，非常不好意思，沒能讓您滿意，對此我們深感抱歉。請允許我們集體彎腰90度向您獻上我們的歉意，也請您儘管放心，下一次您來住保證會讓您滿意噠！",
+            "translateContent": "Dear guest, we are very sorry that we could not satisfy you. We are deeply sorry for this. Please allow us to collectively bend 90 degrees to offer you our apologies, and please rest assured that you will be satisfied next time you come to stay!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80q0v000000jmf90B344_C_130_130_Q70.jpg",
+          "commentCount": 4,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 616656447,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The quality of service staff varies, some have good attitudes and some have bad attitudes.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-07-01 00:00:00",
+        "content": "服務人員素質不一，有態度好的有態度不好的",
+        "createDate": "2022-08-01 10:31:14",
+        "imageList": [],
+        "rating": 3,
+        "commentLevel": "",
+        "roomTypeName": "Queen Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "親愛的朋友！人潮擁擠我陪你，全世界衹有一個你，叫我如何不珍惜。來個擁抱吧，您的肯定就是我們最最大的動力，未來的路你我相伴！",
+            "translateContent": "Dear friends! I will accompany you in the crowded world. There is only one you in the world. How can I not cherish you? Come give us a hug. Your affirmation is our greatest motivation. We will be with you in the future!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 4,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 799079807,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "It’s ok. Value for money",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-05-01 00:00:00",
+        "content": "還可以吧性價比",
+        "createDate": "2023-05-18 20:14:45",
+        "imageList": [],
+        "rating": 3,
+        "commentLevel": "",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "相識是緣起，相知是續緣，相守是緣定。是緣使我們在美麗的北京相遇，希望我們温馨的住宿環境能陪伴您走過每一個春夏秋冬。從緣起走到緣續，從緣續走到緣定，感謝您的入住，祝：生活幸福美滿！",
+            "translateContent": "Acquaintance is the origin, knowing each other is the continuation of the relationship, and staying together is the destiny. It is fate that brings us together in the beautiful Beijing. We hope that our warm accommodation environment can accompany you through every spring, summer, autumn and winter. From origin to destiny, from destiny to destiny, thank you for your stay, and wish you a happy and fulfilling life!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 642060977,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "It’s really uncomfortable to kick people out before they arrive.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-08-01 00:00:00",
+        "content": "沒到點就趕人走，真的很不舒服。",
+        "createDate": "2022-09-28 14:16:27",
+        "imageList": [],
+        "rating": 3.5,
+        "commentLevel": "",
+        "roomTypeName": "Queen Room",
+        "travelType": 70,
+        "travelTypeText": "Couples",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！很感謝您選擇入住，小漢馬和夥伴們分享了您的入住感受，漢庭非常重視每一位賓客的入住感受，很抱歉這次的入住沒能讓您滿意，我們已將您反饋的問題彙總上報，也真誠的期待您的再次蒞臨",
+            "translateContent": "Dear guests, hello! Thank you very much for choosing to stay. Xiao Hanma and your friends shared your stay experience. Hanting attaches great importance to every guest's stay experience. We are sorry that this stay did not satisfy you. We have already sent your feedback. Summary and report, and sincerely look forward to your visit again",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8040m000000dunqt0F73_C_130_130_Q70.jpg",
+          "commentCount": 14,
+          "nickName": "whatever18"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 592488251,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "More expensive than ordering directly in the store",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-05-01 00:00:00",
+        "content": "比在店裡直接訂還貴",
+        "createDate": "2022-05-28 01:38:03",
+        "imageList": [],
+        "rating": 1,
+        "commentLevel": "",
+        "roomTypeName": "Superior 2-bed Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的客人您好，感謝您百忙之中為小店做評論。本次未給您帶來不好的入住體驗，我們感到非常的抱歉。給您致以誠摯的歉意，同時還是歡迎您的再次光臨",
+            "translateContent": "Dear guest, thank you for taking the time to comment on the store. We are very sorry that you did not have a bad check-in experience this time. I would like to extend my sincere apologies to you, but at the same time welcome your visit again",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 2,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703417014776+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a71450e-473171-212053"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "01cdff0f-aa3d-4861-b08e-a6d62cdf89f3"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a6e5f28-473171-584882"
+      }
+    ]
+  }
+}

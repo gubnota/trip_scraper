@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "54r7JgIzh6oP2x5oaHgQPxZFwQXdYulz6HX6GkyAuXoHR6WKZjgqKg==_review_618748381",
+        "content": "The service is in place, the environment is comfortable, clean and hygienic, and it’s just a short subway ride away from Universal Studios"
+      },
+      {
+        "transKey": "pAazHI8BznkiD2Jr7W/x8RdzP+1+t07lYtdo+nZKSR0HR6WKZjgqKg==_review_630900695",
+        "content": "Dear guest, thank you very much for choosing. Summer has the late glow. Just like the little guy who comes late, everyone is smiling. I love you, little guy."
+      }
+    ]
+  },
+  "ServerData": null
+}

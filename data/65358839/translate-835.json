@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "vyfDQd1tE82baCpxB9A0zVoMHUhtRuXMDLMlVf8cYAMHR6WKZjgqKg==_review_577558809",
+        "content": "When I checked in at night, I was given fruit as a gift. Thumbs up for the considerate service!"
+      },
+      {
+        "transKey": "+dZQ/KVHGzth1KddYUQ+pTGXCDSZxw4mkSKWoP8/AtsHR6WKZjgqKg==_review_577865462",
+        "content": "Xiao Ji is very excited after seeing your review. Thank you for your review. Xiao Ji will continue to work hard and look forward to your next visit."
+      }
+    ]
+  },
+  "ServerData": null
+}

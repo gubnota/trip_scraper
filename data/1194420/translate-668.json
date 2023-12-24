@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "3MfbCqOy6fAXMrXR4EB82u54k4qDT1HgUFpSNSQQoDgHR6WKZjgqKg==_review_618756231",
+        "content": "Simple hotel"
+      },
+      {
+        "transKey": "aSxtCnexwTDhUPCW4Y6OU8QkV8jVsE9jrkz63jpW7oMHR6WKZjgqKg==_review_618808155",
+        "content": "Dear guest, thank you for choosing Hanting! After seeing your comment, the hotel immediately convened all front desk staff for a meeting and training. It was learned that on the day you checked in, you were dissatisfied with the hotel's one-time guest supplies being collected at the front desk because the government's Civilization Office issued a \"green consumption\" policy. It is advocated that disposable toiletries are not allowed to be placed in the room. At the same time, the hotel must meet the check-in needs of every passenger. Therefore, after checking in, guests can choose to collect disposable toiletries at the front desk. Thank you very much for your help. Understand and cooperate!"
+      }
+    ]
+  },
+  "ServerData": null
+}

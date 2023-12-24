@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "FVVIzEPQFff+K6vY7mkAK6otuKI+tIRhIxhVDxd+B90HR6WKZjgqKg==_review_641310507",
+        "content": "The hotel environment is good, there is a small food delivery robot, and the store is very clean and very good! The breakfast was good and delicious! The hardware facilities are very good! ! Very satisfied"
+      },
+      {
+        "transKey": "sGsRO1O0p4NVD/8ETOBdOHzS53f0nfPARS3xD5B2uVEHR6WKZjgqKg==_review_641518891",
+        "content": "Dear guest, thank you very much for choosing me. You are not a dim star, but the entire galaxy that encompasses the bright moon. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

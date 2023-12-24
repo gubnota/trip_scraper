@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Hyrnkq2i6HVLrV+B26KT7LFIqZe4tixTAa7SNcj2Rd4HR6WKZjgqKg==_review_502209759",
+        "content": "The environment is average and the room is small!"
+      },
+      {
+        "transKey": "Bm+nKVg+CUcYcFybcMpfHANwJ8bXyJnDA4zS4nc85UkHR6WKZjgqKg==_review_502224483",
+        "content": "Thank you for staying at JI Hotel Zhongguancun Suzhou Bridge and giving us your feedback about your stay. We are very sorry that your stay did not meet your expectations. We sincerely hope to get in touch with you to learn more details so that we can make corresponding improvements. . You can call the hotel switchboard to give us your valuable suggestions. We hope that our improvements will welcome your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

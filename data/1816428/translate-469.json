@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "WcDJEwEkV8XIy3mtA3QmM0840r+CyoucOovTQIr6DiEHR6WKZjgqKg==_review_990867565",
+        "content": "Good front desk service, convenient surroundings, close to the subway"
+      },
+      {
+        "transKey": "bD8wsaTeNE5h22qPLiBxo7BJ9aCVPpd3N2LAbJ3AYXsHR6WKZjgqKg==_review_991287195",
+        "content": "Dear guests, hello! Thank you for sharing your stay experience with us despite your busy schedule. We are very honored that you spent time in the hotel. Our service, quality and details can be recognized by you, which also makes us feel warm in our hearts. It is our unremitting pursuit to make every guest feel at home. We will continue to work hard and hope to bring you a more warm and comfortable accommodation environment. We look forward to your visit again! Manager: Zhang Minghui"
+      }
+    ]
+  },
+  "ServerData": null
+}

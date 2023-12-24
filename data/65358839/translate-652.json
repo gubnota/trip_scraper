@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "QJ16GEhycHsfsk99Pn8sCMpvhlmWqXLh6qSnruGVkqYHR6WKZjgqKg==_review_583598847",
+        "content": "The hotel is very clean, the facilities are new, the service is good, the room is very clean, parking is available, and the transportation is very convenient. I will continue to book next time. Recommended"
+      },
+      {
+        "transKey": "9MIDtbIyjY8xfAu/13gs/Ose0tjChOfEvEbhGC++CggHR6WKZjgqKg==_review_583683683",
+        "content": "Dear guest, hello. First of all, thank you very much for choosing to stay at All Seasons Hotel and giving the hotel such high praise. We are deeply honored. The hotel has always been committed to giving every guest the most perfect stay experience. All the hotel staff look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

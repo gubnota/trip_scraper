@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "cq53FKWHL7oADd2tB3DKnx8uLp4Qh861s4U2MwSZjAM=_review_861820585",
+        "content": "The room is clean and tidy, the service attitude is good, the room facilities are complete, the surrounding environment is very good, the transportation is convenient, very close to the University of Economics and Business, and dining is also very convenient. It is recommended to stay!"
+      },
+      {
+        "transKey": "xqBHax89WIOMdTjSk8dgCdWjJFaAVd6WM2Bl9zJ+NCYHR6WKZjgqKg==_review_862121645",
+        "content": "Dear guests: Hello! Thank you for your choice and recognition. Winning the trust and favor of our guests is the principle of hospitality we have always adhered to. To get your favor and such a powerful reply is our greatest support! We are looking forward to meeting you again, and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

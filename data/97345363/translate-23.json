@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "aKNsrWboX21oZPpCbCC6HLq5HLKzQXzrsW8q20q7ZVgHR6WKZjgqKg==_review_726014051",
+        "content": "The room is clean and hygienic! Very comfortable after checking in! The room space is also very large! Very satisfied...!"
+      },
+      {
+        "transKey": "GWsi5igK5aCTA1ABYHYiZRlBUQA+R2u7J24LhsdQ5UkHR6WKZjgqKg==_review_726016589",
+        "content": "Dear guest, thank you very much for your choice. Xiaohan will continue to improve and hope to bring you the same warmth as home. Everything becomes soft after passing by you. I love you, Xiaohan."
+      }
+    ]
+  },
+  "ServerData": null
+}

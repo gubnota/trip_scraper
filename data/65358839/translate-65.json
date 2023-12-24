@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "wra/R1gNhnImNdI9pwnJGdC2KzwBj5B5FfJfRZsAeWoHR6WKZjgqKg==_review_834031319",
+        "content": "I booked a double bed room. The bed is 1.5 meters tall. The room is really small. It can only be occupied by one person. If there is one more person, it will not be able to turn around.\nThis is the first time to stay in such a small hotel. The price/performance ratio is not very high. If it were not for the location, I would not choose it.\nThe sanitation and service throughout the season have always been good, and you must have a room card to use the elevator."
+      },
+      {
+        "transKey": "0qe3iQh5DW/Ml8gmCeDL2KX2vEdqKvtslVP2+f1PrpoHR6WKZjgqKg==_review_834751327",
+        "content": "Dear guest, we are very sorry for the uncomfortable experience caused to you. Due to the location and property conditions, the hotel has 6 room types to choose from. In addition, based on the safety of guests and in accordance with Beijing territorial management policies, the hotel needs to install a ladder. To ensure the safety of our guests, thank you for your understanding and support!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "5eQ3RzPkjMYxII09QToMyElV0XR270OnFWXIKaDt2pwHR6WKZjgqKg==_review_860652203",
+        "content": "Doesn’t match the price"
+      },
+      {
+        "transKey": "AxRnm8sxP0YIQopxZoP0cna2yhTfJPdUslp+pSS6OUYHR6WKZjgqKg==_review_860856051",
+        "content": "Dear guest, I am sorry to have brought you a bad experience during your stay. I sincerely apologize for your comments. We have strengthened the service training and management of our internal staff. We look forward to seeing you next time you stay. Check out our changes and look forward to your next visit"
+      }
+    ]
+  },
+  "ServerData": null
+}

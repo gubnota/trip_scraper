@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "ODiPLxRpZTwEbDUDSpO0eZ21MPyzH2TzWGHpoEP+q9QHR6WKZjgqKg==_review_553899646",
+        "content": "The waiter is really attentive and the service is very good, very good"
+      },
+      {
+        "transKey": "ut+cqGzSwrFdkXnyJSXqDb/MLjcIaXD8a/kpjmCOxEEHR6WKZjgqKg==_review_554190961",
+        "content": "Simple, clear, and powerful! Thank you for choosing to stay at Orange Beijing Wukesong Hotel and for your review and recognition of the staff’s service attitude. Your support is the driving force for our continuous progress. All hotel staff will continue to work hard to provide you with a more comfortable and convenient stay environment. Use our attentiveness to exchange for your comfort when you check in. We look forward to your every visit and wish you a healthy and happy life! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

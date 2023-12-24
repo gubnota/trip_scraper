@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "WbetcRqzt04bf93igdEM7IwsvWq+VejVAAgnbPqf1eAHR6WKZjgqKg==_review_1000212467",
+        "content": "The environment is very comfortable, the service is attentive, and the transportation is very convenient."
+      },
+      {
+        "transKey": "wvcCvm7QLX5OV/nvKUC8lNYxIKnxOFqcydFGXD5YRqYHR6WKZjgqKg==_review_1001332051",
+        "content": "When the weather is cold and freezing, my care is never forgotten. No matter it is snowflakes flying or the sky is clear, Xiao Ji always wishes you the best."
+      }
+    ]
+  },
+  "ServerData": null
+}

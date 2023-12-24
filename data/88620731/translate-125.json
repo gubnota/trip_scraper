@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "jk2fpECOsendnWEdVBbOpIu9oJBeciqDimTQIeJyg/EHR6WKZjgqKg==_review_663791471",
+        "content": "The environment is very good, the reception at the front desk is very good, and there is a cute robot delivering groceries, which is very convenient"
+      },
+      {
+        "transKey": "OkbNwPlV3Dn51iZkyHFMc1ckZNxhzD0MU5ZlKqj/UNgHR6WKZjgqKg==_review_663928451",
+        "content": "Dear guest, thank you for your recognition of our work. I wish you a happy life and look forward to your visit again."
+      }
+    ]
+  },
+  "ServerData": null
+}

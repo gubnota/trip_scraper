@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "BnEVUzlMaxs8UVqFPqVDQQR4SXBx8gkPnMgtphGrrU4HR6WKZjgqKg==_review_725139341",
+        "content": "The location is good and the service is good. I was chatting with my friends at the front desk, and the lady at the front desk would thoughtfully give me water and give me likes."
+      },
+      {
+        "transKey": "8DXdpBZmk2Z5qTrkUQYPsVDWKe7H+KKI9ha+UY0YCkQHR6WKZjgqKg==_review_725599717",
+        "content": "Xiao Ji is willing to devote everything to you, just to make you smile."
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "AoA4dZBAIa18lJLJlJpBKYHsIR368qpQQ9MK3xcr3nYHR6WKZjgqKg==_review_648162763",
+        "content": "The room decoration is novel, the facilities are also very new, and there is also an intelligent food delivery robot. The room is very clean, very satisfied! ! The front desk service is also good! !"
+      },
+      {
+        "transKey": "uqtWAhlXBESGQg3jtZSNpBTX+wH0McOxSuxJadeY4xcHR6WKZjgqKg==_review_648166657",
+        "content": "Dear guest, thank you for taking time out of your busy schedule to share your stay experience. You are a little man with a gentleness that is concealed by your publicity. I love you."
+      }
+    ]
+  },
+  "ServerData": null
+}

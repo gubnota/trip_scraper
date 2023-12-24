@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "VjtrCOK9r/SzgcmKrcHwvKqiIkpRTNo/eBP8BAvPa6MHR6WKZjgqKg==_review_957270177",
+        "content": "It is a hotel close to Chaoyang Railway Station and very cost-effective."
+      },
+      {
+        "transKey": "koFEvlFlP97N4Zgya0JKQxvwGBGcym8IY3nKOynl9I0HR6WKZjgqKg==_review_957331757",
+        "content": "Dear, thank you for your affirmation. Your recognition is our biggest motivation to move forward. We will continue to work hard to provide you with better services. I wish you and your family all the best."
+      }
+    ]
+  },
+  "ServerData": null
+}

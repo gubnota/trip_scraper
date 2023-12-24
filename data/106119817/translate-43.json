@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "R3fXgg1ru/lbS2O3GyvSD0A0L1xSquL8w+kjI1Q3VXsHR6WKZjgqKg==_review_933344841",
+        "content": "The room is good and the service is good. There are free oranges to eat. It’s great. I’ll come back next time."
+      },
+      {
+        "transKey": "p1U1v4VVBePzXjVxhANF1GbH3tSOOXcF+JMq+PIe/5E=_review_933716759",
+        "content": "We know each other as clear as water, as bright as a mirror, and our hearts are clear and reflected. I believe you must feel our sincerity and efforts. Your praise is our pride. We look forward to seeing you again."
+      }
+    ]
+  },
+  "ServerData": null
+}

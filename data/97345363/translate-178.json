@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "l7zv4gd6UMixigXV8iaHbqqQcNQ0iHX2yx8sUI/0WXM=_review_867894213",
+        "content": "The service is very good. The room is clean and there is a shuttle service. I am very satisfied."
+      },
+      {
+        "transKey": "kgyZE42/Cvxrb5yQU3LUfTd7iQLjB68Aj/KyPtNIWwAHR6WKZjgqKg==_review_867905393",
+        "content": "Hello, dear guests, the gentle wind will surely blow away all the unpleasantness. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

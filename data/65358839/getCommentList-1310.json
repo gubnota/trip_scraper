@@ -1,0 +1,466 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 94,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 71,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 41,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 32,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 30,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 22,
+        "type": 1
+      },
+      {
+        "id": 136,
+        "name": "Great for business trips",
+        "commentCount": 15,
+        "type": 1
+      },
+      {
+        "id": 96,
+        "name": "Close to metro",
+        "commentCount": 10,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 680
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 669
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 11
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 135
+      }
+    ],
+    "totalCount": 539,
+    "repeatCommentCount": 141,
+    "commentList": [
+      {
+        "id": 784570293,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-05-01 00:00:00",
+        "content": "My experience was good. The service was also good except for the communication barrier. The workers there were nice. The room was clean but dusty. However, I would still recommend the place to my friends, and I hope to visit again in the future.",
+        "createDate": "2023-05-02 16:40:18",
+        "imageList": [
+          "/0231v12000b4wt7qjDE43.jpg",
+          "/0230712000b4x7g3i318A.jpg",
+          "/0237212000b4wwfzqFD00.jpg",
+          "/0232t12000b4wuvaoC273.jpg",
+          "/0234x12000b4wooxuF6EF.jpg"
+        ],
+        "rating": 4,
+        "commentLevel": "Very Good",
+        "roomTypeName": "Double Room A",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "一句肯定的話語，一個淺淺的微笑，都是對小季工作莫大的肯定，小季追求做到更好.",
+            "translateContent": "A word of affirmation and a slight smile are all great affirmations of Xiao Ji's work. Xiao Ji pursues to do better.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "NTSHALINTSHALI NOKUXOLA"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 855771124,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-06-01 00:00:00",
+        "content": "Very good one with lovely services! Room was clean that giving me a comfortable feeling!",
+        "createDate": "2023-07-03 18:02:19",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "一句肯定的話語，一個淺淺的微笑，都是對小季工作莫大的肯定，小季追求做到更好.",
+            "translateContent": "",
+            "securityKey": "rMYuUsn+YgTvwSoT9BWafYm9l6oOewgnblip0Azvn00HR6WKZjgqKg==_review_855932761"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 5,
+          "nickName": "AcFa"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 952668397,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 23:59:00",
+        "content": "Nice receptionists, good location and the room is clean.",
+        "createDate": "2023-10-16 16:55:01",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "",
+            "securityKey": "iZiFR1LsUzDHwtHC0d4rdDtp72RSoVP+bWNM47/BCPMHR6WKZjgqKg==_review_952990257"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 59,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 862367849,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "Good stay, very nice and  helpful staff, comfy beds",
+        "createDate": "2023-07-11 14:00:34",
+        "imageList": [],
+        "rating": 4.7,
+        "commentLevel": "Amazing",
+        "roomTypeName": "Double Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "",
+            "securityKey": "iZiFR1LsUzDHwtHC0d4rdDtp72RSoVP+bWNM47/BCPMHR6WKZjgqKg==_review_862485369"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 10,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 968272561,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Facilities: very good\nHygiene: very clean\nEnvironment: Very good\nService: very good\nThe most important thing is that it is a ten-minute walk from the subway station, which is very convenient for travel.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "設施：很好\n衞生：很乾凈\n環境：很不錯\n服務：非常好\n最重要的是離地鐵站走路十分鐘 出行很方便",
+        "createDate": "2023-11-06 19:08:20",
+        "imageList": [
+          "/0231e12000cix7nwa8D38.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "Dear guest: Thank you very much for your affirmation of the store's service. The store is only 450 meters away from Suzhouqiao Subway Station (Line 16) and only takes 10 minutes to walk. There are all kinds of restaurants nearby the store, which is very convenient; it is also a short distance from Renmin University and Beijing The University of Foreign Studies is within a 10-minute drive and the location is very convenient. The store is one of the few stores nearby that has its own parking lot. The store is free for hotel guests and has ample parking spaces.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Aichimaodeyubaibaier"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 959325145,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Highly recommended. The service attitude is very high. They took the initiative to help me collect the express delivery and store my luggage. There are mints at the front desk that you can take and eat at any time. Take one when you have a taste in your mouth to relieve the embarrassment. In short, it is highly recommended.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "超級推薦，服務態度非常滿分，主動幫我收快遞，寄存行李，前台有薄荷糖，隨時可以拿着吃，嘴裏有味的時候來一個，緩解尷尬，總之很推薦。",
+        "createDate": "2023-10-25 14:27:05",
+        "imageList": [
+          "/0230b12000cg8m18r707A.jpg",
+          "/0233012000cg8kvi84EB6.jpg",
+          "/0234g12000cg8jg5zFCB2.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Memory Foam Double Room",
+        "travelType": 60,
+        "travelTypeText": "Booked for others",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足",
+            "translateContent": "Dear guest: Thank you very much for your affirmation of the store's service. The store is only 450 meters away from Suzhouqiao Subway Station (Line 16) and only takes 10 minutes to walk. There are all kinds of restaurants nearby the store, which is very convenient; it is also a short distance from Renmin University and Beijing The University of Foreign Studies is within a 10-minute drive and the location is very convenient. The store is one of the few stores nearby that has its own parking lot. The store is free for hotel guests and has ample parking spaces.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 951766137,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "I stayed at the All Seasons Zhongguancun Suzhou Bridge for two nights. The hotel is clean and fresh. The room is not big but very warm. Especially the two front desk staff are polite and considerate. Especially Xiaomiao gave me a lot of help and made me feel like home. Feelings, thank you!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "全季中關村蘇州橋店住了兩晚，酒店整潔清新，房間不大但很温馨，尤其是兩位前台，彬彬有禮服務周到，特別是小苗給了我很大幫助，讓我有家一樣的感受，謝謝啦！",
+        "createDate": "2023-10-15 15:16:09",
+        "imageList": [
+          "/0236512000ce81hgx0FCF.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "Dear guest: Thank you very much for your affirmation of the store's service. The store is only 450 meters away from Suzhouqiao Subway Station (Line 16) and only takes 10 minutes to walk. There are all kinds of restaurants nearby the store, which is very convenient; it is also a short distance from Renmin University and Beijing The University of Foreign Studies is within a 10-minute drive and the location is very convenient. The store is one of the few stores nearby that has its own parking lot. The store is free for hotel guests and has ample parking spaces.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Djangoxu"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 937123819,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The environment is very clean and tidy, and very comfortable. The overall feeling is very good. The service throughout the season is still very good. There are also robots delivering food. Hygiene is pretty good\nfully equipped\nHygiene: clean\nEnvironment: Quiet\nThe service was excellent",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "環境很乾凈整潔，也很舒服，整體感覺很好。全季的服務還是很不錯的。還有機器人送餐。衞生還是不錯的\n設施：齊全\n衞生：乾淨\n環境：安靜\n服務：很好",
+        "createDate": "2023-09-28 15:56:32",
+        "imageList": [
+          "/0231312000c9radwn3DB5.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "",
+            "securityKey": "iZiFR1LsUzDHwtHC0d4rdDtp72RSoVP+bWNM47/BCPMHR6WKZjgqKg==_review_938062063"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 917688603,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room is simple and comfortable, with complete facilities, very new, the smart toilet is great, the bedside functional stereo is also very useful, the bed is comfortable to sleep on, there are free mineral water and tea bags in the room, it is very close to the subway station and very convenient",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "房間簡潔舒適，設施全，很新，智能馬桶很贊，床頭職能音響也很好用，床睡着舒服，房間裏有免費礦泉水跟茶葉包，離地鐵站很近很方便",
+        "createDate": "2023-09-03 17:56:20",
+        "imageList": [
+          "/0234812000c276b4tA29B.jpg",
+          "/0236w12000c270dlhC4B2.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "Dear guest: Thank you very much for your affirmation of the store's service. The store is only 450 meters away from Suzhouqiao Subway Station (Line 16) and only takes 10 minutes to walk. There are all kinds of restaurants near the store, which is very convenient; it is close to Renmin University and Beijing The University of Foreign Studies is within a 10-minute drive and the location is very convenient. The store is one of the few stores nearby that has its own parking lot. The store is free for hotel guests and has ample parking spaces.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z80q0v000000jmf90B344_C_130_130_Q70.jpg",
+          "commentCount": 9,
+          "nickName": "1380731"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 910391937,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "No matter when traveling for business, I always choose All Seasons Hotel, which is very considerate and user-friendly.\nfull facilities\nEnvironment: Quiet\nHygiene: Don’t worry\nService: considerate",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-08-01 00:00:00",
+        "content": "無論出差旅行一直選擇全季酒店，很貼心，很人性化。\n設施：完善\n環境：安靜\n衞生：放心\n服務：貼心",
+        "createDate": "2023-08-26 14:09:09",
+        "imageList": [
+          "/0233d12000c0aa17d9CB8.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "感謝小主的認可，全季會繼續用温馨舒適的入住環境，熱情周到的服務回饋顧客，歡迎再來。",
+            "translateContent": "Thank you for your recognition. We will continue to provide a warm and comfortable stay environment and warm and thoughtful service to our customers. Welcome to come again.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703420984366+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a2b4605-473172-258548"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "ab38d9f9-d415-4b0b-9e8b-eadd3cc3d725"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3c7f58-473172-776079"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "NXOwfbhyfLdufFSlZoog/T4jHtSOMZOuPGQMRkWvojMHR6WKZjgqKg==_review_966082579",
+        "content": "Haha, very good"
+      },
+      {
+        "transKey": "ChSjjS3C0DTSvv1zCJWprCtmjNkksuxl463dSEjf39wHR6WKZjgqKg==_review_966361761",
+        "content": "The hotel's reply: Your love makes us full of joy. We hope that every day's efforts will make life more exciting every minute and every second!"
+      }
+    ]
+  },
+  "ServerData": null
+}

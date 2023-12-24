@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "2vjOcQPxSvvK7/Qunbv9YYdkW1C+jmJcgkk+cfTq59gHR6WKZjgqKg==_review_860432929",
+        "content": "Very satisfied\n\nHygiene: Very clean and tidy\nEnvironment: very good\nService: Very enthusiastic. Will come again next time\nThere are also small robots delivering food"
+      },
+      {
+        "transKey": "P52T8HZxMtgXEDMrx5fk20ZU+nW+pLkC0UWxdVOGMQIHR6WKZjgqKg==_review_861196263",
+        "content": "Dear, thank you for your praise. Your satisfaction is the driving force for us to move forward. Your recognition has brought us a little bit of coolness in the hot summer. We will continue to work hard to welcome you with warm service and a clean and comfortable sanitary environment. Come and wish you and your family all the best."
+      }
+    ]
+  },
+  "ServerData": null
+}

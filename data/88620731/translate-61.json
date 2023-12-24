@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "zbzY1YjVl/8m5Cyq1hTtqrMjIBB6jGFMbgm3o1V4bLc=_review_805955819",
+        "content": "The room was clean and tidy. Because I am a light sleeper, they upgraded me to another level for free, which was very considerate."
+      },
+      {
+        "transKey": "KWqrNhUWWJn4Og0eh+gsvU+/+mNGqnJP2E7kKIFWGjUHR6WKZjgqKg==_review_806259449",
+        "content": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey."
+      }
+    ]
+  },
+  "ServerData": null
+}

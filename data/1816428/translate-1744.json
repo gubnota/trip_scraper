@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "/DsSmv5kdVFeqWTk0b3FjJtzf7bAb6wfu6ZX8bSREQ4HR6WKZjgqKg==_review_546074290",
+        "content": "The location of the hotel is very good, satisfied"
+      },
+      {
+        "transKey": "YGUgEw2VRDmubBN3lFXNC/YtdrnTgdcg5TkftcXXbMgHR6WKZjgqKg==_review_546471742",
+        "content": "Hello dear guest! Thank you for staying at Orange Beijing Wukesong Hotel and taking your precious time to share your stay experience with us. It is our honor to have a clean and comfortable stay environment. The hotel is located at Gate 2 East of Badili Automobile Park, West Fourth Ring Auxiliary Road, 10 minutes' drive from Metro Line 6. It only takes five minutes to walk from Haidian Wuluju Station. Public transportation is accessible in all directions and travel is convenient. Thank you for your support and recognition, so that all our staff at Orange Beijing Wukesong Hotel are confident on the road ahead and look forward to meeting you every time. ! I wish you all the best! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

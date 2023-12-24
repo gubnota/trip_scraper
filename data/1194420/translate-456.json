@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "0LdWtMrgakPaOaOxiDPr/WLM8/ZdOalpjeqymsTGdOs=_review_826585441",
+        "content": "Satisfied, the service is OK"
+      },
+      {
+        "transKey": "ZIphYdATFFOzB3nrQtoUMkw2s7Qj3t74+PJUm7CeqEcHR6WKZjgqKg==_review_826871321",
+        "content": "Dear, thank you for your positive review. Your affirmation is the best reward for us. We will continue to work hard to provide you with more satisfactory services. We look forward to your visit again and wish you all the best."
+      }
+    ]
+  },
+  "ServerData": null
+}

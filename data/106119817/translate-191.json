@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "DToHRM2aTUvBayL7zGSxaLjilMlrlmIrlaZnz1stM7wHR6WKZjgqKg==_review_798341507",
+        "content": "The environment is very good, the location is excellent, the transportation is convenient, and the service is also very good"
+      },
+      {
+        "transKey": "HYtpKJQ5D/2oDMikRGtOHeLTcPPLHhSVyhPIq6unyjIHR6WKZjgqKg==_review_798386047",
+        "content": "Dear guests: Hello! Thank you very much for your comments and affirmation. It is our responsibility to provide you with thoughtful and meticulous services. With your support, we will continue to work hard and do better with more complete service quality. Looking forward to your visit again and wish you a happy life."
+      }
+    ]
+  },
+  "ServerData": null
+}

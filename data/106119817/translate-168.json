@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "CRKUTqG/CzEWp3FiG+2bsmIvOZJWUgB4GFNgHTH2lh0HR6WKZjgqKg==_review_918600855",
+        "content": "New facilities, clean and hygienic, comfortable environment and convenient transportation"
+      },
+      {
+        "transKey": "L76d6OLkJ3a+2JD6qIieB23RIo/f3hoj+VM/IdydJVA=_review_918789805",
+        "content": "A compliment from you is not as good as the spring breeze. I am very happy and honored to receive your recognition. We will continue to work hard and welcome you to visit us again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

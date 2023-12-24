@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "b8q5wCni3V+UAKfLNrXJRcdL+/P1NsHMDwWhop9YNd4HR6WKZjgqKg==_review_742360015",
+        "content": "The breakfast is delicious. The service is very considerate. The room is very clean. It can be seen that care has been taken."
+      },
+      {
+        "transKey": "P+PmM5SEOl4ZrEIe98YqBLMkY0MevndTtSeyU48AO0cHR6WKZjgqKg==_review_742533153",
+        "content": "Dear guests: Hello! I'm glad that you chose to stay at Orange Wukesong Hotel. I was stunned when I saw your low review! The hotel's breakfast buffet is rich in variety and delicious, and the dining time is extended to 11:00 noon. Home is a haven from the wind, a cozy nest, and a corner that warms the body and mind. Home is where there is love. Orange always hopes to use its thoughtfulness and warmth to become the home away from home in your heart. We look forward to your next visit home! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "WJvS960KH8siRq5oVxq1o+e4nKiLVrrff+ZGo4wG8fsHR6WKZjgqKg==_review_635437853",
+        "content": "The hotel is in a good location, surrounded by residential areas, and the accommodation environment is quite quiet and will not be affected by traffic. The room is also very clean, the cleaning lady is very attentive, and the towels and bath towels are very comfortable! The facilities in the room are also very new. Good in every way."
+      },
+      {
+        "transKey": "3a+NFlDIPAtxF6+okM/4apwEJwnaa+0kq3xQxj103eoHR6WKZjgqKg==_review_635439757",
+        "content": "Dear guest, thank you very much for choosing. Summer has the late glow. Just like the little guy who comes late, everyone is smiling. I love you, little guy."
+      }
+    ]
+  },
+  "ServerData": null
+}

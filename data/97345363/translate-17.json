@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "BkXz5lk4A9vaP94Ppf5UEJMUzoDH7LfzpRddY25bYNcHR6WKZjgqKg==_review_736928287",
+        "content": "The front desk service is very good, the breakfast is delicious, the room is clean, and the hotel also provides free shuttle bus to Communication University and the subway station, which is very cost-effective"
+      },
+      {
+        "transKey": "6evrp+pYZ7ZBpHUlgU1yCZ0EcfM8okk0duOX3ffKZ6EHR6WKZjgqKg==_review_736963265",
+        "content": "Dear guest, thank you for taking time out of your busy schedule to share your stay experience. Breeze ten miles away, stars thousands miles away, you are a little treasure just like them. I love you little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "RdL3/Ct8K5sTKTLcE8yvWRlNmq3bWooYchRmYI1x/FEHR6WKZjgqKg==_review_486532350",
+        "content": "The breakfast is very delicious and it is very close to Beijing Chaoyang Railway Station. The nearby Dayali is very convenient for eating. I will bring my colleagues here to stay next time."
+      },
+      {
+        "transKey": "dQhK3yDNUiVC5PEBhWLM/7XZtyrJbBluUctN4/0awjMHR6WKZjgqKg==_review_486876963",
+        "content": "Your satisfaction is the biggest thing in our work. Hanting Hotel Chaoyang Railway Station has always provided every guest with the most sincere and enthusiastic service to give every guest a home away from home experience. Your smile is our best reward. Thank you for your choice. Looking forward to meeting you again and wishing you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

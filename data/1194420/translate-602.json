@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "q9BAPI3xgHM3h44oMTkAjiBg/FOjDyrPbTFY61rDsekHR6WKZjgqKg==_review_657871089",
+        "content": "Affordable hotel."
+      },
+      {
+        "transKey": "XI5ry3gX6qpUF/8zMjOHRR7rtollnW00x5IPgao7YPUHR6WKZjgqKg==_review_657986283",
+        "content": "Hello, dear family, Aijiezhuhanting thanks you for choosing our store and giving us your approval. Your satisfaction is our greatest encouragement. We will do our best to serve every guest and make them feel at home when they are away from home. If you have any questions during your stay, please contact the front desk and we will solve them for you as soon as possible. We look forward to your visit and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

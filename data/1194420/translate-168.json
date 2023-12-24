@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "aB7X20yrf4RO367Qwp1s6z3G5SPBb2JAX2CDrwlotkIHR6WKZjgqKg==_review_760454061",
+        "content": "The room was very clean and tidy, the bed was very comfortable, and the bar service was very nice! The waiter was very patient in answering questions and the smart robot was very cute!"
+      },
+      {
+        "transKey": "viUga3SKXEE5UodHgcNtH2SZPWEhOa7bQnpbR4wiDJoHR6WKZjgqKg==_review_760729327",
+        "content": "Dear guest, thank you for choosing Hanting! The hotel's breakfast is a combination of Chinese and Western, buffet style, with various varieties and rich nutrition. It is deeply loved by the majority of tourists! I see that you like our pastries and snacks very much during your stay this time, and I am looking forward to it very much. You can come back to the hotel for a taste. The hotel has also added a self-service laundry room, dryer, and delivery robot. It is also very close to Chaoyang High-speed Railway Station and Joy City, which is very convenient. We look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

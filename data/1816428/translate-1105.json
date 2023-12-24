@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "nKPxiaRW6EzeAr+PGU8AIx3m224pFjqEPqIhdTilME0HR6WKZjgqKg==_review_642930999",
+        "content": "The service was very good, the breakfast was very good, and the environment was nice and clean. The room is slightly small."
+      },
+      {
+        "transKey": "wA+xDFtstrXaNLc+nEd9iny6SfXEvDtP0Vd8sQjo3uMHR6WKZjgqKg==_review_643074093",
+        "content": "A few words that go straight to the bottom of my heart. Dear Huazhu member guests, hello! First of all, thank you for choosing to stay at Orange Beijing Wukesong Hotel and for your recognition of our staff's service attitude, room hygiene and breakfast. It is our constant pursuit to add warmth to your journey and to provide you with a high-quality service experience. It is our honor that the hotel's breakfast opening time is from 7 a.m. to 11 a.m., which is long enough to meet your different dining needs. All the hotel staff look forward to your visit every time, and wish you good health and success! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

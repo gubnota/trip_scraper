@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "EOtcrZezBINEkqdWCbEPyiqSR/MKUbGX1yQMNZ8sSLMHR6WKZjgqKg==_review_483681855",
+        "content": "Breakfast is quite rich"
+      },
+      {
+        "transKey": "vbpd9IWe2n6NjVHT9BsjdgXurcumFh0WuomwK+yWU2wHR6WKZjgqKg==_review_483683576",
+        "content": "Guest, your affirmation makes us feel extremely warm in the cold winter. May the wonderful impression add a touch of warmth to your trip. Thank you for meeting us at Orange Beijing Wukesong Hotel. Thank you for your encouragement of our breakfast varieties. Acknowledgment, we always adhere to the rich diversity of breakfast, just to provide you with a rich, diverse, nutritious and delicious breakfast. We will continue to work hard to provide you with a more comfortable stay experience. All hotel staff look forward to your every visit and wish you a new year. All the best, health and happiness!"
+      }
+    ]
+  },
+  "ServerData": null
+}

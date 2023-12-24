@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "MgdpSf16AldtfqqRMFSfteKldjGoBhxydA4W/E5bhL8HR6WKZjgqKg==_review_614148541",
+        "content": "Very satisfied with hygiene"
+      },
+      {
+        "transKey": "EkBofTiQoKvaK4mLeRwRaXP0lfMWTtRiNa126oDHcaEHR6WKZjgqKg==_review_614614297",
+        "content": "Thank you for your affirmation and support. The store has the latest version of the brand's products, which supports self-service machine processing, which is efficient and fast; intelligent guest control in the room and small remote sensing; the lobby fragrance uses the brand's unique Longjing tea fragrance, which has a comfortable and pleasant smell. ;During the current epidemic, robot delivery is safe and efficient!"
+      }
+    ]
+  },
+  "ServerData": null
+}

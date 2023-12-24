@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "5A5YenbIdhB0XJ2cjzYDOJSrgvhAVxQIYSgYGMgjNiEHR6WKZjgqKg==_review_982936147",
+        "content": "very nice\nHygiene: clean\nFacilities: all available\nEnvironment: close to school"
+      },
+      {
+        "transKey": "T8r1WsBK//WR2QxBVF3TQ7CprE5YvlIK/ZaF4UchPpsHR6WKZjgqKg==_review_982940295",
+        "content": "Hello dear, we want to open the window in our heart and let the flowers, trees and lights of the world float into your bright window one by one. We will let your trust and expectation continue. I love you Hanting."
+      }
+    ]
+  },
+  "ServerData": null
+}

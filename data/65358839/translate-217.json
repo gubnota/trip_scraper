@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "a+VMYPRM/f0UjK77VNiA0ywgstInkuOo3x58gDpUj88HR6WKZjgqKg==_review_609650991",
+        "content": "The room is very nice, the overall situation is very good, the front desk service is very good and welcoming, and the lobby environment is very comfortable. It has a light Zen tea flavor,"
+      },
+      {
+        "transKey": "dnCEsqcILCJ2Blui1AYa2/Oq2Dl4c4pk4fZwVtZ/HXwHR6WKZjgqKg==_review_610112583",
+        "content": "Thanks for the review guys! The simple words all reveal infinite sincerity. Xiao Ji is deeply moved and will definitely live up to your trust. Keep working hard and keep doing it! We look forward to your visit every time~ I wish you a happy life every day!"
+      }
+    ]
+  },
+  "ServerData": null
+}

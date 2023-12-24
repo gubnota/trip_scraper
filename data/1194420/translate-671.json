@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "FmPMKCqGfdbts9yIUHxHxqXJ1D22oOEq6lHyjnYCoxcHR6WKZjgqKg==_review_595009141",
+        "content": "Very clean and tidy"
+      },
+      {
+        "transKey": "E5Z9Dh5jpuWP0I83G5zxcRLhzqR2r2pfSID7FsQeMVo=_review_595840886",
+        "content": "Dear guest, thank you for choosing us among many hotels. Thank you very much for your support and trust in our work. The hotel has a free parking lot. It is 800 meters away from the train station and takes 10 minutes to walk. There is also a gift box in the hotel. Robot, free self-service laundry room, dryer, breakfast buffet with complete Chinese and Western varieties and delicious taste. I hope you will bring your family to taste it next time you stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

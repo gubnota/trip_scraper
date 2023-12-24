@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "ZWWxbhXiruMoOsgmwQklzCnxH6cFyX2PhohGGbCSZUYHR6WKZjgqKg==_review_900212659",
+        "content": "In terms of facilities, I am dissatisfied with two points. First, the shower room door is difficult to open from the inside of the shower room; second, the window handle is about to fall off."
+      },
+      {
+        "transKey": "AxRnm8sxP0YIQopxZoP0cna2yhTfJPdUslp+pSS6OUYHR6WKZjgqKg==_review_900567485",
+        "content": "Dear guest, I am sorry to have brought you a bad experience during your stay. I sincerely apologize for your comments. We have strengthened the service training and management of our internal staff. We look forward to seeing you next time you stay. Check out our changes and look forward to your next visit"
+      }
+    ]
+  },
+  "ServerData": null
+}

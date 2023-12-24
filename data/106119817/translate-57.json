@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "WUzaYN0xLzmuekvaVAKE+H+vCtoadnD6RoJVLFrLjt8HR6WKZjgqKg==_review_874286099",
+        "content": "The service is very good, the room is neat and clean, the functions are perfect, and the experience is very comfortable"
+      },
+      {
+        "transKey": "etsTu8x/TlTFaNd2oaKxcJgiHRbjtCdf30UYlGtl2Qk=_review_874509055",
+        "content": "Dear guests: Hello! Thank you for your stay. We will continue to maintain high-quality and excellent guest service standards and strive to create a comfortable and warm stay experience for every guest. Thank you again for your review and we sincerely look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

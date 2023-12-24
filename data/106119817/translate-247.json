@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "08TdnKF1Z5nuSGzHoMLJmKalLkAQBAK2u+5L8HgegyYHR6WKZjgqKg==_review_809064669",
+        "content": "The facilities in the room are complete, very satisfied!"
+      },
+      {
+        "transKey": "UYV5dQojxYZ22iPWDUaWnnGl6feEoyS98C8Kmij9aDcHR6WKZjgqKg==_review_809095803",
+        "content": "The heartfelt words are silent but sweet, the greetings are ordinary but warm, your trust is the most real, the friendship is elegant but the most precious. I wish you happiness and joy!"
+      }
+    ]
+  },
+  "ServerData": null
+}

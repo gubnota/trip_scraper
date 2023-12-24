@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "sMWNHgDIYX32sYpVJN6oTGxJZd/kZ4WguGDTVsaupQAHR6WKZjgqKg==_review_915695661",
+        "content": "The room is clean and tidy with a beautiful environment. The hotel facilities are fully equipped and intelligent. The TV in the room is large and can be cast. The front desk service of the hotel is good. They smile and say hello every time they come in and out. They are very warm and make people feel comfortable. There are also drinks and snacks available in the lobby, which is very satisfying."
+      },
+      {
+        "transKey": "6o7SGOgEH4RZyEJ+n52sFlspU/IAFieXP8zz3Q53JQsHR6WKZjgqKg==_review_915959603",
+        "content": "Your compliment is better than the sunshine, and your affirmation is better than the blooming flowers. We look forward to your stay again."
+      }
+    ]
+  },
+  "ServerData": null
+}

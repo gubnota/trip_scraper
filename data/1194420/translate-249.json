@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "VD99E7CJ5cghom/3g/0tIa3SxMc1FoK4+0AwLQIzw2YHR6WKZjgqKg==_review_959623753",
+        "content": "This price is quite affordable!"
+      },
+      {
+        "transKey": "g2qUQYHlVclv9CNeZfokF0CzzuwKcei/kMbVQzDkFKoHR6WKZjgqKg==_review_960140161",
+        "content": "Dear, thank you for your recognition. Your affirmation is the biggest driving force for us to move forward. We will continue to work hard to bring you a better service experience. I wish you a happy life."
+      }
+    ]
+  },
+  "ServerData": null
+}

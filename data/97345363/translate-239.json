@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "+2F+HWMaAR6gZiw7duGzQ2Neu0dn/vAid248KFi+vTIHR6WKZjgqKg==_review_774524063",
+        "content": "The hotel is very new, very clean, cost-effective and conveniently located"
+      },
+      {
+        "transKey": "+cTKgUwdsh2A+Hbgf5Oc+roByXErOAF4kVvsVD9qnowHR6WKZjgqKg==_review_774746325",
+        "content": "Dear guests, you look up at the fireworks, but there is a brighter light in your eyes than the fireworks. The light of fireworks is only a moment. The light in your eyes is eternal. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

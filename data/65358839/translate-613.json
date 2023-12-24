@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "IFKId+j1nQwa/YZWqn7z594xZTly7UTy//0fL8X3n4UHR6WKZjgqKg==_review_622055557",
+        "content": "The service at the hotel is super good! Very patient! Hygiene is also very clean and the room is very spacious"
+      },
+      {
+        "transKey": "KAdtaOBl1cxPMtzf1/xUlHd5CtRxHZ8uTHQMpYWz6z4HR6WKZjgqKg==_review_623627603",
+        "content": "Thank you very much for your visit and support. Your support is definitely our biggest motivation. If you like it, remember Xiao Ji is waiting for you here."
+      }
+    ]
+  },
+  "ServerData": null
+}

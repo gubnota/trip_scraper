@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "B3KfqNSABCgO1ZP2j7r+bn7lfcAhSbNsmKK9sV4Gk0MHR6WKZjgqKg==_review_616661869",
+        "content": "Hygiene: Hygienic conditions are very good\nEnvironment: The environment is very good"
+      },
+      {
+        "transKey": "Zg0p8PSrCO72sRGnK5o436IUjZNUQO6dESqB+Y8xgjoHR6WKZjgqKg==_review_616982779",
+        "content": "Dear guest: Hello, thank you for choosing Hanting! The hotel is the new version of Hanting 2.7, with elegant decoration style and comfortable check-in environment, providing you with a different accommodation experience. In addition, during the current epidemic, the hotel's hygiene strictly follows the epidemic prevention requirements and carries out strict cleaning and disinfection, so that You can stay with peace of mind. The hotel has also added a self-service laundry room and delivery robot to provide you with value-for-money services. We look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

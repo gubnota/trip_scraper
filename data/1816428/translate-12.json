@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "6My6NfBHhM16J4jlqAt3ImnJVRS/4PGoODJz5Ihsk4k=_review_938176791",
+        "content": "The service in the hotel is very good, the breakfast is also very good, the orange juice is very considerate, and it is very quiet"
+      },
+      {
+        "transKey": "YDezyDG54zDdIA43RR6r1lWadoCAECbno2hMUnw6JAQHR6WKZjgqKg==_review_938460569",
+        "content": "Dear guest, thank you for taking the time to give us a perfect review. The hotel has always been adhering to the service tenet of \"treating guests like relatives and friends, with goodwill and willingness\". \"The products and services we deliver are of reliable quality and clean.\" With the business philosophy of \"safety and safety first\", we strive to provide every customer with a high-quality and perfect stay experience. The hotel has complete facilities and equipment. All rooms have open windows. There is a self-service laundry service on the first floor and a buffet breakfast room on the second floor. Your trip will be guaranteed. The Orange Breakfast features freshly baked egg tarts, croissants and rice porridge made with purified water. There are also freshly cooked wontons and noodles in the Ming Dynasty area. They are delicious and will give you full energy for the day. , looking forward to your next visit and check-in experience, I wish you a happy life! Hotel Manager: Ji Hongjiao"
+      }
+    ]
+  },
+  "ServerData": null
+}

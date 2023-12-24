@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "iJcLvTRpm6lZvokgpUpp6n2WYWXBvFViU5EJwNKYc/oHR6WKZjgqKg==_review_481464164",
+        "content": "The hotel is very clean, the breakfast is rich, especially the location of the hotel is very convenient, and the service is also very enthusiastic! Good review!"
+      },
+      {
+        "transKey": "iFgNs9KMr25PzU4mKwi+eazt/2d0TOQhZF8HDoGOnJAHR6WKZjgqKg==_review_481570952",
+        "content": "Hello dear guests! Thank you for staying at Orange Beijing Wukesong Hotel and sharing your stay experience with us. As you said, the hotel is located in the Badili Automobile Park on the West 4th Ring Road, only a five-minute walk from Haidian 5th Road Ju Station on Metro Line 6. , the surrounding transportation network extends in all directions. We are delighted to see your overall positive recognition of our hygienic breakfast and service. Your satisfaction is the greatest encouragement for our work. We will continue to work hard to provide you with a more comfortable stay. All hotel staff look forward to your visit every time, and wish you peace and happiness!"
+      }
+    ]
+  },
+  "ServerData": null
+}

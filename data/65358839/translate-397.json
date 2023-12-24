@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "e6ADJWGASTJYB45lKqyx4oLTRoGR4213h/UdX6aqVAEHR6WKZjgqKg==_review_737887915",
+        "content": "Very good. Even though the mobile phone signal is not good, they also changed the room very carefully. I will come back next time when I am on a business trip!"
+      },
+      {
+        "transKey": "zU+NmSm7PM2ZyOGQyI6+ExtTIL9ZPnM0I+ftG3Tcn7UHR6WKZjgqKg==_review_738003593",
+        "content": "A word of affirmation and a slight smile are all great affirmations for Xiao Ji's work. Xiao Ji pursues to do better."
+      }
+    ]
+  },
+  "ServerData": null
+}

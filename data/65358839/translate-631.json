@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "kwA+SUtDDh/qM4merRl6Gr9lk3CtayJDYQ2p15MbyBsHR6WKZjgqKg==_review_868176301",
+        "content": "9700 explanation is very good"
+      },
+      {
+        "transKey": "+WqeDlLc9GRyEcCePVVFbPrj62w38ULNQxrDGLPqPUcHR6WKZjgqKg==_review_869103835",
+        "content": "Thank you for your review, Xiao Ji will work harder and look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

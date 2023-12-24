@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Yr6rZoeFqR0DASiuUGY40Em7OmDknBrYWth4V6l0Ly4HR6WKZjgqKg==_review_502715194",
+        "content": "The decoration facilities are relatively new, relatively quiet, and the breakfast is good. It is recommended to stay here"
+      },
+      {
+        "transKey": "Q4CEJnsJk1wjdCOuHk7eIbOQKZS7soYDKCFvqYbHBOkHR6WKZjgqKg==_review_502721290",
+        "content": "Thank you very much for choosing Hanting among many hotels. Thank you for your support and recognition of the hotel. The hotel currently has a new breakfast feature. The robot can also deliver meals to the room. The hotel has a free laundry room. We look forward to your next stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

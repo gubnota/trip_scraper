@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "1avgne59aHF33u3igTGPbskDShTSDl3ZpJ1TZ0IjIIcHR6WKZjgqKg==_review_576588309",
+        "content": "For a business trip, the hotel's location is more convenient. The attitude of the front desk and waiters is very good. The room is relatively new and clean. Although it is not big, it is very comfortable. I will choose it next time."
+      },
+      {
+        "transKey": "8N0SODMmsRsUwjSpiHbLKNBo2+C565Kau73W2Mnelu0HR6WKZjgqKg==_review_576596881",
+        "content": "The happiness of the host's stay is the greatest affirmation for Xiao Ji. We will continue to work hard and strive to do better. We look forward to your visit again~"
+      }
+    ]
+  },
+  "ServerData": null
+}

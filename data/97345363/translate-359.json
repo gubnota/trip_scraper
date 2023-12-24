@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "N8pzHu7ymJ4SDo91CJeoX8RulpTHwMxvzgeJ42h/IsEHR6WKZjgqKg==_review_733055881",
+        "content": "The hotel is very nice"
+      },
+      {
+        "transKey": "y7ieOxf14+9AiOu0z0y6u9GMI8fx3bB0TooXpst3/DA=_review_733059113",
+        "content": "Thank you for your recognition and support of our hotel. I hope your smile will become more and more beautiful and your life will become better and better!"
+      }
+    ]
+  },
+  "ServerData": null
+}

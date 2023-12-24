@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "qfid+uZ9lcDi9hNVzcnRvvHT3gY+3AzLC5XQ6ZpvmwA=_review_499775059",
+        "content": "Very good, the environment is very good, very clean and hygienic, takeaways can be delivered to the door of the room by robot, I will stay there next time~"
+      },
+      {
+        "transKey": "dd4irvt+pSqq65h3wtzhpItATgCACUbTc7WFnW7BO9QHR6WKZjgqKg==_review_499827646",
+        "content": "The considerate and loving service and comfortable and warm environment will make you happy and satisfied. We look forward to your next visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

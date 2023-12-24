@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "tyM9ChGC7s+gFlc5Q5AKBry6GK/7lHDJtnzFvRi55ZkHR6WKZjgqKg==_review_982362767",
+        "content": "This Orange Hotel is opposite the East Gate of the University of Trade and Economics. There are many places to eat around and it is very convenient. The location is good. The hotel front desk service is very good. They are polite and enthusiastic. The room facilities are complete and the small control switch is also very convenient. I recommend it to everyone. Check in."
+      },
+      {
+        "transKey": "L76d6OLkJ3a+2JD6qIieB23RIo/f3hoj+VM/IdydJVA=_review_982412883",
+        "content": "A compliment from you is not as good as the spring breeze. I am very happy and honored to receive your recognition. We will continue to work hard and welcome you to visit us again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

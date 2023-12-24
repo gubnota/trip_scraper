@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dY7kwxvbuxsnpsi7WXgn/GnftsgUCFByfSZjxcEpirAHR6WKZjgqKg==_review_976068217",
+        "content": "A very good Hanting Hotel. Very clean and tidy. It also has pick-up and drop-off service, which is very convenient."
+      },
+      {
+        "transKey": "A88W6KIPJynQ39bUyqKa4F1qJLOKfA9tBtN3DlFRbfAHR6WKZjgqKg==_review_976069993",
+        "content": "Hello dear, we want to open the window in our heart and let the flowers, trees and bright lights of the world float into your bright window one by one. We will let your trust and expectation continue, love your Hanting Yo"
+      }
+    ]
+  },
+  "ServerData": null
+}

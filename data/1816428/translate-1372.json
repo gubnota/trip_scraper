@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dLJOL7KvbFnMD69oGzb0/A1TOGMbCcB9Y9nCZM6qHwEHR6WKZjgqKg==_review_632964279",
+        "content": "The hotel service is very good and very satisfied"
+      },
+      {
+        "transKey": "VeG37i8o3qGCNeQ89CG7UV08v1HllRjY83OCwxZXQ9kHR6WKZjgqKg==_review_633144471",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel, and thank you even more for taking time out of your busy schedule to encourage us. We treat every guest as our own family and strive to make every guest feel at home here, and your recognition is our greatest motivation. Your affirmation is the greatest encouragement for our work. All hotel staff look forward to your every visit. I wish you success in your work and a happy life! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

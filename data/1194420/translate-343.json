@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "VzaRK9GRUK73D50QNjM8sT6y8t2YvXUZdtGjdubHHyMHR6WKZjgqKg==_review_947419301",
+        "content": "Hygiene: The interior is great"
+      },
+      {
+        "transKey": "U/ngR6D2fIAuqt7BONRF0B3iFXdtQ7WzsEblhqHdqjsHR6WKZjgqKg==_review_947470013",
+        "content": "Dear guest, thank you for choosing Hanting! The hotel will clean and disinfect the room after each guest checks in, so that every guest can check in with peace of mind. The hotel's breakfast is also a combination of Chinese and Western, in a self-service format, and the hotel has also added a free breakfast. robot. Self-service laundry room and dryer provide you with value-for-money convenience! We look forward to your visit again and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

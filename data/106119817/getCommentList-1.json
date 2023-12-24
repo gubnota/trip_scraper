@@ -1,0 +1,445 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 54,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 38,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 34,
+        "type": 1
+      },
+      {
+        "id": 149,
+        "name": "Would stay again",
+        "commentCount": 21,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 19,
+        "type": 1
+      },
+      {
+        "id": 53,
+        "name": "Many amenities",
+        "commentCount": 17,
+        "type": 1
+      },
+      {
+        "id": 5029,
+        "name": "Small room size",
+        "commentCount": 12,
+        "type": 2
+      },
+      {
+        "id": 35,
+        "name": "Excellent TV",
+        "commentCount": 6,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 368
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 364
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 4
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 89
+      }
+    ],
+    "totalCount": 307,
+    "repeatCommentCount": 61,
+    "commentList": [
+      {
+        "id": 947513097,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The location is relatively convenient.\nRoom facilities: The facilities and equipment are very complete.\nHygiene: clean, tidy, no odor.\nBreakfast: Nutritious and many choices, as well as many fruits\n\"A good day starts beautifully with breakfast.\nService: The handsome guys and girls at the front desk are very polite and have a very good service attitude. They must be given a five-star rating.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "地理位置比較方便。\n房間設施：設施設備都很齊全。\n衞生：乾淨、整潔、無昇味。\n早餐:營養豐富選擇多，還有很多水果\n〝美好的一天從早餐開始美美噠。\n服務：前台的帥哥美女都很有禮貌，服務態度非常好，必須給與五星好評",
+        "createDate": "2023-10-09 18:42:07",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Sunshine Superior Room (Double bed)",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "您的一句讚美，勝過陽光明媚，您的一句肯定，勝過百花盛開，期待您的再次入住",
+            "translateContent": "Your compliment is better than the sunshine, and your affirmation is better than the blooming flowers. We look forward to your stay again.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8050v000000jnn3hF304_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 945094879,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Hygiene: very clean and tidy\nFacilities: Complete facilities\nService: Very good service and friendly attitude",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "衞生：非常乾淨整潔\n設施：設施完善\n服務：服務很好，態度友善",
+        "createDate": "2023-10-07 08:54:01",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Sunshine Superior Room (Double bed)",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "總有一次相遇，讓人與心靠近總有一次心動，讓人與人相依一聲柔柔的問候，便是滿眸的歡喜一場靜靜的等待，便是滿懷的詩意感謝您的選擇期待您的再次光臨！",
+            "translateContent": "There is always a meeting that brings people close to each other. There is always a heartbeat that makes people rely on each other. A soft greeting is full of joy in the eyes. A quiet waiting is full of poetry. Thank you for your choice and look forward to you. Come again!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 6,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 951145927,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The overall atmosphere of the hotel is very good. The front desk service is warm and efficient. Everyone greets politely. The guest rooms are clean and the room facilities are all smart and very nice. The hotel's breakfast is rich and hygienic, as well as freshly ground coffee. The surrounding transportation is convenient and there are many places to eat. I will consider staying here next time I come here.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "酒店整體氛圍特別好，前台服務熱情高效，都挺禮貌打招呼，客房衞生乾淨，房間設施都是智能化的，很nice。酒店早餐豐富衞生，還有現磨咖啡，周邊交通方便，吃飯的也很多。下次過來還會考慮住這邊。",
+        "createDate": "2023-10-14 18:14:04",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Room (Double bed)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "酒店回覆內容：心語無聲，卻很甘甜，問候平常卻很温暖，您的信任，卻最真切，友情淡雅，卻最珍貴，願您開心幸福快樂！",
+            "translateContent": "The hotel's reply: The words are silent but sweet, the greetings are ordinary but warm, your trust is the most real, the friendship is elegant but the most precious, I wish you happiness and joy!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Meijiangxue"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 952762543,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel environment is very good and the service staff have very good attitude",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "酒店環境很好，服務人員態度非常好",
+        "createDate": "2023-10-16 20:07:45",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Business Room (Double bed)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "酒店回覆內容：心語無聲，卻很甘甜，問候平常卻很温暖，您的信任，卻最真切，友情淡雅，卻最珍貴，願您開心幸福快樂！",
+            "translateContent": "The hotel's reply: The words are silent but sweet, the greetings are ordinary but warm, your trust is the most real, the friendship is elegant but the most precious, I wish you happiness and joy!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 5,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 951687831,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Just nearby for a business trip. Booked a room. The room is good.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "出差正好在附近。訂了房間 房間不錯",
+        "createDate": "2023-10-15 14:00:43",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Business Room (Double bed)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "春風十里不如您的一句讚美，非常開心和榮幸能得到您的肯定，我們會繼續努力的，歡迎您再次光臨！",
+            "translateContent": "A compliment from you is not as good as the spring breeze. I am very happy and honored to receive your recognition. We will continue to work hard and welcome you to visit us again!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8070v000000k1tg7D66D_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 953568635,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room facilities are very new and comfortable to live in.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "房間設施很新，住着舒服。",
+        "createDate": "2023-10-17 20:22:00",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Room (Double bed)",
+        "travelType": 50,
+        "travelTypeText": "Solo travelers",
+        "feedbackList": [
+          {
+            "content": "心語無聲，卻很甘甜，問候平常卻很温暖，您的信任，卻最真切，友情淡雅，卻最珍貴，願您開心幸福快樂！",
+            "translateContent": "The heartfelt words are silent but sweet, the greetings are ordinary but warm, your trust is the most real, the friendship is elegant but the most precious. I wish you happiness and happiness!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 945719283,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Friendly service at the front desk and quiet environment",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "前台服務熱情，環境安靜",
+        "createDate": "2023-10-07 16:37:06",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Sunshine Superior Room (Double bed)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "總有一次相遇，讓人與心靠近總有一次心動，讓人與人相依一聲柔柔的問候，便是滿眸的歡喜一場靜靜的等待，便是滿懷的詩意感謝您的選擇期待您的再次光臨！",
+            "translateContent": "There is always a meeting that brings people close to each other. There is always a heartbeat that makes people rely on each other. A soft greeting is full of joy in the eyes. A quiet waiting is full of poetry. Thank you for your choice and look forward to you. Come again!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 944023331,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Fully equipped, comfortable, spacious, bright and clean",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "設施齊全舒適寬敞明亮整潔",
+        "createDate": "2023-10-06 11:15:00",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Family Friendly Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "心語無聲，卻很甘甜，問候平常卻很温暖，您的信任，卻最真切，友情淡雅，卻最珍貴，願您開心幸福快樂！",
+            "translateContent": "The heartfelt words are silent but sweet, the greetings are ordinary but warm, your trust is the most real, the friendship is elegant but the most precious. I wish you happiness and happiness!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 945773375,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Good\nFacilities: Good.\nHygiene: Good.\nGood environment",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "挺好\n設施：好。\n衞生：好。\n環境：好",
+        "createDate": "2023-10-07 17:43:59",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Sunshine Deluxe Room (Double bed)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客：您好！非常感謝您對我們的支持與信任，我們將繼續秉承用心做事、細心服務的服務理念，讓您在桔子酒店的居停感受到家一般的温暖。期待您能再次光臨檢閲我們的進步，祝您開心每一天！",
+            "translateContent": "Dear guests: Hello! Thank you very much for your support and trust in us. We will continue to uphold the service concept of doing things with heart and serving attentively, so that your stay at Orange Hotel will feel like the warmth of home. We look forward to your coming again to review our progress, and wish you a happy day!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 863678703,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The location is OK, but the front desk service level needs to be improved.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "位置可以，前台服務水平有待提高",
+        "createDate": "2023-07-12 22:55:22",
+        "imageList": [],
+        "rating": 3.5,
+        "commentLevel": "",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "敬的賓客您好：很抱歉未能給您帶來滿意的入住體驗，我們深感愧疚與歉意。我們會加強員工培訓，更加關注客人所需，提升我們服務標準，希望您能見證我們的成長，也期待您的下次光臨。再次深表歉意，願您旅途愉快。",
+            "translateContent": "Dear guests: We are sorry that we could not bring you a satisfactory stay experience. We are deeply guilty and apologetic. We will strengthen staff training, pay more attention to the needs of our guests, and improve our service standards. We hope you can witness our growth and look forward to your next visit. Again, I apologize and wish you a pleasant trip.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80q0v000000jmf90B344_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703419899275+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a381f48-473172-95979"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "b3a93650-ab78-48b7-b828-a08a1b555843"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3c7ee1-473172-303790"
+      }
+    ]
+  }
+}

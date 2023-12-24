@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Ujy3Y/r2D+TNJ1NXfAYJOh8zhSZ73p0wcKW+TigWESoHR6WKZjgqKg==_review_997306013",
+        "content": "fully equipped\nEnvironment: OK\nHealth: good\nService: attentive"
+      },
+      {
+        "transKey": "9T80WWVd+h5TVeY3aQifMc2FDb6LgEvkvOF2DVXgIhoHR6WKZjgqKg==_review_997835211",
+        "content": "Dear guests, hello! Thank you for sharing your stay experience with us despite your busy schedule. We are very honored that you spent time in the hotel. Our service, quality and details can be recognized by you, which also makes us feel warm in our hearts. It is our unremitting pursuit to make every guest feel at home. We will continue to work hard and hope to bring you a more warm and comfortable accommodation environment. We look forward to your visit again! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

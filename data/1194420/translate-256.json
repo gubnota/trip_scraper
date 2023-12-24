@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "OhimNrHzgYR7n9Eo4EdvGTTOdy7udzdXaTJ3FRRkmLUHR6WKZjgqKg==_review_547983869",
+        "content": "This hotel is great, simple and clean. Breakfast is 18 yuan, the restaurant is hygienic and the food is delicious. It would be even better if a small table could be added to the spare space in the room.\n🚗 Transportation: Convenient\n🧹Hygiene: Excellent\n🍃Environment: Yes\n🔔Service: Excellent"
+      },
+      {
+        "transKey": "hu/N5zTLjCVQckUDOA37aBKDkq5JcOvtEwih2Y28gsgHR6WKZjgqKg==_review_548470203",
+        "content": "Dear guests, hello! We are very happy to see your endless love and praise for the hotel. Your love is an encouragement and a support for us. We will redouble our efforts and thank you for your support. Every affirmation is precious to us. We are surrounded by convenient transportation. We are two kilometers away from Beijing Chaoyang Station. It takes about 15 minutes to walk. The transportation around the hotel is convenient. There is a free laundry room, food delivery robot, and free reading area inside. and tea area, providing value-for-money services for your trip."
+      }
+    ]
+  },
+  "ServerData": null
+}

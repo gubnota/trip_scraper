@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "8d6uB/NwfmGKwGsfDyNiDDOFZ5xQl6LNIFx/+f4rG6cHR6WKZjgqKg==_review_727859743",
+        "content": "The hotel is very clean and quiet. The service attitude is very good. I am very satisfied."
+      },
+      {
+        "transKey": "jNhc4hvZVm34Nycn3VFD8CHvHhQqFtvibNZ0EbAgwAo=_review_728629731",
+        "content": "Dear guest, thank you for your recognition of Hanting Hotel! The hotel creates a \"home\" culture, treats every guest like family, is warm and hospitable, and makes every traveler feel the warmth of home; the hotel has also added Delivery robots, self-service laundry rooms, dryers, tea areas, and free reading areas provide value-for-money convenience for your travels. We look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

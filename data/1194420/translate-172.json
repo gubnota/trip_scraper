@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "+FiUsocHAD9JEc2SzO9WCnnHKpZUnB/e0cfFzkSOspo=_review_980259771",
+        "content": "I stay here every time I go on a business trip. It’s clean, hygienic and warm."
+      },
+      {
+        "transKey": "xV7PqLih/q2xk6RKbfODnS5GNDY/vych43S+mmHqbuwHR6WKZjgqKg==_review_981135739",
+        "content": "Dear customer, thank you for your recognition of us. Providing you with high-quality service is our philosophy. While providing you with high-quality service, our hotel also has many other features. We have free parking, spacious conference rooms, breakfast buffets, and free laundry rooms that you can use as needed. In your spare time, you can read a book in our reading bar, order yourself a cup of coffee, and enjoy your own warm time. The hotel is adjacent to Chaoyang Station, only about 15 minutes' walk. With Chaoyang Park to the west and Chaoyang Joy City to the east, you can not only enjoy delicious food but also enjoy the scenery. We look forward to your visit again."
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "bogbSZXCHDOCe4cf+m7bPd82il9uOSrrRGF5w09VsxYHR6WKZjgqKg==_review_550585331",
+        "content": "The service is very warm. Fruit drinks are given when you check in, which is very considerate. The breakfast is also very good."
+      },
+      {
+        "transKey": "eR3cr4xwAVvkM8WpT8MbhOK8s7jC0YYl7u1xy63J754HR6WKZjgqKg==_review_551060577",
+        "content": "Dear guest, thank you for choosing to stay at Orange Beijing Wukesong Hotel and giving us a high evaluation. Being recognized and trusted is a wealth that cannot be bought. Because we know each other, everything is understood. Because we understand, everything is just right. We will continue to move forward with your praise and affirmation, we will be here waiting for your arrival, and wish you a happy life! Manager: Zhang Minghui"
+      }
+    ]
+  },
+  "ServerData": null
+}

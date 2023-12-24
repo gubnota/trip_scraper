@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Area120n0GDfyTOnlOw/cj10jrNMnfK+ME62BcmLxAEHR6WKZjgqKg==_review_752455577",
+        "content": "The hotel is very clean"
+      },
+      {
+        "transKey": "4AoT9aOaxzO6H36LyEOcnEl7T8WmL4dMuqj6SBAcHQEHR6WKZjgqKg==_review_752463283",
+        "content": "Dear guest, hello! Thank you for staying at Orange Beijing Wukesong Hotel. As a comfortable brand of Huazhu, Orange brand attaches great importance to the stay experience of all guests. We are extremely honored that you are happy to stay! In addition, the hotel has also strengthened its intelligent services. The store is equipped with intelligent robots that can take the initiative to deliver the items you need to your room in time, saving you the trouble of going up and downstairs. At the same time, in order to make you feel like home here, we The laundry room is located opposite the elevator room on the first floor. The laundry room has a complete range of toiletries for your use, as well as a dryer and a garment steamer. We hope that you will be fully satisfied with our efforts! ! ! All the hotel staff look forward to your next visit. I wish you success in your work and a happy life! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

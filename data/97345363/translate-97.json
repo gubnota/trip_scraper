@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "jPxrGUPkr1DS8cHh16FLRF0fTaLZO23LxEg70U2YCaIHR6WKZjgqKg==_review_637662393",
+        "content": "The service is very good, the hygiene is very clean, the waiters clean very carefully, the location is also very good, everything is smart"
+      },
+      {
+        "transKey": "TI8trbWOXy2RUwIcVZalf97ZfHpHb3jAaROH3cZGOK0HR6WKZjgqKg==_review_637673545",
+        "content": "Hello, dear guests, may your four seasons be filled with flowers and plants in spring, little skirts in summer, dusk and fallen leaves in autumn, and sunshine and warmth in winter. I love you little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

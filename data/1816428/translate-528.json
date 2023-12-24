@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "/0Y0VWiImywOWM/3REwTyMODxp4RuMOQblO0W7Yvl6kHR6WKZjgqKg==_review_897047225",
+        "content": "The hotel has convenient transportation, the room is slightly small, and the service is good."
+      },
+      {
+        "transKey": "8lm1LpNC4oaFI5rbq0FdVJ/QAhBMROooF10kz356l0kHR6WKZjgqKg==_review_897089585",
+        "content": "Hello dear guests! First of all, thank you for your stay. Your stay experience may not have met your expectations. The hotel opened in 2008 and is the third hotel to open among all Oranges. We may not be able to make changes to the room area, but we will work hard to improve it. Overall product, good service and hygiene. If you are not satisfied with anything during your stay, you can contact us at any time and we will try our best to help you solve it. I hope you can see our efforts and progress and look forward to your visit again! Manager: Ji Hongjiao"
+      }
+    ]
+  },
+  "ServerData": null
+}

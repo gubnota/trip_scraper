@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "MtwnsZ0ksbh4NM3PjemmI0yiKnFd52noEYgqD76KgBUHR6WKZjgqKg==_review_549981705",
+        "content": "The front desk service of the hotel is very good, the drinks in the room are free, I sleep very quietly, and the room is clean and tidy. Pretty good,"
+      },
+      {
+        "transKey": "H0mS0CpF1DA1Tj9H6vhcA3XIie89CyG4ldk3Qq3DafAHR6WKZjgqKg==_review_550305005",
+        "content": "There is a kind of praise that comes from words, and there is a kind of happiness that comes from satisfaction. I like your language, no need for too many gorgeous decorations, joyful mood, no need for too much laughter. Thank you for your like, thank you for your satisfaction, thank you for choosing Orange, and thank you for your company. I believe that with your support we will do better and better and look forward to your visit again. Manager: Zhang Minghui"
+      }
+    ]
+  },
+  "ServerData": null
+}

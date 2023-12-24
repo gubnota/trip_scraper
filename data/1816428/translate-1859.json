@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "TzvtG4puMUdSg7QzCNSvqth/NZT7BeRaVUplSMtzu1gHR6WKZjgqKg==_review_498114170",
+        "content": "Except for being small, everything else is OK"
+      },
+      {
+        "transKey": "G+oXqVTkdibJtcLZbMipM1qMxyMbJDEMIPXbIZeASj4HR6WKZjgqKg==_review_498239990",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel. It is a rare fate to choose us among several hotels. I am very sorry that I did not give you a perfect stay experience during your first stay. It was indeed such a good experience. As you said, the hotel rooms are slightly small and the room size cannot be changed. The room facilities have been gradually improved. We also hope to get your recognition in terms of service and hygiene. If you are not satisfied with anything during your stay, please feel free to contact us. Contact us and we will try our best to help you solve it. I hope you can see our efforts and progress and look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

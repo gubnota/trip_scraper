@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "lHRpQll4QqrnHrp1DAuh797Ph/dw3MrTvbIYGQ6KMOgHR6WKZjgqKg==_review_525157416",
+        "content": "The hotel room is very clean, the service attitude is super good, and the breakfast is long and rich"
+      },
+      {
+        "transKey": "ovxK/oiGSdG2JavYVYRKpk7CPTXdMV65NXUudb9E6TcHR6WKZjgqKg==_review_525299594",
+        "content": "Dear guests, hello! Thank you for sharing your stay experience with us despite your busy schedule. We are very honored that you spent time in the hotel. Our service, quality and details can be recognized by you, which also makes us feel warm in our hearts. It is our unremitting pursuit to make every guest feel at home. We will continue to work hard and hope to bring you a more warm and comfortable accommodation environment. We look forward to your visit again! General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

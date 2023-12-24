@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "g15Bmf99Idg9bwhmLK//uGGyZGUlDWVJn1zt7HSIPz8HR6WKZjgqKg==_review_981240771",
+        "content": "The condition is very good but the house is a bit small"
+      },
+      {
+        "transKey": "a80OHODvSFWgGc1cwmXiQ1zWAXTfnCe6QkHpYRyshhcHR6WKZjgqKg==_review_982273725",
+        "content": "Dear, thank you for choosing Hanting! Thank you for your affirmation. I am very ashamed to have left a flaw in your stay experience this time. I would like to apologize to you. I hope you will give us another chance to serve you again. We will give priority to serving you better. I wish you a better life. joy."
+      }
+    ]
+  },
+  "ServerData": null
+}

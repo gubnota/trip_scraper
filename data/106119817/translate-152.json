@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "yl0gdvW/WGoen1WvNzxc3Ou1bd99Ssbr48rFgtRwKugHR6WKZjgqKg==_review_918563085",
+        "content": "The room is tidy and the front desk service is friendly! Worth visiting again!"
+      },
+      {
+        "transKey": "xqBHax89WIOMdTjSk8dgCdWjJFaAVd6WM2Bl9zJ+NCYHR6WKZjgqKg==_review_918789417",
+        "content": "Dear guests: Hello! Thank you for your choice and recognition. Winning the trust and favor of our guests is the principle of hospitality we have always adhered to. To get your favor and such a powerful reply is our greatest support! We are looking forward to meeting you again, and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

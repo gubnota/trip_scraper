@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "+Z2VPnBolJIuAXP9ZrklKu0Q6oLwzRGzwN7AIlcheq8HR6WKZjgqKg==_review_711043177",
+        "content": "Attentive service, good attitude, considerate of customers, thumbs up for them\nHygiene: clean\nfully equipped\nenvironment of grace\nService: see above"
+      },
+      {
+        "transKey": "OI9J1/CIgjc9v5rDPL56Ge6L+YeK9UhU5fIr2bnuu0E=_review_711379591",
+        "content": "Dear guest, thank you for choosing Hanting! The hotel is version 2.7 of Hanting. It has novel decoration, complete facilities and a high degree of intelligence. It is equipped with self-service delivery robots, laundry rooms, dryers, free tea areas and reading areas. Convenient services are provided for your travel. The hotel also has free parking. It is only 1.2 kilometers away from Chaoyang High-speed Railway Station and can be reached on foot. It is very convenient. We look forward to your visit again and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

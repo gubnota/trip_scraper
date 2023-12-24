@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "iq0TJpe6J2ezAfh146Zhgsw42Cmr1PUv7ENz9HybpccHR6WKZjgqKg==_review_857579751",
+        "content": "Good 👌Quiet and comfortable near the Fourth Ring Road"
+      },
+      {
+        "transKey": "lHa+N4L5w6FJVQ0EH0dxla52IuD9JcgaWdVuzvtZrGgHR6WKZjgqKg==_review_857844063",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel, and thank you even more for taking time out of your busy schedule to encourage us. We treat every guest as our own family and strive to make every guest feel at home here, and your recognition is our greatest motivation. Our guest room sisters carefully prepare each room every day. All hotel staff look forward to your next visit. I wish you success in your work and a happy life! Manager: Zhang Lijuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

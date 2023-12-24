@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "2A5nU+4UfxpsRq+visygbaItKuVd/3pby04NYYamSuIHR6WKZjgqKg==_review_891177623",
+        "content": "The service attitude is very good, the service is clean and hygienic."
+      },
+      {
+        "transKey": "u3J3vp6CZ/YHXRGJXOp3oxNb0abbij4onOmDn3rgENwHR6WKZjgqKg==_review_892375149",
+        "content": "Dear guests: Hello! Thank you very much for your stay and appreciation! It's a pleasure to bring you a wonderful time during your trip. Your appreciation is a great encouragement to the hotel and the driving force for our progress. We will continue to maintain our enthusiasm and strive to make every guest feel at home. We eagerly look forward to your visit again! Welcome to come back and experience it again, and wish you a happy life! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

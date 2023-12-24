@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "vOOgSzO25lP6V+JEJOyIqonfys85GozViwgv+qiG7CUHR6WKZjgqKg==_review_975399347",
+        "content": "Hygiene: clean\nService: warm\nEnvironment: Quiet"
+      },
+      {
+        "transKey": "Dhu8yHEZ149widLGCuYZvQGfZgGLuwMHMWPgpNwI/ucHR6WKZjgqKg==_review_976329167",
+        "content": "Dear guest, thank you for your support and trust in us. The hotel is very close to Chaoyang High-speed Railway Station and can be reached without taking a car. It is also very close to Joy City and is very convenient for shopping and food. Our breakfast is a Chinese and Western buffet. There are many varieties, including Beijing’s special snacks. We look forward to your coming here often."
+      }
+    ]
+  },
+  "ServerData": null
+}

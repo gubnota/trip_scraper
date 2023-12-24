@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "/POiviZgeRkGGnSUePAXQnUbs7wM2N4kMULNPBZmP2cHR6WKZjgqKg==_review_763897759",
+        "content": "The environment is good. The newly renovated store has comprehensive hardware facilities in all aspects. The front desk service is very good. It is worthy of being owned by Huazhu."
+      },
+      {
+        "transKey": "3a+NFlDIPAtxF6+okM/4apwEJwnaa+0kq3xQxj103eoHR6WKZjgqKg==_review_763954247",
+        "content": "Dear guest, thank you very much for choosing. Summer has the late glow. Just like the little guy who comes late, everyone is smiling. I love you, little guy."
+      }
+    ]
+  },
+  "ServerData": null
+}

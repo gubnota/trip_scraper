@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "z61jcgN0eR6ZwwZztxuFTpo7XpTrd71EyO8JXUyKMNwHR6WKZjgqKg==_review_569402364",
+        "content": "Good hotel. Clean, renovated. Breakfast is delicious Chinese. Located close to the station"
+      },
+      {
+        "transKey": "2zCM120W2wObrgkpUyv+Bz2P5PjS18P1M0RH30IT28sHR6WKZjgqKg==_review_569739491",
+        "content": "Dear guests, hello, thank you for your stop and comments. We will constantly try and fully provide you with high quality services. Our yard can park, and the surrounding transport is convenient. It is located less than two kilometers from Beijing Chaoyang Road Railway Station, with a journey time of about 20 minutes. The hotel has installed free washing, Give value for money services for your trip."
+      }
+    ]
+  },
+  "ServerData": null
+}

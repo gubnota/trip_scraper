@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "eiBujYaBBjiEem6mbhlWa+QvdliDYbZELy9w6JtKmjgHR6WKZjgqKg==_review_618227105",
+        "content": "Very good, clean and hygienic"
+      },
+      {
+        "transKey": "qBIF+sjBl1ElWkPwtiKhaRoh18KdkMg91GxU2xItmV0HR6WKZjgqKg==_review_618479135",
+        "content": "Dear guest, thank you for staying at Hanting Beijing Chaoyang Railway Station Branch. Thank you very much for your praise and recognition. The hotel is new and the 2.7 rooms are clean and comfortable. Breakfast is a Chinese and Western buffet with many varieties. Free parking is available in the hotel courtyard and there is a laundry room. Dryer, very convenient, looking forward to your next stay"
+      }
+    ]
+  },
+  "ServerData": null
+}

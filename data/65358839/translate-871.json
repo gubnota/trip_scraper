@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Nrx1WM+DELUMkrdvgRdSZxrfMh/z2xJoJEha4lAyt5EHR6WKZjgqKg==_review_587546854",
+        "content": "Clean and hygienic, simple decoration style"
+      },
+      {
+        "transKey": "zEQ6sJM7r/B7G4ndbRQ4sB18aiIg3tjRjeQEtPtnHCMHR6WKZjgqKg==_review_587888582",
+        "content": "Thank you for your praise. Your encouragement is our motivation to move forward. We will definitely work hard and do better."
+      }
+    ]
+  },
+  "ServerData": null
+}

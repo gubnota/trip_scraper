@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Pq4kTwYcXQgP7lRhnNqXetd1nkY4RUib5agaebcqWycHR6WKZjgqKg==_review_837900433",
+        "content": "The front desk service is attentive, the room is clean, and all service staff are warm and courteous to guests. Will come again in the future."
+      },
+      {
+        "transKey": "6T30GQUNYs3oRnlh6rzhI97FkOp1zUUQ9Bqum9Y4TEUHR6WKZjgqKg==_review_838199133",
+        "content": "Dear guests: Your praise is the best affirmation for us. It is our mission to take good care of every guest staying in the hotel. We hope to provide you with thoughtful service during your trip. If necessary, we are available at any time Contact our partners!"
+      }
+    ]
+  },
+  "ServerData": null
+}

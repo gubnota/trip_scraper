@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "XMR14Wbzb5LmzmFEdACnl5l+ePgGqK/FiBw7CEC8Ft4HR6WKZjgqKg==_review_584766218",
+        "content": "The location of the hotel is not far from the subway station and the transportation is OK"
+      },
+      {
+        "transKey": "zabHED6IvVCHKsE7lfohrU1Qolpght5zmnLd8BU4cT0HR6WKZjgqKg==_review_586980653",
+        "content": "Dear guest, thank you for taking the time out of your busy schedule to leave a review for our store. Hanting University of International Business and Economics Hotel is located in Building 1, No. 2, Shaoyaoju A, North Fourth Ring Road, Beijing. It is only 800 meters away from Shaoyaoju Station of Beijing Subway Line 10 and Line 13. The transportation is very convenient. There are self-service laundry services and robot delivery services. This is your first choice location for business trips, tourism, and work outings. Welcome to visit again"
+      }
+    ]
+  },
+  "ServerData": null
+}

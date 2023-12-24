@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "nl19e5cVLUxyIEw2TCQnuhqlyrqfKeV1VALRIg1YEYoHR6WKZjgqKg==_review_969074363",
+        "content": "The service is really good, the room is neat and clean."
+      },
+      {
+        "transKey": "+DkSrrmKgPK/05rYkoLnUdj4Gmg35HVhuS/YxIRLisgHR6WKZjgqKg==_review_969554961",
+        "content": "Dear, thank you for your affirmation. The ponies are very happy. We will continue to work hard to provide you with better services. We look forward to meeting you again. I wish you all the best."
+      }
+    ]
+  },
+  "ServerData": null
+}

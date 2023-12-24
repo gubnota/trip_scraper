@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "F0DmBMgCI0JoZXXigBn01wFqJ4j0MWZrbbmBnYgIZZ8HR6WKZjgqKg==_review_892585497",
+        "content": "Facilities: Complete and convenient surroundings\nEnvironment: Very comfortable\nService: Very attentive\nHygiene: very clean"
+      },
+      {
+        "transKey": "wXCGkbZOlPLtD81+8RI2xnWfNgL2w5iLRpl/CEcXdl0HR6WKZjgqKg==_review_892634483",
+        "content": "Dear guests: Hello! The stream is slow and the time is soft. Thank you for your support. We will continue the good quality and more perfect service as always. Thank you for your support and love. We look forward to your visit again. I wish you a happy life every day! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

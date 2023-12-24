@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "z3Vck7kZcSgpCxkNDJsyjzB5qhLIdr6oI+MSeGykPLcHR6WKZjgqKg==_review_621624787",
+        "content": "I go out and live occasionally. The environment is okay."
+      },
+      {
+        "transKey": "5jTIU0uMseP78Pqy+Oc55SKY8teGTnpOXSQIF48PNXsHR6WKZjgqKg==_review_621648979",
+        "content": "Dear guests, hello! Thank you for choosing Hanting. The hotel is the new version of Hanting 2.7. Not only does it have complete facilities and novel decoration, it is also located near the bustling business district of Chaoyang District, Beijing. It is very convenient for business trips, shopping, food, and tourism. The hotel also has its own independent free parking lot for self-service The laundry room and delivery robot provide value-for-money services. The hotel's breakfast is also a self-service style that combines Chinese and Western styles. It is diverse and rich. We look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

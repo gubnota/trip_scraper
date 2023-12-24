@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "IDaRsLKw3DVVJD7BDt53sBco97ZJn6TYqpzbZB7koMAHR6WKZjgqKg==_review_766798439",
+        "content": "how to say? The hotels in Beijing are really expensive and inappropriate."
+      },
+      {
+        "transKey": "3zf1ialMgjFvHmofrv5zIIy7WPnsHxcma+n1NBRl6toHR6WKZjgqKg==_review_767069337",
+        "content": "Hello dear guest! Thank you for choosing to stay at Orange Beijing Wukesong Hotel and leaving your review and feedback. We deeply apologize for not being able to give you a satisfactory stay experience. Hotel rooms will fluctuate within a certain range based on surrounding traffic. We will sincerely contact you to confirm your itinerary. You can choose to book online as soon as possible. If you need anything during your stay, the front desk staff will be by your side 24 hours a day. All the hotel staff look forward to your every visit and wish you all the best! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

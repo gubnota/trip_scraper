@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Rx0zUzTsPC68gLs0LDrAGQZks0rRkkspI7H9JS+XXroHR6WKZjgqKg==_review_975276279",
+        "content": "Facilities: The facilities are very good and intelligent\nHygiene: Very clean and tidy, the room is bright\nEnvironment: The surrounding environment is good\nService: Attentive service, and oranges to eat"
+      },
+      {
+        "transKey": "OTMTKZYYPJM7gtqGYlBqrZ0bmHdpvgzSdEBBfqJeZacHR6WKZjgqKg==_review_975642643",
+        "content": "The hotel's reply: Your compliment is better than the sunshine, your affirmation is better than the flowers blooming, and we look forward to your stay again."
+      }
+    ]
+  },
+  "ServerData": null
+}

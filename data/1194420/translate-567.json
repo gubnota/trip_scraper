@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Jf0n05LfPNSWHZT74QnV9VjhpS8dALhbYiW9CBiEAW8HR6WKZjgqKg==_review_780930133",
+        "content": "Very good experience"
+      },
+      {
+        "transKey": "p8wxvZrXbi91vI4oka2p0cnAKACCHHgRZYzUm0Y2aKQHR6WKZjgqKg==_review_781168797",
+        "content": "Dear guest, thank you for choosing Hanting! Your recognition of the hotel is the biggest driving force for the hotel. Our hotel is located outside the East Fourth Ring Road of Beijing, very close to Beijing Chaoyang High-speed Railway Station, Chaoyang Joy City, and Sanlitun Business District. , it can be reached within ten minutes by taxi. There is also an independent parking lot in the hotel courtyard. The hotel is also equipped with a self-service laundry room, dryer, and delivery robot to provide convenient services for your travel. We look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

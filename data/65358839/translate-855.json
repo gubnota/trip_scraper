@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Djn4WBn2ClxQ5plWjdSFColZjJJ3oYlIv2ikUZxEK8cHR6WKZjgqKg==_review_483177305",
+        "content": "Although the hotel room is not very big, it has everything you need. Especially having a refrigerator is so convenient. The toilet seat in the bathroom is also heated, and the service staff are very friendly. It can be considered a store with high cost performance."
+      },
+      {
+        "transKey": "8nvJ5N6AlcWt3PrSSIuz+e987wwzcDWejA3ulmKH8bMHR6WKZjgqKg==_review_483191324",
+        "content": "The years are just right and the time is just right. In these busy days, Xiaoji is beautiful because of your arrival. Please take care of me in the days to come!"
+      }
+    ]
+  },
+  "ServerData": null
+}

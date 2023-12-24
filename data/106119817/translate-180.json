@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "QD0ckjyUkzhb2diqbWNTHB1o5nmXzHieRjlWPA1e2CcHR6WKZjgqKg==_review_758736113",
+        "content": "The smell is a bit strong after being newly renovated, and the room is a bit small. Everything else is pretty good. It's also very close to the school."
+      },
+      {
+        "transKey": "z/koQeFKzGh9cH3aoRffyOpcj3ipiiBJQHo4j9eNedoHR6WKZjgqKg==_review_758935549",
+        "content": "Hello dear guest! Thank you for your recognition of our hotel. The hotel has undergone air conditioning before opening and complies with national requirements. Please feel free to check in!"
+      }
+    ]
+  },
+  "ServerData": null
+}

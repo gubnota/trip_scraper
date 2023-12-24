@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "GOewr32Y4htlB7eCl568IwjYFLms5AYw/nmAzDwZOlsHR6WKZjgqKg==_review_731572231",
+        "content": "There was noise outside. The staff changed the room promptly and the service was warm and thoughtful."
+      },
+      {
+        "transKey": "Exk/gUjJ9nBvlP+fsNMCxpIW9ExwckEAOWu1zAgWCiMHR6WKZjgqKg==_review_732035485",
+        "content": "Dear guest, thank you for choosing Hanting! The problem you reported is that the kitchen exhaust fan at Dayali at the door was forgotten to be turned off the night before, causing a noise. The hotel has contacted Dayali as soon as possible and informed them that the equipment must be turned off after work in the evening. You Next time you come, this kind of thing will definitely not happen again. We look forward to seeing you again and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

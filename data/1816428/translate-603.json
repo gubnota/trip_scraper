@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "QLiIRjZqMHHIKDfG7D8bgG3liwj2QKEJxxu1X0OmF/MHR6WKZjgqKg==_review_791454897",
+        "content": "The location of the hotel is good, the service attitude is very good, very warm and considerate."
+      },
+      {
+        "transKey": "RaKvdA8A5yRYDHnDcHV7ZTjctv7D/9LnjlRUmoZ0BNsHR6WKZjgqKg==_review_791517859",
+        "content": "Hello dear guests! Thank you for staying at Orange Beijing Wukesong Hotel. Your satisfaction is our greatest encouragement and support. The welcome gifts carefully prepared by the hotel for you carry our most sincere greetings and expectations for you. We are committed to providing every guest with meticulous, thoughtful, warm and considerate services. We strive to make every guest happy to become a repeat customer. The hotel is located at Gate 2 East of Badili Automobile Park. Take Metro Line 6 and exit from Haidian Wuluju Station. It takes 3-5 minutes to walk directly to the hotel. We look forward to meeting you again. I wish you a happy life. Manager: Zhang Lijuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

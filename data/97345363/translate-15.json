@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "sPCKd5khd74+mTFO68EW9b+97z3tMal/gcie80RD8SUHR6WKZjgqKg==_review_717791903",
+        "content": "I highly recommend this hotel to stay in. It has a nice atmosphere and the hotel’s breakfast buffet is also quite delicious! The variety is also very rich, the lobby decoration is also good, the interior of the room is also very clean, and the rooms are disinfected, which is very reassuring!"
+      },
+      {
+        "transKey": "ioHvqi4EiPsIWqoJZQ/wZQhwd1RdNnoLHblExgzzT4IHR6WKZjgqKg==_review_717805557",
+        "content": "Hello dear guests, I hope that Xiaohan can sweep away the dust in your life. When I look up, I see eyes full of stars. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

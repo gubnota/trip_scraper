@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dlYiqGaGJC2odMhrqKuruogKS2fo5saV+l4htjbEMSMHR6WKZjgqKg==_review_660548511",
+        "content": "The breakfast was delicious and the reception at the front desk was very nice."
+      },
+      {
+        "transKey": "4qGjLGQ2XpaK1qMEHrPUI5HNDfrLLXW6+seNfgaRabUHR6WKZjgqKg==_review_660549843",
+        "content": "Dear guests, our staff have undergone strict on-the-job training before taking up their posts, and their professionalism is also very strong. They can bring you a high-quality accommodation experience. The store has convenient transportation, beautiful environment, and new equipment and facilities. , looking forward to your visit again."
+      }
+    ]
+  },
+  "ServerData": null
+}

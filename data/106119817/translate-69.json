@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "+CRRtoFGodKfnlMaNMOjTu6CrPH5A+G6jjBx6t+OH3oHR6WKZjgqKg==_review_800362959",
+        "content": "The room is clean, the service is very good, and there are free oranges. I recommend everyone to stay here."
+      },
+      {
+        "transKey": "6o7SGOgEH4RZyEJ+n52sFlspU/IAFieXP8zz3Q53JQsHR6WKZjgqKg==_review_800688877",
+        "content": "Your compliment is better than the sunshine, and your affirmation is better than the blooming flowers. We look forward to your stay again."
+      }
+    ]
+  },
+  "ServerData": null
+}

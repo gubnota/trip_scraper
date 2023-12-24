@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "zghHfjN6FL6XyQPXZXIh+uL0Hv9vhc1jrA0aOV3wn38HR6WKZjgqKg==_review_543616261",
+        "content": "🚗 Transportation: There is a subway nearby\n🧹Hygiene: Very clean\n🍃Environment: There are supermarkets and Carrefour nearby\nThere is also free parking"
+      },
+      {
+        "transKey": "fok3umrbD1oS8FYzQ0DAeS2lopvOqBsDPDSeIUzC1a4HR6WKZjgqKg==_review_543665544",
+        "content": "The night with stars will not be dark, the sea with sky will be blue, the life with dreams will be full of sunshine, and with your days, our work will be more meaningful. Thank you, guest, for choosing to stay at Orange Beijing Wukesong Hotel and giving us full recognition. Your affirmation is the greatest encouragement for our work. We will continue to work hard to provide you with a more comfortable and convenient stay experience. All hotel staff look forward to working with you. Every time we meet, I wish you success in your work! General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

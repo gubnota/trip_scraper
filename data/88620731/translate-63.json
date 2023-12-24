@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "ZeDMMfcEubgCnycjaVE5vte0g6Mz0sEXxPLaUUNR/boHR6WKZjgqKg==_review_711957413",
+        "content": "The hotel has complete facilities, the environment is clean and tidy, and the staff's service attitude is excellent. I always like to stay in Hanting when I travel a lot, but this hotel is even better. highly recommended! Give 10 points praise"
+      },
+      {
+        "transKey": "KWqrNhUWWJn4Og0eh+gsvU+/+mNGqnJP2E7kKIFWGjUHR6WKZjgqKg==_review_712389195",
+        "content": "Dear guest, thank you very much for your praise of our hotel. We will continue to work hard to live up to your praise. Thank you again for your affirmation of the hotel. We look forward to visiting you again. I wish you a pleasant journey."
+      }
+    ]
+  },
+  "ServerData": null
+}

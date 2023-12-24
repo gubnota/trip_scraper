@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "KqeGNQr9elPLVYXdSytVSswJZj2bCh7mfJ8WvmUqTOwHR6WKZjgqKg==_review_798431435",
+        "content": "The service is good and the breakfast is also very good"
+      },
+      {
+        "transKey": "p1Vpj+G6MytgQeJESNquJ9ffagBMJ2uCfzziUsaIZScHR6WKZjgqKg==_review_798667245",
+        "content": "Hello dear guests! Thank you for staying at Orange Beijing Wukesong Hotel. We are very happy to receive your support for breakfast and comments. We attach great importance to the quality of breakfast and hope that our guests can taste the most unique delicacies at Orange. The hotel chef studies it every day We prepare elaborate breakfasts for our guests. The freshly baked egg tarts and freshly baked croissants launched in the store are the most popular ones. The white porridge in our hotel is made from Northeast Wuchang rice and purified water. You are welcome to taste it next time and we look forward to seeing you. I wish you a happy life next time you visit! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

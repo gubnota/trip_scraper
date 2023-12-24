@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "9AOdRQp8vKO0EOJsMzA3AKqhhk1hWh8UFfmOUex3bW8HR6WKZjgqKg==_review_537919842",
+        "content": "The room is very nice and the mirror in the corridor is nice"
+      },
+      {
+        "transKey": "BBSMbbLAaJmmixERM+0snRDgS2fepM9teic0WgdPJyYHR6WKZjgqKg==_review_537979302",
+        "content": "Hello dear guest! Thank you for choosing to stay at Orange Beijing Wukesong Hotel and for commenting on the room environment. Your satisfaction is always our unremitting goal. The design of the glass mirrors in the corridors of the hotel floors not only brings a bright sense of light, but also is more practical. , can be used as a 360-degree coat mirror with no blind spots. All hotel staff look forward to your every visit and wish you all the best! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

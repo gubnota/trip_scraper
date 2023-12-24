@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "9dNmshkvjPdYJIjnZAuDlkOOzZ7ooBwnwh+exk7gR6AHR6WKZjgqKg==_review_753227017",
+        "content": "The location is relatively convenient, and it is very convenient to go to surrounding universities for business. We upgraded the room for free. Although it faces the street, it is relatively quiet. The space is arranged just right. The snacks and milk are very considerate. All in all, it was a comfortable experience, highly recommended!"
+      },
+      {
+        "transKey": "3CewQCL4Q1pPJ4dRPxSlu0xTxNPATf+JBMhRHePcfnwHR6WKZjgqKg==_review_753417785",
+        "content": "The time is just right, the breeze is not dry, thank you old friend for your support, Xiao Ji is willing to accompany you through the long years."
+      }
+    ]
+  },
+  "ServerData": null
+}

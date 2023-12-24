@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "R+ldvSZExaF1BxpSuG73J+bkyeq+JQkyFtg2cZThxIcHR6WKZjgqKg==_review_638900497",
+        "content": "The mattress is very comfortable to sleep on and the height of the pillows is also very suitable. You can enjoy breakfast when you stay on a business trip. The windows in the room are quite large and very bright and clean. The TV can also project the screen, which is very good. Very satisfied!\nThe breakfast was delicious and the room was clean and hygienic."
+      },
+      {
+        "transKey": "TI8trbWOXy2RUwIcVZalf97ZfHpHb3jAaROH3cZGOK0HR6WKZjgqKg==_review_638901585",
+        "content": "Hello, dear guests, may your four seasons be filled with flowers and plants in spring, little skirts in summer, dusk and fallen leaves in autumn, and sunshine and warmth in winter. I love you little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "0XNFQa7jpHE/nU/g4NykWDSOFudvUHLZ81cJzzoa2dIHR6WKZjgqKg==_review_759704759",
+        "content": "It was a very comfortable stay!"
+      },
+      {
+        "transKey": "FA8p8vD3TYuxZLCTZYs/PV8DhGUkXs+AtnurNzk6iNUHR6WKZjgqKg==_review_759709563",
+        "content": "We hope that when you come here, it will bring you a relaxed and comfortable environment. We will use the most enthusiastic service to let you experience the warmth of home. We look forward to your visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

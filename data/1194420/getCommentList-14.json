@@ -1,0 +1,450 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 97,
+        "name": "Convenient location",
+        "commentCount": 163,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 138,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 115,
+        "type": 1
+      },
+      {
+        "id": 149,
+        "name": "Would stay again",
+        "commentCount": 85,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 85,
+        "type": 1
+      },
+      {
+        "id": 95,
+        "name": "Close to train station",
+        "commentCount": 77,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 62,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 35,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 1084
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 1075
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 9
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 183
+      }
+    ],
+    "totalCount": 853,
+    "repeatCommentCount": 231,
+    "commentList": [
+      {
+        "id": 581972615,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The location of the hotel is very convenient, the room is good, clean and tidy, the surrounding environment of the hotel is also good, the service of the hotel is also very good, you can stay for a while.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-03-01 00:00:00",
+        "content": "酒店所在位置交通挺方便，房間也不錯，乾淨衞生整潔，酒店周邊環境也不錯，酒店的服務也挺好，可以一住的。",
+        "createDate": "2022-03-20 15:43:10",
+        "imageList": [
+          "/02044120009dk7kgo9D77.jpg",
+          "/0206r120009dkbcld7815.jpg",
+          "/02063120009dkbenaB7A6.jpg",
+          "/0205d120009dk9jnd1B1E.jpg"
+        ],
+        "rating": 4,
+        "commentLevel": "Very Good",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的入住與點評，我們將再接再厲，竭誠為您提供優質服務，我們小院能停車，周邊交通便利，距離北京朝陽高鐵站不足兩公里，步行時間大約20分鐘，酒店設定了免費洗衣房，送餐機器人，免費閲讀區和茶水區，為您的出行提供物超所值的服務。",
+            "translateContent": "Dear guest, hello, thank you for your stay and comments. We will make persistent efforts to provide you with high-quality services wholeheartedly. Our small courtyard can park and the surrounding transportation is convenient. It is less than two kilometers away from Beijing Chaoyang High-speed Railway Station, and the walking time is about 20 minutes. , the hotel has set up a free laundry room, a food delivery robot, a free reading area and a tea area to provide value-for-money services for your travel.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0Z83q120008aonr87B431_C_130_130_Q70.jpg",
+          "commentCount": 20,
+          "nickName": "Xinglezhi"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 875083733,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Hygienic, clean, thumbs up!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "衞生，乾淨，點贊！",
+        "createDate": "2023-07-25 14:12:48",
+        "imageList": [],
+        "rating": 3,
+        "commentLevel": "",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的入住與點評，我們將再接再厲，竭誠為您提供優質服務，我們小院能停車，周邊交通便利，距離北京朝陽高鐵站不足兩公里，步行時間大約20分鐘，酒店設定了免費洗衣房，送餐機器人，免費閲讀區和茶水區，為您的出行提供物超所值的服務。",
+            "translateContent": "Dear guest, hello, thank you for your stay and comments. We will make persistent efforts to provide you with high-quality services wholeheartedly. Our small courtyard can park and the surrounding transportation is convenient. It is less than two kilometers away from Beijing Chaoyang High-speed Railway Station, and the walking time is about 20 minutes. , the hotel has set up a free laundry room, a food delivery robot, a free reading area and a tea area to provide value-for-money services for your travel.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 623813943,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The transportation is convenient, very close to Chaoyang Station, the room is clean and hygienic, the facilities are simple and clean, the service is considerate, and the experience is very good! The most important thing is that it is very close to the station",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-08-01 00:00:00",
+        "content": "交通便利，距離朝陽車站很近，房間乾淨衞生，設施簡潔乾淨，服務周到，體驗非常好！最關鍵的是距離車站很近",
+        "createDate": "2022-08-15 09:16:09",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Family Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的入住與點評，我們將再接再厲，竭誠為您提供優質服務，我們小院能停車，周邊交通便利，距離北京朝陽高鐵站不足兩公里，步行時間大約20分鐘，酒店設定了免費洗衣房，送餐機器人，免費閲讀區和茶水區，為您的出行提供物超所值的服務。",
+            "translateContent": "Dear guest, hello, thank you for your stay and comments. We will make persistent efforts to provide you with high-quality services wholeheartedly. Our small courtyard can park and the surrounding transportation is convenient. It is less than two kilometers away from Beijing Chaoyang High-speed Railway Station, and the walking time is about 20 minutes. , the hotel has set up a free laundry room, a food delivery robot, a free reading area and a tea area to provide value-for-money services for your travel.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 622910559,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The breakfast is very good, combining Chinese and Western styles, and the price is high. There are relatively few commercial districts within one kilometer around, and most people go out by online car-hailing. The advantage is that it is relatively close to Chaoyang Station, which is suitable for commuting to and from Beijing for business, medical treatment, and travel in the Northeast.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-08-01 00:00:00",
+        "content": "早餐挺好，中西合璧，性價比高，周圍一公里商圈比較少，出門多是網約車為主。優點離朝陽站比較近，適合東北來往北京辦事，看病，旅遊。",
+        "createDate": "2022-08-13 12:11:49",
+        "imageList": [],
+        "rating": 4.5,
+        "commentLevel": "Great",
+        "roomTypeName": "Family Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的入住與點評，我們將再接再厲，竭誠為您提供優質服務，我們小院能停車，周邊交通便利，距離北京朝陽高鐵站不足兩公里，步行時間大約20分鐘，酒店設定了免費洗衣房，送餐機器人，免費閲讀區和茶水區，為您的出行提供物超所值的服務。",
+            "translateContent": "Dear guest, hello, thank you for your stay and comments. We will make persistent efforts to provide you with high-quality services wholeheartedly. Our small courtyard can park and the surrounding transportation is convenient. It is less than two kilometers away from Beijing Chaoyang High-speed Railway Station, and the walking time is about 20 minutes. , the hotel has set up a free laundry room, a food delivery robot, a free reading area and a tea area to provide value-for-money services for your travel.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8050v000000jnn3hF304_C_130_130_Q70.jpg",
+          "commentCount": 5,
+          "nickName": "lcxdlm"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 616406183,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The environment is good, the room is small, the service at the front desk is poor, the auntie service is good, here comes the important point, the quilt is itchy all over, and when I wake up, there is a bug crawling on my body. Absolutely",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-07-01 00:00:00",
+        "content": "環境挺好 房間很小 前台服務差 阿姨服務好 重點來了 被子睡的渾身癢  睡醒的時候身上還有個蟲子在爬 絕了",
+        "createDate": "2022-07-31 19:55:37",
+        "imageList": [],
+        "rating": 2,
+        "commentLevel": "",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好感謝您在眾多酒店中選擇我們，我們的布草洗滌都是專業的洗滌公司進行消毒和燙洗的請您放心使用哦，根據您的反饋，我們對所有房間進行了一一排查，酒店有合作的專業消殺公司，每季度消殺一次，請放心哦，感謝您對客房的誇獎，前台辦理登記時候需要簽署疫情防控承諾書，為了大家的安全非常感謝您的配合，期待您下次入住",
+            "translateContent": "Dear guest, thank you for choosing us among many hotels. Our linen washing is disinfected and scalded by professional washing companies. Please feel free to use it. According to your feedback, we have conducted a one-by-one inspection on all rooms. For investigation, the hotel has a cooperative professional disinfection company, which kills once a quarter. Please rest assured. Thank you for your compliments on the guest rooms. When registering at the front desk, you need to sign a letter of commitment for epidemic prevention and control. Thank you very much for your cooperation for everyone's safety. Looking forward to your next stay",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 25,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 622625953,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The overall service is very good, the reception staff are patient, and the epidemic prevention policies are explained clearly. It is close to the surrounding buses and subways, close to Chaoyang Joy City, convenient for shopping",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-07-01 00:00:00",
+        "content": "總體服務十分好，前台人員接待耐心，防疫政策講解條理清晰。距離周圍公交、地鐵較近，臨近朝陽大悦城，逛街方便",
+        "createDate": "2022-08-12 19:38:58",
+        "imageList": [],
+        "rating": 4.7,
+        "commentLevel": "Amazing",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好感謝您入住漢庭酒店北京朝陽站火車站酒店，感謝您對我們服務的認可，酒店距離十里堡地鐵站步行15分鐘，公交車5分鐘到達哦，周邊交通很方便，距離大悦城打車15分鐘即可到達，是購物美食的好地方，酒店有免費的停車場，還有送物機器人哦，一層有自助洗衣房，免費洗衣液，房間也非常的乾淨，酒店是新品2.7版本，非常温馨哦，期待您下次光臨",
+            "translateContent": "Dear guest, thank you for staying at the Hanting Hotel Beijing Chaoyang Station Railway Station Hotel. Thank you for your recognition of our service. The hotel is a 15-minute walk from Shilipu Subway Station and a 5-minute bus ride. The surrounding traffic is very convenient. Joy City can be reached in 15 minutes by taxi. It is a good place for shopping and food. The hotel has a free parking lot and a delivery robot. There is a self-service laundry room on the first floor with free laundry detergent. The room is also very clean. The hotel is a new product Version 2.7, very warm, looking forward to your next visit",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 1,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 741788551,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Looks good, very close to the train station",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-02-01 00:00:00",
+        "content": "不錯的樣子，離火車站很近",
+        "createDate": "2023-03-03 18:35:05",
+        "imageList": [],
+        "rating": 4,
+        "commentLevel": "Very Good",
+        "roomTypeName": "Family Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好感謝您在眾多酒店中選擇我們，非常感謝您對我們工作的支持和信任，酒店距離新開的萬象滙商圈步行僅10分鐘即可到達，裏面購物和品嚐美食都是非常方便哦。酒店周圍也是交通便捷，周邊餐館、超市應有盡有的，可以滿足您的一切需求，酒店內還增加了送物機器人、免費自助洗衣房，烘乾機，早餐中西自助品種齊全味道很好，期您下次入住帶家人一起品嚐呦",
+            "translateContent": "Dear guest, thank you for choosing us among many hotels. Thank you very much for your support and trust in our work. The hotel is only a 10-minute walk from the newly opened Vientiane Shopping District, where shopping and delicious food are very convenient. oh. The transportation around the hotel is also convenient. There are all kinds of restaurants and supermarkets around the hotel, which can meet all your needs. The hotel also adds delivery robots, free self-service laundry rooms, dryers, and a complete variety of Chinese and Western self-service breakfasts. The taste is very good. I look forward to your next visit Take your family to taste it for the first time",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 21,
+          "nickName": "Fengfengfengfeng"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 785853039,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The transportation is convenient",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-05-01 00:00:00",
+        "content": "交通便利 不錯",
+        "createDate": "2023-05-03 21:38:12",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的入住與點評，我們將再接再厲，竭誠為您提供優質服務，我們小院能停車，周邊交通便利，距離北京朝陽高鐵站不足兩公里，步行時間大約20分鐘，酒店設定了免費洗衣房，送餐機器人，免費閲讀區和茶水區，為您的出行提供物超所值的服務。",
+            "translateContent": "Dear guest, hello, thank you for your stay and comments. We will make persistent efforts to provide you with high-quality services wholeheartedly. Our small courtyard can park and the surrounding transportation is convenient. It is less than two kilometers away from Beijing Chaoyang High-speed Railway Station, and the walking time is about 20 minutes. , the hotel has set up a free laundry room, a food delivery robot, a free reading area and a tea area to provide value-for-money services for your travel.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 720752905,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "So-so, breakfast is not good",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-01-01 00:00:00",
+        "content": "一般般，早餐也不好",
+        "createDate": "2023-02-02 15:41:49",
+        "imageList": [],
+        "rating": 1,
+        "commentLevel": "",
+        "roomTypeName": "Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，感謝您選擇漢庭!酒店是早餐是中西結合，自助形式，品種多樣，供您選擇，酒店還配備了自助送物機器人，洗衣房，烘乾機，免費茶水區和閲讀區，為您的出行提供便利服務，酒店還有免費停車場，距離朝陽高鐵站僅1.2公里，步行即可到達，非常方便，期待您的再次光臨，祝您生活愉快!",
+            "translateContent": "Dear guests, thank you for choosing Hanting! The hotel's breakfast is a combination of Chinese and Western, self-service, with a variety of varieties for you to choose from. The hotel is also equipped with a self-service delivery robot, laundry room, dryer, free tea area and reading area. Provide convenient services for your travel, the hotel also has a free parking lot, only 1.2 kilometers away from Chaoyang High-speed Railway Station, within walking distance, very convenient, look forward to your visit again, wish you a happy life!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 576082573,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "It is relatively close to the high-speed rail station, and there is a free parking lot. It is very safe, not noisy, and the service is very friendly",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2022-02-01 00:00:00",
+        "content": "距離高鐵站比較近，而且有免費停車場，非常安全，不吵鬧，服務也很熱情",
+        "createDate": "2022-02-20 21:30:31",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的入住與點評，我們將再接再厲，竭誠為您提供優質服務，我們小院能停車，周邊交通便利，距離北京朝陽高鐵站不足兩公里，步行時間大約20分鐘，酒店設定了免費洗衣房，送餐機器人，免費閲讀區和茶水區，為您的出行提供物超所值的服務。",
+            "translateContent": "Dear guest, hello, thank you for your stay and comments. We will make persistent efforts to provide you with high-quality services wholeheartedly. Our small courtyard can park and the surrounding transportation is convenient. It is less than two kilometers away from Beijing Chaoyang High-speed Railway Station, and the walking time is about 20 minutes. , the hotel has set up a free laundry room, a food delivery robot, a free reading area and a tea area to provide value-for-money services for your travel.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703419165304+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a61163d-473171-487426"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "1ffb36bc-05a6-45be-8f30-adb7b5be2161"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3c7edf-473171-1511837"
+      }
+    ]
+  }
+}

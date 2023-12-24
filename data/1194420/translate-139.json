@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "hbhSiViFa208O3RmjHi8itPCdHK94B9r0KP4VObK/CMHR6WKZjgqKg==_review_732270763",
+        "content": "The check-in experience is very good, very convenient, fast and convenient. The front desk has a good attitude and is considerate. It has a strong sense of safety and is very smart. The room is cleaned and tidy every time after going out."
+      },
+      {
+        "transKey": "O+nTePf95Nx0MJn0gi2OuDFk0DyY8ZJJAeL48c7kkWMHR6WKZjgqKg==_review_732692615",
+        "content": "Dear guest, thank you for choosing Hanting! The hotel will clean and disinfect the room after each guest checks in, so that every guest can stay at ease. The hotel has also added a delivery robot, a self-service laundry room, and a dryer to provide you with value-for-money convenience! We look forward to your visit again and wish you a happy life!"
+      }
+    ]
+  },
+  "ServerData": null
+}

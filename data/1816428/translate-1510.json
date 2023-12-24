@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "VuwDEVGTHqhNofjO/HYscjn99wuR0Z0KnPtHRO7V11cHR6WKZjgqKg==_review_529567752",
+        "content": "The hotel room is quite good, the service attitude is very good, the breakfast is free and delicious, and there is a free parking space"
+      },
+      {
+        "transKey": "iL8G4iO4tI1rOjv2LH3IrkEn3rC4INlk5x+fRDbcOGwHR6WKZjgqKg==_review_530005025",
+        "content": "Hello dear guests! Thank you for staying at Orange Hotel Beijing Wukesong and sharing your stay experience with us. It's great to see that you positively recognized the environment of our room in your review. Before guests check in, we will conduct ward rounds, clean the rooms and change the sheets to ensure that all guest supplies are changed \"one for each guest\". Please feel free to check in. We are encouraged by your recognition of our service attitude and we will Keep up the good work and continue to do a good job in all aspects. I believe you will get a better stay experience next time you stay. All the hotel staff look forward to your every visit and wish you a happy life! Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

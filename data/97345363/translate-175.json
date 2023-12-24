@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "TmUR17mZONhc/5+9FRDVVKqXJV/ktpL1nO4wMShiZJg=_review_938780673",
+        "content": "Environment: The room is too small, the bed and walkway, and the toilet are too close to each other"
+      },
+      {
+        "transKey": "0fQx1dVFSh/w2kyCTZnpEfC/6v+VsIyLjWaxz3UtBPYHR6WKZjgqKg==_review_938990923",
+        "content": "Hello, dear guest! We are very sorry that we were not able to bring you a satisfactory stay experience. The hotel facilities are novel and the size of the superior double bed rooms is about 20 square meters! We welcome you to upgrade your room type experience for free next time you book the hotel. Apologize to you again~"
+      }
+    ]
+  },
+  "ServerData": null
+}

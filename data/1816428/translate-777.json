@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "DHqj3+il5q+cMEXtrL1o9Z/lD3nGip1mkG3pSY3rZ6MHR6WKZjgqKg==_review_933382333",
+        "content": "The environment is comfortable, hygienic and clean."
+      },
+      {
+        "transKey": "MZKHnipoIDeAbziQ3oCP/hu2gCxOos3RuckrEV0IrVUHR6WKZjgqKg==_review_933605579",
+        "content": "Dear guests, hello! Orange will, as always, provide every guest with a clean, comfortable and warm living environment in accordance with cleanliness standards, and provide every guest with meticulous and attentive service like a housekeeper. We also hope that our unique Orange series of shampoo and conditioner products can provide Every customer’s unique memory, every effort is made to meet you better, and we look forward to seeing you again! Hotel Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "9CMBUFR1HRLCHgMhrEeFI/FTiOwzmi33FDa0ChQpRJEHR6WKZjgqKg==_review_625187221",
+        "content": "The room is very comfortable, the breakfast is delicious, clean and hygienic, and the front desk service is very good. It is a good choice for business trips. I will come again next time I have the opportunity."
+      },
+      {
+        "transKey": "IkUrC+gmlffo1j/P0JUGElxw/prdW5Vd1hUJbLxlQyEHR6WKZjgqKg==_review_625600909",
+        "content": "Simple language, no gorgeous decoration, but full of touching feelings. I look forward to seeing you again."
+      }
+    ]
+  },
+  "ServerData": null
+}

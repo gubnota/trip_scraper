@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "TFCu7S000Q9bm3tvDGxW7+itZJuBxepgAcQYq7B4C54HR6WKZjgqKg==_review_747672357",
+        "content": "I have stayed at the All Seasons Hotel many times and it is very good!\nFacilities: 5 points\nHygiene: 5 points\nEnvironment: 5 points\nService: 5 points"
+      },
+      {
+        "transKey": "mTK3ghisRbnldvt8HQjYqRTBicLU4ozAQ/lR8WmOjjo=_review_747918339",
+        "content": "Dear guests: Hello! The best advertising is word-of-mouth recommendations from our customers. We are honored that our services have been recognized by you. Looking forward to your next stay!"
+      }
+    ]
+  },
+  "ServerData": null
+}

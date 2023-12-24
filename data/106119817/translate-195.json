@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "d6iHCGK56RN9T99352Sz2mNOvtE5lTx7+D4Vj/QRCBcHR6WKZjgqKg==_review_1000401685",
+        "content": "The service is very good, I will come again next time!"
+      },
+      {
+        "transKey": "Dt4Th3qFyJdnorJpwgXfyRz+94Iis0EnWBKazbo40pMHR6WKZjgqKg==_review_1000449809",
+        "content": "Dear guests: Hello! Thank you very much for your comments and affirmation. It is our responsibility to provide you with thoughtful and meticulous services. With your support, we will continue to work hard and do better with more complete service quality. Looking forward to your visit again and wish you a happy life"
+      }
+    ]
+  },
+  "ServerData": null
+}

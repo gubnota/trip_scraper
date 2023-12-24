@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "p6h8zf1IaExu8iZFwWfG7xVjaOAXwKQ+SSbJoWtcFgUHR6WKZjgqKg==_review_907840009",
+        "content": "The service is very good, the hygiene is good, the taste is delicious, the breakfast is also delicious, and the business is very good 👍"
+      },
+      {
+        "transKey": "sZFUn1lOvvU0mCzyNkEVT6nqM1GoXmKMM0KdME2zQxQHR6WKZjgqKg==_review_908307355",
+        "content": "Dear guests: Hello! Thank you very much for your evaluation of us. Your satisfaction is the biggest motivation for hotel staff to move forward. With your encouragement, we will work harder to do better and provide more guests with a warm and comfortable stay environment. We are very much looking forward to your next stay. Next visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

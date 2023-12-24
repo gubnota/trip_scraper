@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "DIERQmv1A3WdjLhxCxuWpJLDz6Lg30IM1jyt9YztoAcHR6WKZjgqKg==_review_504876427",
+        "content": "The hotel breakfast is delicious and the service is good"
+      },
+      {
+        "transKey": "2mX5XvNXhrRq1RPTcy/7VJoJ3AJcx4/s4TGRSMWQcmcHR6WKZjgqKg==_review_524717957",
+        "content": "Thank you very much for your positive comments, and thank you for your recognition and support of the hotel and our work. We will continue to work hard and will definitely live up to your expectations. We look forward to your frequent stays!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "hGHZxeoKnD45BYmEjElD9C6FixJ5G1fQ2mgcPa8XWyQHR6WKZjgqKg==_review_718786335",
+        "content": "Not bad, but the location is hard to find."
+      },
+      {
+        "transKey": "Yg+hBkK1ZpzmtLZ6D2A86buz0/PZIRlasKR7dmlKb30HR6WKZjgqKg==_review_719133339",
+        "content": "Thank you for the five-star review from our guest. The year is just right and the time is just right. In these busy and intertwined days, we are beautiful because of your arrival. In the days to come, we will work harder to provide you and other guests with more comfortable services. Check-in environment, we look forward to your coming often"
+      }
+    ]
+  },
+  "ServerData": null
+}

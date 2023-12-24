@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "X0bxfk0STeBklV69uGQtAJORCaADslPT5LeFK7NS+V0HR6WKZjgqKg==_review_927553337",
+        "content": "Your stay is comfortable, oranges are available to quench your thirst, and lemonade is always available for snacks. Rich breakfast. Checked in at midnight and the staff was in good spirits."
+      },
+      {
+        "transKey": "c8Du0fC8bO40q7BL7NnmggykG32eWNVU+2GPE5cHruAHR6WKZjgqKg==_review_927740477",
+        "content": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel. The hotel is located in the business district. Such a location provides guests with great convenience for eating, accommodation, travel, entertainment and shopping. I am very happy to see your recognition of the hotel staff’s service. Your pleasant stay is a great encouragement to us. All the staff of Orange Beijing Wukesong Hotel look forward to your next stay, thank you! Manager: Zhang Minghui"
+      }
+    ]
+  },
+  "ServerData": null
+}

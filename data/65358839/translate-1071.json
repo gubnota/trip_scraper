@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "kvY4Slmzjp4iomspY6xYPBJWLKIlfHloMqJOU/Hz0LwHR6WKZjgqKg==_review_531577443",
+        "content": "Well enough! !"
+      },
+      {
+        "transKey": "8oyBdPV2/u5NCWpj2IkY8mCt+Ql1jLR9UgjOcELV2DUHR6WKZjgqKg==_review_532789176",
+        "content": "Dear guest, thank you for your review of the hotel! The store will adhere to the brand's consistent concept of serving friends and family, allowing you to feel our cordiality and enthusiasm from a bottle of water, a pot of tea, and a greeting. Welcome to \"come home\" again."
+      }
+    ]
+  },
+  "ServerData": null
+}

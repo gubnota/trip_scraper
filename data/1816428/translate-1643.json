@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "q5rttkJ/9x6sDOEQ6GnowjANh20PEr/DByxWwp7wh0cHR6WKZjgqKg==_review_541216103",
+        "content": "The room is clean, tidy and beautiful, and the service attitude is very good"
+      },
+      {
+        "transKey": "En1mT1+7tbXPlBUWe2Y6n3NxWKjX9mxeT2N4pcMUNy0HR6WKZjgqKg==_review_541265230",
+        "content": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel. Thank you very much for your recognition of the room attendants and room hygiene. We are very happy to bring you a good stay experience. The hotel strictly abides by the Huazhu Group's room cleaning procedures. We will continue to work hard to provide every guest with a comfortable and secure stay. All hotel staff look forward to your next visit and wish you a happy life. General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

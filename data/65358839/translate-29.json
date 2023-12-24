@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "U8e9C5DRWb1Y9EmiVhMtZCmCM6XRNMDyUs4nTAu0JTkHR6WKZjgqKg==_review_800940489",
+        "content": "The location is excellent and the transportation is convenient. It only takes a few minutes to walk to the subway station in 6 minutes. The hotel has complete facilities, the rooms are clean and tidy, and the stay was very comfortable. The front desk staff are very good, proactive and enthusiastic. Breakfast is great, lots of variety"
+      },
+      {
+        "transKey": "Ihx5+91s0VdMjdIXUNErnIbouagLD3/2im914can6BgHR6WKZjgqKg==_review_801180573",
+        "content": "Your language is plain yet elegant, simple and true, and every word is precious. It gives us hope and warms our hearts! Thank you for your support. In order to have a better tomorrow, roll up your sleeves and work hard. Come on for us!"
+      }
+    ]
+  },
+  "ServerData": null
+}

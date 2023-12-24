@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "21vQYrHyonm9tPQavgXuqzTSU8fiAA3kadQFVansscoHR6WKZjgqKg==_review_898380151",
+        "content": "Everything is good, except that the parking lot behind the hotel is occupied by a 4S store, so the parking is quite far away."
+      },
+      {
+        "transKey": "gQ2hmSfs3v5CvNC9ulz05Qq33z9QIC/ZtSwFRxcNpT8HR6WKZjgqKg==_review_898705507",
+        "content": "Dear guests: Hello! Thank you for staying at Orange Hotel Beijing Wukesong and sharing your stay experience! Xiaoju is very sad that I couldn't get your full five-star praise! The hotel is located in the Badili Automobile Park on the Fourth Ring Road, with ample parking spaces. It only takes 1-2 minutes to walk! When leaving the hotel, just pick up the electronic parking ticket at the front desk and you can park for free. The hotel is surrounded by public transportation extending in all directions, making it your best choice for business travel and accommodation. All hotel staff look forward to your every visit and wish you success in your work! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

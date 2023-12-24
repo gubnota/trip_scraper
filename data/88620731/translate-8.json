@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Ej2RHb+Pa23dtzO5kwGxJjhkCa1ELXhixTE9zAclahYHR6WKZjgqKg==_review_976020873",
+        "content": "The service is great, the environment is new, hygienic and clean. It is very close to the China-Japan Friendship Hospital and opposite the University of International Business and Economics. It is very convenient and quiet to stay here with my family for medical treatment. The front desk is super patient. The hotel is great and the service attitude is very good. Super cost-effective, highly recommended!"
+      },
+      {
+        "transKey": "LsXWOPxHBmdMC/JBubux2th6+kZL4aqPq7S5BWZS2isHR6WKZjgqKg==_review_976330179",
+        "content": "By chance, we met you. By chance, you chose us. There are too many choices in life. Every choice you make is a kind of fate. Thank you for the fate that allows us to get to know you. I am honored not to have you. To disappoint you, late winter is approaching and the weather is getting colder. The store has added a self-service laundry room and a high-temperature sterilization dryer to add warmth and convenience to your journey."
+      }
+    ]
+  },
+  "ServerData": null
+}

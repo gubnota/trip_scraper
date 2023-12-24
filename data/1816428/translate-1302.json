@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "dnotkKKEXiBSIC8qitoeAt5klWxPu6j1JZc8C3MPlK0HR6WKZjgqKg==_review_655538885",
+        "content": "Very nice hotel, breakfast is particularly helpful"
+      },
+      {
+        "transKey": "S354GOeq46ZjCZ8CrGtETCjCndKYgxbJjdhkRhzjqcYHR6WKZjgqKg==_review_655765643",
+        "content": "Dear guests, hello! Thank you very much for your trust in our hotel and your recognition of the breakfast in the hotel. Only by living well and eating well can you feel at home. I believe that with your support, we will continue to improve the quality of all aspects of the hotel to ensure that you will be happy every time you stay. All hotel staff sincerely look forward to your stay again! wish you a happy life! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

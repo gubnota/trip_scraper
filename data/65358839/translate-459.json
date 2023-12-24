@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "AnJtDcMXWG4hlNQh0hDj7/9ArHxElpHqcwe2EhOgibUHR6WKZjgqKg==_review_779833035",
+        "content": "The room is very cozy and the service is very friendly. I will come again! 👍🏻"
+      },
+      {
+        "transKey": "/DKe2Sb63HE9NOwvaNhU7nvgcN+TDkaOHCe3mo/Z1BIHR6WKZjgqKg==_review_780021761",
+        "content": "No words can be worth your recognition. Xiao Ji’s goal is to get your recognition. I hope you can introduce Xiao Ji to more of your friends."
+      }
+    ]
+  },
+  "ServerData": null
+}

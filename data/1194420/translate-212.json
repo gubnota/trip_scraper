@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "5DttVraOQLhsrqva5OTKvOa7YAUrWLbYukpkKwSIsiAHR6WKZjgqKg==_review_901632847",
+        "content": "The room is pretty good\nGood environment\nHealth: good\nFacilities: good"
+      },
+      {
+        "transKey": "wZjrBGAbDLMK5K0xB78bV2GBAzUas7TtkABqqvmz3McHR6WKZjgqKg==_review_901883693",
+        "content": "Thank you for your praise and affirmation. Meeting in this vast sea of ​​people is fate. I hope our fate will last forever and we look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "tWySechwWjsV7gtOW8JSk5cVNAip+rXFltARgQs8cC8HR6WKZjgqKg==_review_735007579",
+        "content": "The service is good. The front desk also prepared small oranges for the guests. The toiletries in the room are all orange-flavored, which is very detailed. The hotel bed is also very comfortable to sleep on. The only drawback is that the room is a bit small and the space is too small."
+      },
+      {
+        "transKey": "+1LE6jVl0Lsazgc0tlQblt2nJTd2I8I/BEAiVgJrG2sHR6WKZjgqKg==_review_735078017",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel, and thank you even more for taking time out of your busy schedule to encourage us. We treat every guest as our own family and strive to make every guest feel at home here, and your recognition is our greatest motivation. Our guest room sisters carefully prepare each room every day. All hotel staff look forward to your next visit. I wish you success in your work and a happy life! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

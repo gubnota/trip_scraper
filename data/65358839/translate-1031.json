@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "WXxwTZcUdIJVI61Jyo9ll1Wti9WVFtHwgsX33C0bQHYHR6WKZjgqKg==_review_486211635",
+        "content": "It would be best if there is a laundry room"
+      },
+      {
+        "transKey": "nPKxiKy+/nzi9BwDj4bkV1RcF/aNEl5naJM5rmhGf2MHR6WKZjgqKg==_review_486489070",
+        "content": ".Hello dear guests! If you encounter relevant problems during your stay, you can report them to the front desk in time. The hotel is on duty 24 hours a day. We will try our best to help you solve the problem as soon as possible. We are committed to providing you with a cordial and thoughtful stay experience. We sincerely look forward to your visit again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

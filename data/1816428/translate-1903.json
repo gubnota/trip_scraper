@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "RX25YWLZcpUZQtzq7WettOYkKMMvsZaj4h52Y58MxuAHR6WKZjgqKg==_review_495116652",
+        "content": "Very satisfied, good service"
+      },
+      {
+        "transKey": "mzpAy1PjBb6un90dz07YcF9ijGWhYZG6a5gilHbzvAsHR6WKZjgqKg==_review_495178088",
+        "content": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel. The hotel is located in the business district. Such a location provides guests with great convenience for eating, accommodation, travel, entertainment and shopping. I am very happy to see your recognition of the hotel staff’s service. Your pleasant stay is a great encouragement to us. All the staff of Orange Beijing Wukesong Hotel look forward to your next stay, thank you! General Manager: Zhang Xiangyun"
+      }
+    ]
+  },
+  "ServerData": null
+}

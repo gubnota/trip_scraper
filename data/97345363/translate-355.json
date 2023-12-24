@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Z6Y7AbDk9R6mbo/p+krSSZ+MgTmrwzYJOU9iB4y8XM4HR6WKZjgqKg==_review_713912677",
+        "content": "The hotel is very clean and nice👍"
+      },
+      {
+        "transKey": "uzXfAmf9Iz05MR8tqfpnhXBjxSiOX7rbj7+16e+ptXo=_review_714634995",
+        "content": "Dear guests, your feedback is the biggest motivation for us. Xiaohan hopes that not only winter but you will come as scheduled. I love you, Xiaohan."
+      }
+    ]
+  },
+  "ServerData": null
+}

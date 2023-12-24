@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "0RRY+Qcym3g/0GjHJUKBbRBnQNQmmD2VuUlgjz8Ae6IHR6WKZjgqKg==_review_646960993",
+        "content": "Very satisfied, very good"
+      },
+      {
+        "transKey": "uqtWAhlXBESGQg3jtZSNpBTX+wH0McOxSuxJadeY4xcHR6WKZjgqKg==_review_646965009",
+        "content": "Dear guest, thank you for taking time out of your busy schedule to share your stay experience. You are a little man with a gentleness that is concealed by your publicity. I love you."
+      }
+    ]
+  },
+  "ServerData": null
+}

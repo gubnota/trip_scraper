@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "CV+cZ3DtWKK5/laGvaG+Tm1k1oGP20aBifi4/WX8ddwHR6WKZjgqKg==_review_754538733",
+        "content": "Very good, the lady at the front desk is also very nice"
+      },
+      {
+        "transKey": "CZft8khCLB0A6VIQf5EJiOXFhBvM+LdxaI//uLA0ML0HR6WKZjgqKg==_review_754668305",
+        "content": "I am really excited to see the simple but profound praise from the guests, and they also recognize our service so much~ We at the hotel strive to provide the most considerate and meticulous service to every guest and bring great value to every guest experience."
+      }
+    ]
+  },
+  "ServerData": null
+}

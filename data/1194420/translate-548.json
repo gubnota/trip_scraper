@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "U+uD6EgWoz56vNPOWM+hPlvr3apCEDnJUihxUfS8uOAHR6WKZjgqKg==_review_485373870",
+        "content": "The breakfast at the hotel is quite delicious. It is more than 1 km away from Chaoyang Joy City. It is very convenient to take a taxi at the door. The service of the young lady at the hotel front desk is very good. The room is spacious and comfortable. Both have large windows or external windows. Overall, I am very satisfied with my stay this time. I will stay there next time. Will stay here"
+      },
+      {
+        "transKey": "Q4CEJnsJk1wjdCOuHk7eIbOQKZS7soYDKCFvqYbHBOkHR6WKZjgqKg==_review_500940375",
+        "content": "Thank you very much for choosing Hanting among many hotels. Thank you for your support and recognition of the hotel. The hotel currently has a new breakfast feature. The robot can also deliver meals to the room. The hotel has a free laundry room. We look forward to your next stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

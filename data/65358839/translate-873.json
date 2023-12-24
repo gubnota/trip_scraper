@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "2M54jV2ceQgiBkVueQhNOKuMJqVQJGIau4jku6ZAzRoHR6WKZjgqKg==_review_570072377",
+        "content": "Breakfast was good, service was great, great stay experience"
+      },
+      {
+        "transKey": "m42FCv8ehmoxAl+yEzCT2tcjfQe5NnQLG7g1lr+igTAHR6WKZjgqKg==_review_570073305",
+        "content": "Dear host: Thank you for your careful review and welcome to Beijing. We are honored that you chose to stay at Jiji Hotel. We will work harder and look forward to your next visit. I wish you a happy life and happiness every day."
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "WS8CrjRa4PWwsca0FAmBTJjiIarwGju6DaRZLeUAkawHR6WKZjgqKg==_review_499119763",
+        "content": "The room is too small and there is noise nearby"
+      },
+      {
+        "transKey": "qb1XuGtBzzWh8FenUpmN7BkySRQ4keRLqYhBXFvAZzcHR6WKZjgqKg==_review_499139385",
+        "content": "Hello dear guest! Thank you for staying at Orange Beijing Wukesong Hotel and giving us the opportunity to serve you. We sincerely apologize for not giving you a satisfactory stay! Affected by the opening time of the hotel, there is indeed some gap between the hotel room space and the newly opened store. Although the hotel is small, the room facilities are complete and the supporting facilities in the room can meet your daily living needs. During your stay, the park will be undergoing tree arrangement , the noise generated affects you! We apologize for! Noise-proof earplugs are also available at the front desk for guests to use at any time! If you have any questions while in the store, you can contact our staff at any time, we will be waiting for you 24 hours a day! Once again we express our deep apologies and hope that you can see our efforts and progress when you have the opportunity to stay again. We look forward to your every visit and wish you all the best! Hotel General Manager: Zhang Xiangyun"
+      }
+    ]
+  },
+  "ServerData": null
+}

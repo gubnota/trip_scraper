@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "m3ysMN45bIcoJLDuoNjLLAn4qIEPU9Q1yx+B/tGmUbIHR6WKZjgqKg==_review_491532432",
+        "content": "I came to Beijing to visit and saw this hotel in the guide. The transportation is convenient nearby. Metro Line 6 is also very close. It’s about 300 meters walk. The big car is also very convenient. The service is super good. I will choose this hotel next time."
+      },
+      {
+        "transKey": "3bVktM38i4yNhqhvB7+J6XMH9aRxEdfaLCudx6fxm7MHR6WKZjgqKg==_review_491811743",
+        "content": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel. The hotel is located in the business district. This location provides guests with great convenience in terms of food, accommodation, travel, entertainment and shopping. Moreover, the hotel's enthusiastic staff will escort you during your trip. We With \"the happy mood of the family\" as our top priority, we touch everyone with the most considerate warmth. All the staff at Orange Beijing Wukesong Hotel look forward to your next stay, thank you!"
+      }
+    ]
+  },
+  "ServerData": null
+}

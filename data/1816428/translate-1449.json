@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "zei0q+2MrtMvmD+Su81sESRl5qdYVTfI+ZEt4RItvb0HR6WKZjgqKg==_review_540885758",
+        "content": "I am very satisfied with the service at the front desk of the hotel. There are free oranges to eat and there is a food delivery robot at the front desk, which is very smart."
+      },
+      {
+        "transKey": "qc9WOUs+44m+9CMZsf4k3G+vpQPdn/L82YVtpLPFpj4HR6WKZjgqKg==_review_540965724",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel, and thank you even more for taking time out of your busy schedule to encourage us. We treat every guest as our own family and strive to make every guest feel at home here, and your recognition is our greatest motivation. Our guest room sisters carefully prepare each room every day. All hotel staff look forward to your next visit. I wish you success in your work and a happy life! General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

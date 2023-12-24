@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "afnyPP8+rb0eGDRbNNYW7iiz/bosuC8Ie8DscSTVv+gHR6WKZjgqKg==_review_807537317",
+        "content": "Service is good."
+      },
+      {
+        "transKey": "iNBjoxGtbsytTHRPPXPxET1PouKna8AgxDNa7Z1SX24HR6WKZjgqKg==_review_807558857",
+        "content": "Dear guest: Hello! Thank you very much for your satisfaction and praise for Orange Wukesong Store! I am very happy to bring you and your family a wonderful time during your trip. Your praise is a great encouragement to the hotel and is also the driving force for our progress. , we will continue to maintain dedicated service and strive to make every guest feel at home. We eagerly look forward to your visit again! Welcome to come back and experience it again. All the hotel staff wish you and your family a happy life! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

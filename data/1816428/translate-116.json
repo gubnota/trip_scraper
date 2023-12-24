@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "EkZ4suzti+H/loPPdr1qEYfLaQ41KeGmcWADZpYXbYAHR6WKZjgqKg==_review_897028539",
+        "content": "The environment is very good, the service is also very good, and it is relatively close to the subway station. If you are going to the Cadillac Center to watch a concert, you can choose this hotel. It is relatively close and it is very convenient to take a taxi."
+      },
+      {
+        "transKey": "jFX9+k/WBxwBck0DnFoDkL6b6Ur6tSRD+7zIvBtVaKgHR6WKZjgqKg==_review_897090309",
+        "content": "Hello dear guest! Thank you for choosing to stay at Orange Beijing Wukesong Hotel and for your recognition of the hotel's environment and services. Your satisfaction is the driving force for our progress. The hotel is located in the Badali Automobile Park on the Fourth Ring Road. It shares parking spaces with the park. There are sufficient parking spaces and is close to You can park for free by just picking up an electronic parking ticket at the front desk when you are in the store. Public transportation is easily accessible around the hotel, making it your best choice for business trips and accommodations. All the hotel staff look forward to your every visit and wish you success in your work! Manager: Ji Hongjiao"
+      }
+    ]
+  },
+  "ServerData": null
+}

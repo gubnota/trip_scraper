@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Kl9oW5wQHKAqdPZe3b3DYv6BT+2QaF+IJNdNh2n7GPo=_review_766820197",
+        "content": "very good very good"
+      },
+      {
+        "transKey": "kt6dztTlIgZj8X6PLweNPWigMQIbjFEjO375n11AtT0HR6WKZjgqKg==_review_767793627",
+        "content": "Dear guest, thank you very much for taking time out of your busy schedule to share your stay experience. Summer has a late glow. Just like you who come late, everyone is smiling. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

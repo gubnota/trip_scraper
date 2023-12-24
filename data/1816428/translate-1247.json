@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "n0/gTwUURexlXA/D7sttl1wpIszWUjJTt83mamBQdngHR6WKZjgqKg==_review_799089799",
+        "content": "Quiet, good breakfast"
+      },
+      {
+        "transKey": "EHrMNIR9ZSqXqE2nWY8la/16JFRA69PXEUo8XmcnXroHR6WKZjgqKg==_review_799115903",
+        "content": "Dear guests, hello! Thank you very much for your trust in our hotel and your recognition of the breakfast in the hotel. Only by living well and eating well can you feel at home. I believe that with your support, we will continue to improve the quality of all aspects of the hotel to ensure that you will be happy every time you stay. All hotel staff sincerely look forward to your stay again! wish you a happy life! Manager: Zhao Dan"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,95 +1,41 @@
-var request = require('request');
-var fs = require("fs");
-const { exit } = require('process');
-let data = require("./data")
-let hotels = [608516, 80938581, 535615, 28642364, 14095879]
-// fs.existsSync("2.json")
-if (!fs.existsSync("data")){
-    fs.mkdirSync("data")
-}
-var j = 0
-var hotel_pages = [51,6,13,28,6]
+// const puppeteer = require("puppeteer");
+// const fs = require('fs').promises;
+// const sleep = (milliseconds) => {
+//   return new Promise((resolve) => setTimeout(resolve, milliseconds));
+// };
 
-for (const hotel of hotels) {
-    var i = 1 // current page
-    var totalPages = hotel_pages[j] // initial total number of pages to fetch
-    while (i <= totalPages) { // loop while there is something to fetch
-    let body = {...data.body, ...{hotelId:hotel, "pageIndex":i, "pageSize":50}}
-    let fileName = `data/${hotel}-${i.toString().padStart(3,"0")}.json`
-    console.info(fileName)
-    request.post(
-    'https://www.trip.com/restapi/soa2/24077/clientHotelCommentList',
-    { json: body,
-    headers: {
-        "Host":"www.trip.com",
-        'Content-Length': JSON.stringify(body).length,
-        'Content-Type': 'application/json'
-    } },
-    function (error, response, body) {
-        if (!error && response.statusCode == 200) {
-            // console.log(body.groupList[0].commentList.length);
-            if (body.totalCount) {
-                totalPages = Math.ceil(body.totalCount / 50)
-            console.log('totalPages', totalPages)
-            }
-            // console.log(JSON.stringify(body))
-            // console.log(body.groupList[0].commentList);
-            fs.writeFileSync(fileName, JSON.stringify(body))
-        }
-        else {
-            console.error("[!] error",fileName)
-            // console.error("error", response.statusCode, response.statusMessage)
-        }
-    }
-);
+// (async () => {
+//   const browser = await puppeteer.launch({ headless: true });
+//   const page = await browser.newPage();
+//   await page.goto("https://dzen.ru", {
+//     // waitUntil: "networkidle2",
+//   });
 
-    // totalPages = Math.ceil(2517 / 50)
+// //   await page.type("#identifierId", "YOUR_EMAIL_OR_USERNAME");
+// //   await page.click("#identifierNext");
 
-    i++
-    }
-    j++
-}
-// request.post(
-//     'https://www.trip.com/restapi/soa2/24077/clientHotelCommentList',
-//     { json: body,
-//     headers: {
-//         "Host":"www.trip.com",
-//         'Content-Length': JSON.stringify(body).length,
-//         'Content-Type': 'application/json'
-//     } },
-//     function (error, response, body) {
-//         if (!error && response.statusCode == 200) {
-//             // console.log(body.groupList[0].commentList.length);
-//             console.log(body.totalCount)
-//             // console.log(JSON.stringify(body))
-//             // console.log(body.groupList[0].commentList);
-//         }
-//         else {
-//             // console.error("error", response.statusCode, response.statusMessage)
-//         }
-//     }
-// );
-/*
-var request = require('request');
+// //   await page.waitForSelector("#password", {
+// //     visible: true,
+// //     hidden: false,
+// //   });
+// //   await page.type(
+// //     "#password > div.aCsJod.oJeWuf > div > div.Xb9hP > input",
+// //     "YOUR_PASSWORD"
+// //   );
+// //   await sleep(1000);
+// //   await page.click("#passwordNext > div > button");
 
-request.post(
-    'https://www.trip.com/restapi/soa2/24077/clientHotelCommentList',
-    {    
-            headers: {
-            "Host":"www.trip.com",
-          'Content-Length': JSON.stringify(body).length,
-          'Content-Type': 'application/json'
-        },
+// //   await sleep(10000);
+//   await sleep(500);
+//   //save cookies
+//   var cookies = await page.cookies();
+//   await fs.writeFile('./cookies.txt', JSON.stringify(cookies, null, 2));
 
-    },
-    { json: body },
-    function (error, response, body) {
-        if (!error && response.statusCode == 200) {
-            console.log(body);
-        }
-        else {
-            console.error("error", error, response)//response.statusCode, response.statusMessage)
-        }
-    }
-);
- */
+//     //load cookies
+//     const cookiesString = await fs.readFile("./cookies.json");
+//     var cookies = JSON.parse(cookiesString);
+//     await page.setCookie(...cookies);
+// console.debug(cookies);
+//   await browser.close();
+// })();
+

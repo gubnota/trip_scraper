@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "XACPppYDPrSdIP8BwG01amcuImBYG2BtQ2Une5TlyawHR6WKZjgqKg==_review_485630279",
+        "content": "The room is relatively small, but fortunately it is relatively new. A friend recommended the All Seasons, and I went with my girlfriend. The stay was quite comfortable, but a little worse than expected..."
+      },
+      {
+        "transKey": "mtoipCzW5whAseA+g3lWlwui3mjAaMlFrHaF5VTM3+UHR6WKZjgqKg==_review_485682021",
+        "content": "We are very sorry, we will actively improve the shortcomings, strive to do our best, and give you a high-quality stay experience; we look forward to your next visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "lFbtzeVJRoJ7ULQfSqT9O9VB9ee49IZZ0BJmjAMl1YcHR6WKZjgqKg==_review_759018581",
+        "content": "The hotel is newly opened, close to the subway entrance, with good environmental facilities, good toiletries, very clean and good service attitude. The breakfast has many varieties and tastes good, especially the coffee machine."
+      },
+      {
+        "transKey": "UgJekmSDPLh0tXJlWelTB40rp0Xyp648nlp/oUH80d8HR6WKZjgqKg==_review_759429391",
+        "content": "Dear guests: Hello! Thank you very much for your support and trust in us. We will continue to uphold the service concept of doing things with heart and serving attentively, so that you can feel the warmth of home at Orange Beijing Shaoyaoju University of International Business and Economics Hotel. We look forward to your coming again to review our progress, and wish you a happy day!"
+      }
+    ]
+  },
+  "ServerData": null
+}

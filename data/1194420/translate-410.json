@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "jm6F2t+MpUomwv1BC4FKdrbj7wmjIE2IOcfMT6UK5dQHR6WKZjgqKg==_review_732205299",
+        "content": "Excellent service, clean room, rich breakfast"
+      },
+      {
+        "transKey": "a29dm7x9K0tl2Yjbp1ij51Sjn69yBqSu6qiBHqXRsWcHR6WKZjgqKg==_review_732350345",
+        "content": "Dear guest, thank you for your support and trust in us. The hotel is Hanting version 2.7, with novel decoration and complete facilities. The hotel is very close to Chaoyang High-speed Railway Station and can be reached without taking a car. It is also very close to Joy City. Shopping and food are very convenient. Our breakfast is a Chinese and Western buffet with many varieties, including Beijing's special snacks. We look forward to your stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "4DBzD9Nvd6TKP8Ty1b8WThR/V/G4dmXoE+DBpVc4Xj0HR6WKZjgqKg==_review_539533951",
+        "content": "It's a pretty nice hotel. I forgot to pick up my T-shirt. The front desk took the initiative to contact me and help me courier it back. I would like to express my gratitude. The hotel's breakfast is also very rich."
+      },
+      {
+        "transKey": "xZro5MtJOaELmdTP9lCh30fm4rrmoAkr/z410bviaK0HR6WKZjgqKg==_review_539885432",
+        "content": "Dear guest, thank you for your stay and review. We will continue our efforts and wholeheartedly provide you with high-quality services. Parking is available in our courtyard and the surrounding transportation is convenient. It is less than one kilometer away from Beijing Chaoyang Station and takes less than 15 minutes to walk. The hotel has set up a free laundry room, food delivery robot, free reading area and tea area to provide value-for-money services for your travel."
+      }
+    ]
+  },
+  "ServerData": null
+}

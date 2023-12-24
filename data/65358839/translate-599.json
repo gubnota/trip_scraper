@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "ySpm742BROTU891y88d5hQy/ALk8koItt/RYuh6GDmsHR6WKZjgqKg==_review_797365013",
+        "content": "The hotel is close to the train station and the service is good"
+      },
+      {
+        "transKey": "4fMyOb7kB/JK4H9Z5MpVNDTQmtobzmFMj4PnE86K/d0HR6WKZjgqKg==_review_797784437",
+        "content": "Thank you for your review despite your busy schedule. We will continue to work hard to provide better service and look forward to your next stay."
+      }
+    ]
+  },
+  "ServerData": null
+}

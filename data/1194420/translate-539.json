@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "n0ahbzoPNKwBF6qi6xFmK047U2toRjufRMAYtCXbKyIHR6WKZjgqKg==_review_489299593",
+        "content": "I came here with my friends on a business trip. I felt that the room was clean and tidy. It was a nice stay. There is a big pear next to it for easy dining. There is a free parking lot at the door. It is also very close to the Chaoyang Railway Station. The location is good. I will use it for future business trips. Come and stay again"
+      },
+      {
+        "transKey": "FftPi0OUantnI7x6+vRpizLhukhoDnQswPgyKtswCUQHR6WKZjgqKg==_review_500940939",
+        "content": "Dear distinguished guest, hello, thank you for your support and affirmation of our work. Our hotel has a Chinese and Western buffet breakfast from 7 to 10 o'clock, which is very rich and delicious. We also have self-cooked noodles and various Beijing snacks. There are also Free laundry room and parking lot, only 800 meters away from Chaoyang Railway Station, very convenient. The hotel warmly looks forward to your distinguished guests coming again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

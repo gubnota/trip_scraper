@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "0pwGNWs/U+DeHb5S66A2qBplGS2ol9RqMPQzUIvKtfgHR6WKZjgqKg==_review_717049355",
+        "content": "The hotel is very close to Universal Studios and very convenient to get there! The hall is also beautifully decorated, and the New Year decorations are very festive! The hygiene in the room is also good, the cleaning is very clean and careful! !"
+      },
+      {
+        "transKey": "kt6dztTlIgZj8X6PLweNPWigMQIbjFEjO375n11AtT0HR6WKZjgqKg==_review_717512169",
+        "content": "Dear guest, thank you very much for taking time out of your busy schedule to share your stay experience. Summer has a late glow. Just like you who come late, everyone is smiling. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

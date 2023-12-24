@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "PmYph9GOSv/UhB/bUun4p/XiNdZxJ9Xd5n5hvSMSe3YHR6WKZjgqKg==_review_635473837",
+        "content": "The environment is good and the service is good. I checked out an hour late due to something unexpected. The merchant quickly agreed. It was very considerate."
+      },
+      {
+        "transKey": "mTK3ghisRbnldvt8HQjYqRTBicLU4ozAQ/lR8WmOjjo=_review_635506689",
+        "content": "Dear guests: Hello! The best advertising is word-of-mouth recommendations from our customers. We are honored that our services have been recognized by you. Looking forward to your next stay!"
+      }
+    ]
+  },
+  "ServerData": null
+}

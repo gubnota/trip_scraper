@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "zy3+NRKxeAYy4Z/FlbLQajs+251leMFtS0MB301qMAYHR6WKZjgqKg==_review_553250804",
+        "content": "The hotel is too close to the road and too noisy at night!"
+      },
+      {
+        "transKey": "cBFuXom1TirlKILpIuzmQDCRbqFg1C5E4+9YiVl1TcwHR6WKZjgqKg==_review_553343565",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel and giving us the opportunity to serve you. We are very sorry to bring you a bad stay experience. Regarding your feedback about the noise near the road at night, we deeply regret it. Sorry, the hotel has double-layer soundproof glass to reduce external noise. If you are not satisfied with anything during your stay, you can contact us at any time and we will try our best to help you solve it. I hope you can see our efforts. and progress, looking forward to your visit again. General Manager: Li Changxia"
+      }
+    ]
+  },
+  "ServerData": null
+}

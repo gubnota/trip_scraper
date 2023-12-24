@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "sxo3luL+uvkD0vCVELr5se1X6GzZOlDyRDyUwofYutgHR6WKZjgqKg==_review_901265513",
+        "content": "A good choice for business trips"
+      },
+      {
+        "transKey": "gxpUM22Dp04hI7CsBzkoZZT0S6/EO9JGuSlUaTkLf+cHR6WKZjgqKg==_review_901546305",
+        "content": "Thank you dear guest for your praise. Your comments are like the spring breeze in the mountains and the warm sun in winter, making us feel warm and happy!"
+      }
+    ]
+  },
+  "ServerData": null
+}

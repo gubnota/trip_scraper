@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "7TqbvZfCdJRASSNM38/KGw4DSt8hi9Btyj6yO2JE3Ug=_review_932051319",
+        "content": "I feel like there is some misunderstanding about \"luxury\"."
+      },
+      {
+        "transKey": "/BVEQibccsoXr74+uEyUozOb4usyvcW8nkG+k6r/vDc=_review_932380787",
+        "content": "Dear guest, thank you for staying at Orange Beijing Wukesong Hotel and giving us the opportunity to serve you. We are very sorry to bring you a bad stay experience. Due to the long opening time of the hotel, there may be some deficiencies in various aspects. We The facilities in the room have been gradually updated for the use of customers. We also hope that we can do better under your supervision. At the same time, if you have any dissatisfaction during your stay, you can contact the front desk at any time and we will solve it for you in time. I hope you can see With our efforts and progress, we look forward to your visit again. Manager: Ji Hongjiao"
+      }
+    ]
+  },
+  "ServerData": null
+}

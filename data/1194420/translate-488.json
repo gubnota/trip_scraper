@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "nxMD5w/qHsTJYl192qr7iOm+dBHciog/jrAcsUhhaBIHR6WKZjgqKg==_review_873149047",
+        "content": "Very satisfied with the service"
+      },
+      {
+        "transKey": "YrhnMJYcRHPQf1wrqrPHgXSst+3bJgGCJNVJ11IzL54=_review_873844015",
+        "content": "Dear guest: Thank you for your praise and trust in us. We are very happy to meet you. Your encouragement has given us a lot of confidence. The hotel is very close to the maternity and gynecology hospital. If you contact us, you can take a taxi there. Maternity and gynecology hospital Parking around the hospital is not very convenient. The hotel has free parking. We look forward to your next visit to Beijing."
+      }
+    ]
+  },
+  "ServerData": null
+}

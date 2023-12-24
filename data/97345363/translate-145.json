@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "0LR9RWga7+phDFxPT/VY3SAdyIbqhSo4Gv3x09T31yoHR6WKZjgqKg==_review_717237845",
+        "content": "The hotel is smart. A small robot delivers takeaways to the door. The breakfast is also very rich. Although there is no parking space, there are free parking places around. I am very satisfied."
+      },
+      {
+        "transKey": "ioHvqi4EiPsIWqoJZQ/wZQhwd1RdNnoLHblExgzzT4IHR6WKZjgqKg==_review_717512401",
+        "content": "Hello dear guests, I hope that Xiaohan can sweep away the dust in your life. When I look up, I see eyes full of stars. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

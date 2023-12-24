@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Xq5WqJbEk4vXE19qcFoz0ktT6PEY4CuG41tIGPTKpbAHR6WKZjgqKg==_review_540473184",
+        "content": "It feels good, but the room is a little small"
+      },
+      {
+        "transKey": "WMJmd7zlYmBLif7A8xehfBGh4WecxHyRsAqGwqrSnvkHR6WKZjgqKg==_review_542117575",
+        "content": "Thanks to the guest reviewer, the size of Xiaoji's room is a foregone conclusion, but it is small and cozy~ Next time you can also choose our zero-pressure superior king room to experience it~"
+      }
+    ]
+  },
+  "ServerData": null
+}

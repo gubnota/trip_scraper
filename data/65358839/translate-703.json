@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "oJ1Y/hsOh6V6hmH4iH2dsPQfVV1FtzDeIUbz2xRGIpEHR6WKZjgqKg==_review_753790217",
+        "content": "Good conditions and service attitude"
+      },
+      {
+        "transKey": "rMYuUsn+YgTvwSoT9BWafYm9l6oOewgnblip0Azvn00HR6WKZjgqKg==_review_753917233",
+        "content": "A word of affirmation and a slight smile are all great affirmations of Xiao Ji's work. Xiao Ji pursues to do better."
+      }
+    ]
+  },
+  "ServerData": null
+}

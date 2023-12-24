@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "IULu0Cu/9I0xlWPgr02kY2A0IozC/aebSEfNhwDHDmMHR6WKZjgqKg==_review_980954299",
+        "content": "The location of the hotel is very convenient. It is also very close to the subway. There are many places to eat around and the services in the hotel are also very good."
+      },
+      {
+        "transKey": "Zmu+s9CGe8Kq19D9LSflq+KsTUYf3FqfFOp0S+TCzEYHR6WKZjgqKg==_review_981208473",
+        "content": "Dear guests, hello! Orange Beijing Wukesong Hotel has a comfortable, warm, fresh and natural living environment. We believe that guests are family members and provide guests with meticulous neighborhood services. It is a warm hotel. During your stay in the hotel, our hotel partners are very happy to provide services to you. We must adhere to the concept of attentive service and serve every guest who stays at the hotel. Thank you for accompanying us all the way. We hope that Orange Beijing Wukesong Hotel can become your first choice for hotels in Beijing, and we hope that you can recommend it to your relatives and friends to experience the attentive service. wish you a happy life! Hotel Manager: Zhang Minghui"
+      }
+    ]
+  },
+  "ServerData": null
+}

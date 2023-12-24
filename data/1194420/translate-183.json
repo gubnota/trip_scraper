@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "i+dGUxdQ9GarXalv3p4ufpQV3en/sT8LV7FHzR0ijJcHR6WKZjgqKg==_review_919870893",
+        "content": "Facilities: good\nHealth: good\nGood environment\nService: better"
+      },
+      {
+        "transKey": "V/gY48VEbPYljMBdvvEkdFMb72OtPSinV7SUSamBvfAHR6WKZjgqKg==_review_920138947",
+        "content": "Dear, thank you for your recognition. Serving every customer well and providing you with a clean and comfortable accommodation environment has always been our philosophy. We will continue to work hard to provide you with better services. I wish you and your family all the best."
+      }
+    ]
+  },
+  "ServerData": null
+}

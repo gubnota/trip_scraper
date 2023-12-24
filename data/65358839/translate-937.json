@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "z+EONJxKNjvkdlVy87/7uGLVYTUiopDfhnlXdslR0+M=_review_584790624",
+        "content": "Not bad, clean and hygienic"
+      },
+      {
+        "transKey": "uzjCuMoPo7UY/+/LFPuPKYFAUfluZGDwo/asRmpO4KYHR6WKZjgqKg==_review_584791387",
+        "content": "Thank you for your review. The fresh and elegant decoration, clean and tidy environment, I hope it will bring you a good mood for the day. Xiaoji is always waiting for you~~"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "yPqaMQrQTpfcRKrJUUyIw0jKGM7hC1OJBELZ/GUpOeoHR6WKZjgqKg==_review_584903433",
+        "content": "Very good, the attitude of the waiter is also very good, hygienic and clean"
+      },
+      {
+        "transKey": "CK1z3wgYJp3mbqpyotG0PcOxkzDgdt9EhOG7gA8sJgsHR6WKZjgqKg==_review_587010879",
+        "content": "Thank you for your recognition of our hotel and our work. \"If you love cleanliness, live in Hanting\" is our slogan and work content that has remained unchanged for many years. In terms of service, all staff require strict training before they can take up the job. If you have any questions you can call the front desk and we will help you. On behalf of all the staff at Huazhu Hanting Beijing University of International Business and Economics, I would like to thank you for your visit."
+      }
+    ]
+  },
+  "ServerData": null
+}

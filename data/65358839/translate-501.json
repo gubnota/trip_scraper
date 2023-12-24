@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "UNfXzU8jHik0/yr0eA7ieAdd+1a082jPrNg20+uutsEHR6WKZjgqKg==_review_749879337",
+        "content": "The environment is clean and tidy and the transportation is convenient. I will choose here next time."
+      },
+      {
+        "transKey": "KQjXI9g/WO+shc+5MFYS4DthpvkPXfLn8+rM2CvdJgc=_review_750178989",
+        "content": "Thank you for your recognition. We will continue to provide a warm and comfortable stay environment and warm and thoughtful service to our customers. Welcome to come again."
+      }
+    ]
+  },
+  "ServerData": null
+}

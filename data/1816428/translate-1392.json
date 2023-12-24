@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "X+DaILLm/pxR/QjsKBH9uH194EbG+FHm/yrmw+a79UoHR6WKZjgqKg==_review_659131821",
+        "content": "The hotel is very good, very satisfied"
+      },
+      {
+        "transKey": "aKGfnQAboZN7ZEf7Ucc/5eIZunVAOiN2Yeolos0N/JQHR6WKZjgqKg==_review_659449479",
+        "content": "Dear guest, hello! Thank you for staying at Orange Beijing Wukesong Hotel. Our hotel is located on the West Fourth Ring Road, with very convenient transportation. It is very close to the 301 Hospital, subway and bus stations. Your simple and clear recognition is the greatest support for our hotel partners. Friends, I look forward to meeting you next time at Orange Beijing Wukesong Hotel. I wish you all the best! General Manager: Ren Yuanyuan"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "M/75gRPRaiwqdc1SsWddEuV+PUMrKXAQf0xaaRIV8pEHR6WKZjgqKg==_review_488559899",
+        "content": "The service attitude of the hotel is good. There is also a self-service free laundry room and a robot that delivers food. The breakfast is also rich and delicious. It is very close to the newly arrived Beijing Chaoyang Station and can be reached within walking distance. I will stay in this hotel next time"
+      },
+      {
+        "transKey": "FftPi0OUantnI7x6+vRpizLhukhoDnQswPgyKtswCUQHR6WKZjgqKg==_review_500940930",
+        "content": "Dear distinguished guest, hello, thank you for your support and affirmation of our work. Our hotel has a Chinese and Western buffet breakfast from 7 to 10 o'clock, which is very rich and delicious. We also have self-cooked noodles and various Beijing snacks. There are also Free laundry room and parking lot, only 800 meters away from Chaoyang Railway Station, very convenient. The hotel warmly looks forward to your distinguished guests coming again!"
+      }
+    ]
+  },
+  "ServerData": null
+}

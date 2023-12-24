@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "lm9Y+4D76GkUMYQwn9cR8eiVcvNnafE1gMGDl5xB3E0HR6WKZjgqKg==_review_498682753",
+        "content": "The breakfast was very rich. It was an eye-opener to take the children out to experience life. The Orange Hotel recommended by a friend was really satisfying and worth recommending!"
+      },
+      {
+        "transKey": "ZSynYSVEeuY1ZPEl34qbSSumsXhFHsGC2NWJ8w313L8HR6WKZjgqKg==_review_498724516",
+        "content": "Dear guests, hello! Thank you very much for your trust in our hotel and your recognition of the breakfast in the hotel. Only by living well and eating well can you feel at home. I believe that with your support, we will continue to improve the quality of all aspects of the hotel to ensure that you will be happy every time you stay. All hotel staff sincerely look forward to your stay again! wish you a happy life! General Manager: Zhang Xiangyun"
+      }
+    ]
+  },
+  "ServerData": null
+}

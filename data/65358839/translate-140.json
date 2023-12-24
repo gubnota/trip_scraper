@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "fdhfgSHnI4NxxLpW1PvoIgj2rslzSM3iPNr76XawhSYHR6WKZjgqKg==_review_826482721",
+        "content": "The front desk staff are very polite\nDue to special reasons, I cannot check out on time at 12 o'clock.\nAfter communication, the front desk provided me with convenience\nAll in all, the service and attitude are very nice."
+      },
+      {
+        "transKey": "rMYuUsn+YgTvwSoT9BWafYm9l6oOewgnblip0Azvn00HR6WKZjgqKg==_review_826630071",
+        "content": "A word of affirmation and a slight smile are all great affirmations of Xiao Ji's work. Xiao Ji pursues to do better."
+      }
+    ]
+  },
+  "ServerData": null
+}

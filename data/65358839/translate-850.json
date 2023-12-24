@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "vHnBfKB+2AVu108gbl5fzVTi33lFw+f8MlFXXPR+JQAHR6WKZjgqKg==_review_506606802",
+        "content": "The room is not big, but land is at a premium in Beijing. The front desk service is good. The hotel is located around the community, and the overall environment is relatively an jijg"
+      },
+      {
+        "transKey": "G+jhXqh4r7rkx/rWOjYLLhcsguA73wFGMRMcP8jFmpcHR6WKZjgqKg==_review_524724522",
+        "content": "Thank you for your review. The size of Xiaohan's room is a foregone conclusion, but it is small and cozy. Next time you can also choose our superior king room to experience it~"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "QO92MbBpZk9meMsMGOv3opeRw/2ZoIdVKnGBeHmN6BgHR6WKZjgqKg==_review_534145989",
+        "content": "Service number, recommended to stay\n[Express check-in and check-out]\n🚗 Transportation: Convenient\n🧹Hygiene: clean\n🍃Environment: good"
+      },
+      {
+        "transKey": "plpr9rNEq6ktLrQsBzACblgql8dN2QWNmC5CyfWncKY=_review_534417782",
+        "content": "Hello dear, thank you for your affirmation of our work. The hotel is disinfected every day, and every detail of my location has been wiped with alcohol, so you can feel at ease in the room. There is Beijing Chaoyang Railway Station 700 meters away from the hotel. , it is very convenient to travel and is also very close to Chaoyang Joy City. It is your best choice for travel. There is nothing you can’t think of and nothing you can’t find. We look forward to your next visit!"
+      }
+    ]
+  },
+  "ServerData": null
+}

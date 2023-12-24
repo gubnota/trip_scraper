@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "OBGuEVrpRH4wlm/RbuuOrhK1EyAvXtpW6jEgxGfWlcgHR6WKZjgqKg==_review_496962536",
+        "content": "The hotel can self-service, and there are robots that deliver food. The front desk service attitude is very good. I will stay here next time."
+      },
+      {
+        "transKey": "gObzBgTyRfFlxygmJKYWi9TlJU/l63SCUP9itOLaE+cHR6WKZjgqKg==_review_500939580",
+        "content": "We are very happy to see your recognition of our front desk service staff. Your satisfaction is the driving force for us to move forward. We will continue to work hard and look forward to the future!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Pn1g1StFqj6QYIkdGowuQhhab/KQcjpWo3RZLS33doUHR6WKZjgqKg==_review_888830231",
+        "content": "The room was very nice and well-equipped with facilities. The front desk service was very attentive. They printed documents for me and delivered takeaways by courier. It's just that the soundproofing of the room is not very good, and the corridor is a bit noisy in the morning. Maybe the children are traveling during the summer vacation, and the cleaning lady is pushing the car and knocking on the door. Xiao Li at the front desk gave me some fruit, thank you very much!"
+      },
+      {
+        "transKey": "Lf2dPh4SIoNztanOzwOCfnINW9olUHbgdXiBu0YWN5AHR6WKZjgqKg==_review_889067949",
+        "content": "Dear guest: Thank you very much for your affirmation of the store's service. The store is only 450 meters away from Suzhouqiao Subway Station (Line 16) and only takes 10 minutes to walk. There are all kinds of restaurants nearby the store, which is very convenient; it is also a short distance from Renmin University and Beijing The University of Foreign Studies is within a 10-minute drive and the location is very convenient. The store is one of the few stores nearby that has its own parking lot. The store is free for hotel guests and has ample parking spaces."
+      }
+    ]
+  },
+  "ServerData": null
+}

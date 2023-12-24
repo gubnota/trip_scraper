@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "Jyc7qeXatTwEGbtjIhF14WOVGJL6J8nPBAkKy15OgZoHR6WKZjgqKg==_review_547068542",
+        "content": "🧹Hygiene: good\n🍃Environment: good\n🔔Service: good"
+      },
+      {
+        "transKey": "vSguoD7hYsk/GQ8SD32TCRunTZnzJQkAGN/aKMTZrw0HR6WKZjgqKg==_review_548470343",
+        "content": "The hotel's reply: Dear guest, thank you very much for your favorable comments about our hotel. We will continue to work hard to live up to your favorable comments. Thank you again for your affirmation of the hotel. We look forward to visiting again and wish you a pleasant journey!"
+      }
+    ]
+  },
+  "ServerData": null
+}

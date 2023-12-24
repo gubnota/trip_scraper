@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "RcyjKnnWJssEqfzuQL9awVeOOdlpgbIxiB9yFPGIA+cHR6WKZjgqKg==_review_966597967",
+        "content": "Clean and tidy, hotel management is in place, waiters are very responsible, good reviews"
+      },
+      {
+        "transKey": "hqE6W8wW9kiCGZGJiK3omVZiSaECeTwwB4B0oGvJ2akHR6WKZjgqKg==_review_966613153",
+        "content": "Dear guest, thank you very much for taking time out of your busy schedule to share your stay experience. I wish you fortune, I wish you are loved, and I wish you good luck. I love you, little man."
+      }
+    ]
+  },
+  "ServerData": null
+}

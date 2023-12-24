@@ -1,0 +1,474 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 217,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 202,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 201,
+        "type": 1
+      },
+      {
+        "id": 96,
+        "name": "Close to metro",
+        "commentCount": 116,
+        "type": 1
+      },
+      {
+        "id": 5029,
+        "name": "Small room size",
+        "commentCount": 84,
+        "type": 2
+      },
+      {
+        "id": 53,
+        "name": "Many amenities",
+        "commentCount": 83,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 83,
+        "type": 1
+      },
+      {
+        "id": 136,
+        "name": "Great for business trips",
+        "commentCount": 30,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 1831
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 1815
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 16
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 241
+      }
+    ],
+    "totalCount": 1369,
+    "repeatCommentCount": 462,
+    "commentList": [
+      {
+        "id": 973127729,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "en",
+        "translatedContent": "",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "Neat.",
+        "createDate": "2023-11-13 14:24:08",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 0,
+        "travelTypeText": "Other",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好，感謝您的“全優”點評，我們會努力為客人提供更好的入住環境，桔子小夥伴也在努力用最貼心的服務，為我們迎來的每一位家人留下最好的入住體驗，希望您能多多關注小桔，小桔的成長離不開您的支持，真心感謝您的點評，期待再次與您桔後的相遇哦，祝您生活愉快！酒店經理：張明慧",
+            "translateContent": "",
+            "securityKey": "gqQeOrfMvAJ6iK2jrFEgSNGvDNf5/QnibnnaK7NIMkYHR6WKZjgqKg==_review_973348587"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 1,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 981670485,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The front desk service is very considerate and the facilities are complete. It is very close to Haidian Wuluju Subway Station, just a few minutes' walk away. The room is very clean, the robot is very user-friendly, the overall service is good, and parking is convenient.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "前台服務很貼心，設施齊全，離海淀五路居地鐵站很近，走着幾分鐘就到，房間很乾凈，機器人很人性化，總體服務都不錯，停車也方便。",
+        "createDate": "2023-11-25 15:29:56",
+        "imageList": [
+          "/0236c12000cmucaec7A37.jpg",
+          "/0236m12000cmudf5e748A.png",
+          "/0233q12000cmuc99m4869.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！桔子北京五棵松酒店擁有舒適，温馨，清新，自然的入住環境，我們信奉客人為家人，為賓客提供着無微不至的鄰里服務，是一家有温度的酒店。在您入住酒店期間，我們的酒店小夥伴都十分樂意為您提供服務，我們一定秉承着用心服務的理念，用心服務好入住的每一位賓客，感謝您一路以來對我們的陪伴，希望桔子北京五棵松酒店能成為您出行北京入住酒店的首選，也期盼您能多多推薦給身邊的親朋好友一起來感受貼心入微的服務。祝您生活愉快！酒店經理：張明慧",
+            "translateContent": "Dear guests, hello! Orange Beijing Wukesong Hotel has a comfortable, warm, fresh and natural living environment. We believe that guests are family members and provide guests with meticulous neighborhood services. It is a warm hotel. During your stay in the hotel, our hotel partners are very happy to provide services to you. We must adhere to the concept of attentive service and serve every guest who stays at the hotel. Thank you for accompanying us all the way. We hope that Orange Beijing Wukesong Hotel can become your first choice for hotels in Beijing, and we hope that you can recommend it to your relatives and friends to experience the attentive service. wish you a happy life! Hotel Manager: Zhang Minghui",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 23,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 980953683,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Very close to the subway station\nThe service attitude is super good, there are oranges at the front desk, and the takeaway orders will be delivered by robots;\nThe breakfast is very rich, including bread, milk, orange juice, steamed buns, steamed dumplings, steamed noodles, fried rice, and various porridges;\nThe room is fully equipped with automatic curtains, hand sanitizer, and shampoo, all of which are orange-flavored. I like them very much.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "離地鐵站很近\n服務態度超級好，前台還有橘子，點的外賣會有機器人送上來；\n早餐很豐富，麪包，牛奶，橙汁，包子，蒸餃，蒸麪，炒飯，各種粥品都有；\n房間內設施全，自動的窗簾，洗手液，洗髮乳都是橘子味的很喜歡。",
+        "createDate": "2023-11-24 14:27:15",
+        "imageList": [
+          "/0230a12000cmndfgg8123.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Twin Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！感謝您選擇入住桔子北京五棵松酒店，很高興能得到您的全優好評鼓勵，為您提供優質的服務是我們的職責，我們真心是想把擁有的最好的都給到您。酒店提供洗衣房和掛燙機，為您出行提供了極大的方便，早餐品種也很豐富，並且推出現烤牛角包、蛋撻、以及純凈水與東北五常大米熬製而成的米粥可供應您品嚐，一定記得要常來光顧哦，我們也會一如既往，珍惜每一次相遇，力求給您帶來不一樣的感動和驚喜、祝您生活愉快！經理：張明慧",
+            "translateContent": "Dear guests, hello! Thank you for choosing to stay at Orange Beijing Wukesong Hotel. We are very happy to receive your excellent praise and encouragement. It is our responsibility to provide you with high-quality services. We sincerely want to give you the best we have. The hotel provides a laundry room and a garment steamer, which provides great convenience for your travels. The breakfast variety is also rich, and freshly baked croissants, egg tarts, and rice porridge made with pure water and Northeast Wuchang rice are available. If you taste it, be sure to remember to come and visit often. We will, as always, cherish every encounter and strive to bring you different touches and surprises. I wish you a happy life! Manager: Zhang Minghui",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 968676457,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "I brought my children to Beijing to see the ginkgo leaves and booked this hotel in advance. Because we were in a hurry and forgot to bring our ID cards, the lady at the front desk specially accompanied us to the Public Security Bureau to issue certificates and check in. We had children with us and they gave us a lot of extra care, thank you very much. ❤️",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "帶孩子來北京看銀杏葉，提前預訂了這家酒店。因為路上匆忙忘記帶身份證了，前台小姐姐特別陪我們去公安局開證明辦入住。我們帶着孩子 也額外給了我們很多關照，太感謝了。❤️",
+        "createDate": "2023-11-07 12:57:26",
+        "imageList": [
+          "/0234q12000cj1zpas5957.jpg",
+          "/0233u12000cj21kr20F8E.jpg",
+          "/0231712000cj1zpb0BECB.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！感謝您在百忙之中給我們分享您的入住體驗，您在酒店度過的時光我們感到非常榮幸，我們的服務、品質、細節、能夠得到您的肯定，也讓我們感到心裏暖暖的，讓每位客人感到賓至如歸是我們堅持不懈的追求，我們將繼續努力，希望給您帶來更温馨舒適的住宿環境，期待着您再次光臨！經理：張明慧",
+            "translateContent": "Dear guests, hello! Thank you for sharing your stay experience with us despite your busy schedule. We are very honored that you spent time in the hotel. Our service, quality and details can be recognized by you, which also makes us feel warm in our hearts. It is our unremitting pursuit to make every guest feel at home. We will continue to work hard and hope to bring you a more warm and comfortable accommodation environment. We look forward to your visit again! Manager: Zhang Minghui",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 1,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 955539049,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "It was my first time to book an Orange Hotel, and it was a very pleasant stay. The room was well soundproofed, very clean, and fully equipped. It is worth mentioning that the shampoo and bath products smelled of orange, which was particularly nice. The service at the front desk is very warm, thoughtful and professional. The free oranges are delicious. Chinese and Western breakfasts are complete. There are free coffee drinks in the lounge area of ​​the lobby downstairs. Takeaways can be delivered by robots. Full five points",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "第一次訂桔子酒店，一次很愉快的入住體驗，房間隔音好，非常非常乾淨，設施齊全，值得提的是，洗髮沐浴用品桔子味兒的，特別好聞。前台的服務非常熱情周到專業，免費的桔子好吃，中西早餐齊全，樓下大廳休息區有免費的咖啡飲料，外賣可以用機器人送上來。全五分",
+        "createDate": "2023-10-20 14:51:19",
+        "imageList": [
+          "/0234812000cf98ukf7509.jpg",
+          "/0235p12000cf956fz1B9D.jpg",
+          "/0236l12000cf9e6mw37A0.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！桔子北京五棵松酒店擁有舒適，温馨，清新，自然的入住環境，我們信奉客人為家人，為賓客提供着無微不至的鄰里服務，是一家有温度的酒店。在您入住酒店期間，我們的酒店小夥伴都十分樂意為您提供服務，我們一定秉承着用心服務的理念，用心服務好入住的每一位賓客，感謝您一路以來對我們的陪伴，希望桔子北京五棵松酒店能成為您出行北京入住酒店的首選，也期盼您能多多推薦給身邊的親朋好友一起來感受貼心入微的服務。祝您生活愉快！酒店經理：趙丹",
+            "translateContent": "Dear guests, hello! Orange Beijing Wukesong Hotel has a comfortable, warm, fresh and natural living environment. We believe that guests are family members and provide guests with meticulous neighborhood services. It is a warm hotel. During your stay in the hotel, our hotel partners are very happy to provide services to you. We must adhere to the concept of attentive service and serve every guest who stays at the hotel. Thank you for accompanying us all the way. We hope that Orange Beijing Wukesong Hotel can become your first choice for hotels in Beijing, and we hope that you can recommend it to your relatives and friends to experience the attentive service. wish you a happy life! Hotel Manager: Zhao Dan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/zc0p170000011d1zy24F3_C_130_130_Q70.jpg",
+          "commentCount": 4,
+          "nickName": "Kaixiital"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 941500921,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel is located in the bustling Wukesong business district and is a unique theme hotel. The design style of the hotel is based on orange. From the lobby to the guest rooms, orange elements are everywhere, giving people a warm and homely feeling.\nAs soon as you step into the hotel lobby, you are greeted by orange-scented hand soap and body soap, which seems to herald a wonderful stay experience. The hotel has a laundry room for guests' convenience. The service robot intelligently assists in serving guests, which is amazing. The rest area has prepared a variety of snacks, candies and snacks, as well as refreshing orange tea to relieve guests from travel fatigue.\nThe guest room is also full of the warm atmosphere of Orange. The room is clean and tidy and has good sound insulation effect. The details are even more commendable, making people feel like they are in a large orange paradise.\nThe hotel's services are also very good, and the staff are warm and thoughtful, providing guests with considerate services. Whether it is the front desk, guest rooms or restaurants, you can feel the hotel's care and respect for its guests.\nHotel prices are also very cost-effective during the National Day period. Compared with similar hotels, Orange Hotel has more affordable prices and better services.\nIn general, Orange Hotel (Beijing Wukesong Branch) is a warm and comfortable hotel, and the details are full of surprises. Whether you are traveling for business or leisure, this is a good choice. I give this hotel a high score of 4.8 stars and highly recommend it to everyone.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "酒店位於繁華的五棵松商圈，是一家特色的主題酒店。酒店的設計風格以桔子為主題，從大堂到客房，桔子的元素無處不在，給人一種温馨如歸的感覺。\n一踏入酒店大堂，迎面而來的是桔子香氣的洗手液和沐浴液，彷彿預示着接下來一段美好的住宿體驗。酒店設有洗衣房，為賓客提供便利。而服務機器人則智能地協助給客人服務，令人讚歎不已。休息區更是準備了豐富的小吃、糖果和點心，以及清爽的桔子茶，為賓客消除旅途疲勞。\n客房內同樣充滿了桔子的温馨氛圍，房間乾淨整潔，隔音效果良好。細節之處更是令人稱讚，讓人彷彿置身於一個大型的桔子樂園。\n酒店的服務也非常到位，員工熱情周到，為賓客提供貼心的服務。無論是前台、客房還是餐廳，都能感受到酒店對賓客的關心與尊重。\n酒店價格在十一期間也很有性價比方面的優勢。相較於同類酒店，桔子酒店的價格更為親民，服務也更出色。\n總的來説，桔子酒店（北京五棵松店）是一家温馨、舒適的酒店，細節之處充滿了驚喜。無論是商務出差還是休閑旅遊，這裏都是一個不錯的選擇。我給這家酒店打出4.8星的高分，強烈推薦給各位。",
+        "createDate": "2023-10-04 09:42:55",
+        "imageList": [
+          "/0233z12000cbn7s9lE121.jpg",
+          "/0234v12000cbn7s9n56FC.jpg",
+          "/0231o12000cbn9lx43548.jpg"
+        ],
+        "rating": 4.7,
+        "commentLevel": "Amazing",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！感謝您在百忙之中給我們分享您的入住體驗，您在酒店度過的時光我們感到非常榮幸，沒能得到您的滿五星好評，小桔十分難過！但我們的服務、品質、細節、能夠得到您的肯定，也讓我們感到心裏暖暖的，讓每位客人感到賓至如歸是我們堅持不懈的追求，我們將繼續努力，希望給您帶來更温馨舒適的住宿環境，期待着您再次光臨！經理：趙丹",
+            "translateContent": "Dear guests, hello! Thank you for sharing your stay experience with us despite your busy schedule. We are very honored that you spent time in the hotel. Xiaoju is very sad that we did not receive your full five-star praise! However, our service, quality and details can be recognized by you and make us feel warm in our hearts. Making every guest feel at home is our unremitting pursuit. We will continue to work hard and hope to bring you more warmth and comfort. We look forward to your visit again! Manager: Zhao Dan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/Z80i0v000000jjy9b405A_C_130_130_Q70.jpg",
+          "commentCount": 6,
+          "nickName": "Yuyangbujian"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 928271635,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "It's a very good accommodation experience. You can feel the hotel's utmost sincerity to its guests. Although the room is not big, it is clean and tidy, and all the items are available. Considering that the guests may not have enough drinking water, they put two extra bottles and gave them as gifts. The biggest feeling about the drinks is that they are very clean. This is the reason why I always choose Orange. The location is close to the subway and the transportation is very convenient. The accommodation is quiet and comfortable. Highly recommended👍 Also, the pictures only represent a good mood, you know",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-09-01 00:00:00",
+        "content": "很不錯的住宿體驗，可以感受到酒店給予客人最大的誠意，房間雖然不大，但乾淨整潔，使用的物品一應俱全，貼心滴考慮到客人飲用水可能不夠，而多放兩瓶並贈送了飲料，最大的感受是很乾凈，這點是我一直選擇桔子的原因，位置離地鐵近，交通也很方便，住宿安靜，舒適，非常推薦👍另、圖片僅代表美好的心情，你懂的",
+        "createDate": "2023-09-16 21:42:47",
+        "imageList": [
+          "/0234212000c5sx80wB90C.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好！感謝您下榻桔子北京五棵松酒店並於我們分享您的入住體驗，本酒店位於西四環輔路附近，地鐵6號線五路居站，交通便利。很高興在點評中看到您對我們衞生的肯定認可。所有房間在客人入住之前，我們都會進行查房、打掃客房並更換床單，保證所有客用品“一客一換',請放心入住。我們會再接再厲，繼續做好各個方面，相信您在下次入住時會得到更加好的入住體驗，酒店全體員工期待您的每一次次光臨，祝您生活愉快！經理：紀洪嬌",
+            "translateContent": "Hello dear guests! Thank you for staying at Orange Beijing Wukesong Hotel and sharing your stay experience with us. Our hotel is located near the West Fourth Ring Auxiliary Road and is at Wuluju Station of Metro Line 6, with convenient transportation. It's great to see your positive recognition of our hygiene in your review. Before guests check in, we will conduct ward rounds, clean the rooms and change the sheets to ensure that all guest supplies are changed \"one for each guest\". Please feel free to check in. We will continue to work hard and continue to do a good job in all aspects. I believe that you will stay with us next time You will get a better stay experience. All the hotel staff look forward to your visit every time and wish you a happy life! Manager: Ji Hongjiao",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 6,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 895879111,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "I am from Xinjiang. When I entered the hotel, the lobby was very comfortable. There is also a rest area in the lobby with various snacks, juices, etc. There is a copy machine in the rest area. Those who need to copy materials for work can make copies for free. The staff at the front desk are very good and enthusiastic. The takeaways ordered by the guests are delivered to the room by robot! The room is very clean and comfortable. The sound insulation effect of the windows is very good. The sound insulation effect of the house is very good. I am very satisfied with choosing Orange Hotel. When I checked out, there was a very pretty and cute little girl who gave me a bottle of water. Because I was in a hurry to check out, I didn't have time to take pictures of the house and post them here! Overall, the Orange Hotel is very good in all aspects. Next time I come to Beijing, I will choose the Orange Hotel! Say thank you to them!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-08-01 00:00:00",
+        "content": "我是來自於新疆，一進來賓館，大廳特別舒適，大廳還有休息區，擺在各種小零食，果汁等，休息區有複印機，因工作需要複印材料的可以免費複印。前台的工作人員服務特別好，特別熱情，入住人員訂的外賣快遞等通過機器人送到房間！房間特別乾淨，舒適，窗户隔音效果特別好，房子的隔音效果業特別好，我選桔子酒店特別滿意。退房的時候有個小美女長得特別漂亮，特別可愛，專門給我那一瓶水。因為我着急退房沒來得及房子拍照這裏曬！總得來説桔子酒店各方面都很好，下次我來北京還是選桔子酒店！給他們説一聲謝謝！",
+        "createDate": "2023-08-12 15:25:59",
+        "imageList": [
+          "/0235v12000bw5wgw12DD8.jpg",
+          "/0231i12000bw64mzhE683.jpg",
+          "/0230p12000bw61o7j1D33.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客，您好！桔子一如既往的按照清潔標準交給每一位客人朋友整潔乾淨舒適温馨的居住環境 用管家般細緻用心的服務給到每一位入住的客户我們獨有的桔子洗護沐系列產品，也是希望可以給每一位顧客獨家的記憶，每一次的努力都是為了與您更好的相遇，期待與您的再次光臨！酒店經理：趙丹",
+            "translateContent": "Dear guests, hello! Orange will, as always, provide every guest with a clean, comfortable and warm living environment in accordance with cleanliness standards, and provide every guest with meticulous and attentive service like a housekeeper. We also hope that our unique Orange series of shampoo and conditioner products can provide Every customer’s unique memory, every effort is made to meet you better, and we look forward to seeing you again! Hotel Manager: Zhao Dan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 886654285,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "I always stay at Orange Hotel when I come to Beijing. The brand is trustworthy and the service is very good. Parking is free. I had a happy trip in Beijing, thank you! It's hygienic and clean. I will come again with my children.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-08-01 00:00:00",
+        "content": "來北京一直都住橘子酒店，品牌值得信賴，服務非常的到位。停車免費在北京度過了一個快樂的旅行，感謝！衞生乾淨，還會帶着孩子再來的。",
+        "createDate": "2023-08-06 14:17:22",
+        "imageList": [
+          "/0236m12000bucavspD027.jpg",
+          "/0234v12000bucbfmd9333.jpg",
+          "/0234v12000buc7onl0E1D.jpg",
+          "/0233x12000buc712x2601.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Double Room",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客：您好！感謝您下榻桔子北京五棵松酒店並分享您的入住感受，服務、衞生能得到您的滿意，小桔十分開心！您的讚賞給予酒店很大的鼓舞，也是我們進步的動力！前台領取電子停車券即可免費停車。祝您生活愉快！經理：趙丹",
+            "translateContent": "Dear guests: Hello! Thank you for staying at Orange Beijing Wukesong Hotel and sharing your stay experience. I am very happy that you are satisfied with the service and hygiene! Your appreciation gives the hotel a great encouragement and is also the driving force for our progress! You can park for free by picking up an electronic parking ticket at the front desk. wish you a happy life! Manager: Zhao Dan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 2,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 977322239,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Overall, the room is very good. The curtains in the room are automatic and quiet. The toiletries are orange-flavored and fresh in style. The breakfast is cost-effective and very good. The TV is Xiaomi smart. Especially the mattress and pillows are latex and very comfortable. There are two types of pillows: thick and thin. , you can sleep well even while traveling. It was cold when I checked out, and the front desk also gave me a bottle of warm water, as well as orange juice to replenish vitamin C at any time. The service was very warm. I will choose Orange Hotel next time.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-11-01 00:00:00",
+        "content": "整體很好，房間窗簾自動的，安靜，洗漱用品橘子味的，風格清新，早餐性價比高也很不錯，電視是小米智能；特別是床墊和枕頭 都是乳膠的 很舒適，枕頭有厚薄兩款，身在旅途也能睡眠很好。退房時天氣冷  ，前台還送了一瓶温水，還有橘子自主，隨時補充維C，服務很温馨，下次還會選擇桔子酒店。",
+        "createDate": "2023-11-19 15:04:01",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Deluxe Queen Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "有星星的夜晚，才不會黑暗，有天空的海，才一片蔚藍，有夢想的生命，充滿陽光，有了您的日子，我們的工作才更有意義。感謝客官您選擇入住桔子北京五棵松酒店並給予我們滿分認可，您的肯定是對我們工作最大的鼓勵，我們將再接再厲，為您提供更加舒適便捷的入住體驗，酒店全體員工期待與您的每一次相遇，祝您工作順心！經理：趙丹",
+            "translateContent": "The night with stars will not be dark, the sea with sky will be blue, the life with dreams will be full of sunshine, and with your days, our work will be more meaningful. Thank you, guest, for choosing to stay at Orange Beijing Wukesong Hotel and giving us full recognition. Your affirmation is the greatest encouragement for our work. We will continue to work hard to provide you with a more comfortable and convenient stay experience. All hotel staff look forward to working with you. Every time we meet, I wish you success in your work! Manager: Zhao Dan",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://dimg04.c-ctrip.com/images/0AS72120009wz4vqr2887_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703420291800+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a2ac138-473172-155795"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "f1645f32-da0f-49b2-bdf6-f5d3a8389944"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3c7c3f-473172-471875"
+      }
+    ]
+  }
+}

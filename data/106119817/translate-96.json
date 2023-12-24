@@ -1,0 +1,18 @@
+{
+  "Result": true,
+  "ErrorMessage": null,
+  "ErrorCode": 0,
+  "Response": {
+    "transArray": [
+      {
+        "transKey": "HSlfJPG504A/Z4JTI++1BH6jVijvVTVugNDGAY7aLuQHR6WKZjgqKg==_review_956431543",
+        "content": "The room is very cozy, there are sweet oranges in the mouth, the bed is very clean, the sound insulation effect is good, I have a good sleep, and I will be full of energy tomorrow!"
+      },
+      {
+        "transKey": "0z/cqDVu/xHfHzWMvHrSpEP8FZtAYjMq2OHdU+5Zi3kHR6WKZjgqKg==_review_956652295",
+        "content": "Your love makes us full of joy, and we hope that every day's efforts will make life more exciting every minute and every second!"
+      }
+    ]
+  },
+  "ServerData": null
+}

@@ -1,0 +1,469 @@
+{
+  "data": {
+    "commentTagV2List": [
+      {
+        "id": 1,
+        "name": "Classy environment",
+        "commentCount": 94,
+        "type": 1
+      },
+      {
+        "id": 84,
+        "name": "Friendly front desk staff",
+        "commentCount": 71,
+        "type": 1
+      },
+      {
+        "id": 77,
+        "name": "Easy to get around",
+        "commentCount": 41,
+        "type": 1
+      },
+      {
+        "id": 70,
+        "name": "Delicious breakfast",
+        "commentCount": 32,
+        "type": 1
+      },
+      {
+        "id": 6,
+        "name": "Quiet & comfortable",
+        "commentCount": 30,
+        "type": 1
+      },
+      {
+        "id": 80,
+        "name": "Convenient parking",
+        "commentCount": 22,
+        "type": 1
+      },
+      {
+        "id": 136,
+        "name": "Great for business trips",
+        "commentCount": 15,
+        "type": 1
+      },
+      {
+        "id": 96,
+        "name": "Close to metro",
+        "commentCount": 10,
+        "type": 1
+      }
+    ],
+    "commonStatisticList": [
+      {
+        "id": 1,
+        "name": "All Reviews",
+        "commentCount": 680
+      },
+      {
+        "id": 2,
+        "name": "Positive reviews",
+        "commentCount": 669
+      },
+      {
+        "id": 3,
+        "name": "Negative reviews",
+        "commentCount": 11
+      },
+      {
+        "id": 6,
+        "name": "Reviews with photos/video",
+        "commentCount": 135
+      }
+    ],
+    "totalCount": 539,
+    "repeatCommentCount": 141,
+    "commentList": [
+      {
+        "id": 885905093,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Stayed here for 7 days. It's very quiet and clean. The cleaning ladies always smile and say hello to us every time we meet. It's a very comfortable interpersonal relationship! Breakfast is also very good, clean, hygienic and delicious. The environment is also very good. I would like to praise a few friends at the front desk, a taller and fatter boy, a shorter boy with glasses, and a girl about the same height as her, Xiao Yuan Tongxiao! On the first day we came here, we asked a lot of small questions because of room changes and breakfast issues. These guys were very patient, very detailed, and explained over and over again. Later, because of invoice issues and luggage storage, we had to upgrade the room type. I have communicated with them several times about the problem, and every time they are warm, polite, thoughtful, meticulous and courteous, which makes several of our colleagues admire us! Professional quality and professional skills go hand in hand! I heard that they are all born around 2000, and I admire them very much! Learn from you! I hope the store manager will praise them, they are really good! There is also a girl who has few interactions but is also very polite and serious! In short, I am not asking for help. Because of these friends, I will definitely come here next time I go on a business trip! Come on! You guys have a bright future!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "在這裏住了7天，很安靜，衞生也可以，打掃的幾個大姐每次見面也很我們微笑問好，挺舒服的人際關係！早餐也挺好，乾淨衞生好吃。環境也挺好，主要表揚下前台的幾個小夥伴，一個高胖一點的男生，一個矮一點戴眼鏡的男生，還有一個和她差不多身高的女孩子，小袁童鞋！來這裏第一天，因為換房和早餐的問題，我們問了很多小問題，這幾個小夥伴很耐心，很細緻的，一遍遍的解釋，後來因為發票的問題和寄存行李還有房型升級的問題，也和他們溝通過幾次，每次都是熱情客氣周到細緻禮貌，這讓我們幾個同事都很佩服！職業素養和職業技能槓槓滴！聽説他們都是零零後左右，很佩服！向你們學習！希望店長表揚一下他們，真的很不錯！還有一個女生，打交道少，但是也很禮貌認真！總之，不是託，因為這幾個小夥伴的原因，下次出差一定來這裏哦！加油吧！小夥伴們未來可期！",
+        "createDate": "2023-08-05 18:50:21",
+        "imageList": [
+          "/0234912000bu4gpe66D96.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，十分感謝您的點評，您的滿意是小季前進的動力，小季會一如既往的以賓客需求為中心，提供真誠的服務，以展示全季酒店的高品質服務。",
+            "translateContent": "Dear guest, thank you very much for your review. Your satisfaction is the driving force for Xiaoji's progress. Xiaoji will continue to focus on guest needs and provide sincere services to demonstrate the high-quality services of Ji Hotel.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS25120009wz63zdC6FA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 879624393,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The environment is good, the aunt cleans it every day, the front desk service is very good, and there is a small robot to deliver food. The hotel is also in a good location, very close to the subway entrance, and it is very convenient to travel.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "環境衞生不錯，阿姨每天都會打掃，前台服務很好，還有小機器人送餐，酒店位置也很好，離地鐵口很近，出行非常方便",
+        "createDate": "2023-07-30 13:00:33",
+        "imageList": [
+          "/0236t12000bs9chydD3A8.png",
+          "/0235312000bs9chz6F482.png",
+          "/0233212000bs9cm172820.png"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Guestroom (2 beds)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "感謝小主在百忙之中給我們好評，我們會繼續努力，提供更優質的服務，期待您的下次入住",
+            "translateContent": "Thank you for your review despite your busy schedule. We will continue to work hard to provide better service and look forward to your next stay.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.png",
+          "commentCount": 2,
+          "nickName": "Anonymous User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 872289987,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Very cozy room! I really like this layout. The oversized TV is facing the side of the bed and there is a large window that can be opened. When I wake up during the day, I really feel the warm sunshine. What is particularly convenient is that this hotel can help collect express delivery 🥹 I was very touched, I bought a lot 😂 I was not there when the express delivery came, but the hotel staff helped me deliver it to my room!",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "很温馨的房間！這個佈局我真的很愛，超大的電視正對床側面就是可以打開的大窗户，白天醒來真的就是温暖的陽光。特別方便的一點是這個酒店可以幫忙收快遞🥹大感動，看我買了好多😂快遞來的時候我不在，酒店員工幫我送到房間了啦！",
+        "createDate": "2023-07-22 15:51:28",
+        "imageList": [
+          "/0236l12000bpygs4c1674.jpg",
+          "/0230712000bpy7ozt5756.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "感謝您的點評，小季會更加努力的，期待您再次光臨哦！",
+            "translateContent": "Thank you for your review, Xiao Ji will work harder and look forward to your visit again!",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 861617531,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel is very hygienic and the environment is very good. The aunt cleans it every day. I have stayed there many times. The attitude of the front desk is also very good. Any problems can be solved in time. The location of the hotel is also very good. It is very close to the Li subway entrance. There is also a small robot to deliver food.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "酒店很衞生 環境很好 阿姨每天都會打掃衞生 住過很多次了 前台的態度也很好 有問題都能及時解決 酒店位置也很好 禮地鐵口很近 還有小機器人送餐",
+        "createDate": "2023-07-10 15:00:34",
+        "imageList": [
+          "/0233v12000bmdk0hw7C76.jpg",
+          "/0231f12000bmdndai9D00.jpg",
+          "/0234712000bmdmvd4B90E.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 40,
+        "travelTypeText": "Friends",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "Dear guest: Thank you very much for your affirmation of the store's service. The store is only 450 meters away from Suzhouqiao Subway Station (Line 16) and only takes 10 minutes to walk. There are all kinds of restaurants near the store, which is very convenient; it is close to Renmin University and Beijing The University of Foreign Studies is within a 10-minute drive and the location is very convenient. The store is one of the few stores nearby that has its own parking lot. The store is free for hotel guests and has ample parking spaces.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 864020317,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel is a 10-minute walk from Suzhouqiao Subway Station. The facade is a bit simple and easy to miss on the road, but the service has many advantages.\n1. Xiao Li, the service guy at the front desk, is enthusiastic and thoughtful, helping to verify orders, taking the initiative to make room cards (if he forgets to bring his room card, he makes one, and he takes the trouble to make several), and he also enthusiastically helps to microwave the guests’ meals in the restaurant. , give him 5 points of praise\n2. The service of the small robot delivering to the room is very good\n3. There is free freshly ground coffee in the hotel lobby, which is very welcoming.\n4. The hotel provides 8 bottles of water every day, which is quite user-friendly in Beijing during the summer.\n5. Recommend the superior twin room, the two 1.5m large beds are very comfortable\n6. The breakfast is cleaner than expected, and the breakfast noodles are especially recommended. It would be better if there was bread and butter\n7. The tea set and tea bags provided in the room are delicious. After a long day of playing, it is very relaxing to drink for a while.\n\nWhen you upgrade to the Huazhu Club, you will get a free breakfast. We found out later that Xiao Li at the front desk enthusiastically reissued the application and refunded the extra breakfast fees paid several times before. Thank you!\n\nAlso in need of improvement are:\n1. The public corridor in the room is relatively old, the carpet is a bit dark, and the ventilation generally has a smell.\n2. There was a lot of dust on the clothes hangers when I checked in.\n3. The handle of the sink switch will fall off\n4. The hair dryer has poor contact and blows air intermittently.\n5. The smart toilet is too sensitive and flushes automatically before it is finished (it is unhygienic to sit on it while flushing)",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-07-01 00:00:00",
+        "content": "酒店距離蘇州橋地鐵站步行10分鐘。門面有些簡陋，在路上很容易錯過，但服務上優點挺多\n1. 前台的服務小哥哥小李服務熱心周到，幫忙核實訂單，主動製作房卡（忘帶房卡就做一張，做了好幾張不厭其煩），還熱心幫忙到餐廳微波爐加熱客人的餐食，給他5分好評\n2. 小機器人送屋到房間的服務很不錯\n3. 酒店大堂就有免費的現磨咖啡，很熱情\n4. 酒店每天提供8瓶水，在大夏天的北京，相當人性化\n5. 推薦高級雙床房，2張1.5m大床很舒服\n6. 早餐比想象中的乾淨，特別推薦早餐的麪。要是有麪包和黃油更好了\n7. 房間配了茶具茶包好喝，玩累一整天回來喝上一會挺解壓的\n\n辦理華住會升級會員還送一份早餐。我們後面才知道，前台小李熱心補辦還退了前面幾次額外付款的早餐費，謝謝！\n\n需要提升的也有：\n1. 房間公共走道比較舊，地毯有些暗，通風一般有些味道\n2. 入住時衣架上好多灰\n3. 洗手池開關把手會掉下來\n4. 吹風機接觸不好，斷斷續續送風\n5. 智能馬桶感應過於靈敏，還沒結束就自動沖沖（沖起來時坐在上面不衞生）",
+        "createDate": "2023-07-13 11:19:49",
+        "imageList": [
+          "/0231b12000bn819ap11AC.jpg",
+          "/0234n12000bn7p13h6D5B.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Superior Room (2 beds)",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好，感謝您的點評，您的滿意是小季前進的動力，小季會一如既往的以賓客需求為中心，提供真誠的服務，以展示全季酒店的高品質服務。",
+            "translateContent": "Dear guest, thank you for your review. Your satisfaction is the driving force for Xiaoji's progress. Xiaoji will continue to focus on guest needs and provide sincere services to demonstrate the high-quality services of Ji Hotel.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z80q0v000000jmf90B344_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "cloudish"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 831636871,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The room facilities are very good, it feels clean and warm; the bathroom is separate, the space is sufficient, very convenient, and it has a smart toilet. The only drawback is that the room is tight. I only booked a windowless room. The room is not big and has no windows. There is no natural light. It is quiet and suitable for sleeping😴\nBut overall it's pretty good and the kids like it very much.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-06-01 00:00:00",
+        "content": "房間設施挺好的，感覺乾淨温馨；衞浴是分開的，空間也足夠，很方便，而且是智能馬桶。唯一美中不足的是房間緊張，衹訂到了無窗房，房間不大且無窗，沒有自然光，安靜，適合睡覺😴\n但總體還是挺不錯的，孩子很喜歡。",
+        "createDate": "2023-06-16 15:27:53",
+        "imageList": [
+          "/0236112000bffr2zzD371.jpg",
+          "/0235d12000bfftjfp8A11.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 30,
+        "travelTypeText": "Family",
+        "feedbackList": [
+          {
+            "content": "小季願為您傾盡所有，衹為博您一笑。",
+            "translateContent": "Xiao Ji is willing to devote everything to you, just to make you smile.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8050v000000jnn3hF304_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 991712741,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The hotel is near Suzhou Bridge. It is very convenient to come to Wanliu for business and check-in. There are great Yunnan dishes and Japanese barbecue nearby, and parking is available in the backyard. The cleanliness of the Ji Hotel is always reassuring and trustworthy. The rooms also have windows. Although I live on the first floor, they are very quiet and I have a good rest. The reception at the hotel's front desk was warm and attentive, and the breakfast was upgraded. It was a great experience.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-12-01 00:00:00",
+        "content": "酒店在蘇州橋附近，來萬柳辦事入住很方便，旁邊有很棒的雲南菜和日式烤肉，後院還可以停車。全季酒店的衞生總是讓人放心的，值得信賴，房間也有窗户，雖然住的一樓但是很安靜，休息的不錯。酒店前台接待熱情細緻，給升級了早餐，體驗很好。",
+        "createDate": "2023-12-09 14:32:43",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Memory Foam Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足。",
+            "translateContent": "Dear guest: Thank you very much for your affirmation of the store's service. The store is only 450 meters away from Suzhouqiao Subway Station (Line 16) and only takes 10 minutes to walk. There are all kinds of restaurants nearby the store, which is very convenient; it is also a short distance from Renmin University and Beijing The University of Foreign Studies is within a 10-minute drive and the location is very convenient. The store is one of the few stores nearby that has its own parking lot. The store is free for hotel guests and has ample parking spaces.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/0AS27120009wz6aovB7AA_C_130_130_Q70.jpg",
+          "commentCount": 1,
+          "nickName": "Guest User"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 807842507,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 1,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "Simple and clean, check-in was fast and smooth. The only thing I want to complain about is the idea of ​​handing out toothbrushes at the front desk. I support environmental protection and energy saving, but the process of getting a toothbrush at the front desk feels weird. Nothing wrong with anything else, very good.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-05-01 00:00:00",
+        "content": "簡單乾淨，入住快捷順利，唯一想吐槽的就是前台發牙刷這個思維。環保節能我雙手贊成，但是入住前台要領牙刷這個環節感覺怪怪的。其他沒什麼毛病，很好。",
+        "createDate": "2023-05-31 09:23:34",
+        "imageList": [
+          "/0231s12000bbry7j55443.jpg",
+          "/0232j12000bbs6bxd1261.jpg",
+          "/0233c12000bbs67cp1C47.jpg",
+          "/0235712000bbryrb6646E.jpg"
+        ],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room A",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "感謝小主在百忙之中給我們好評，我們會繼續努力，提供更優質的服務，期待您的下次入住",
+            "translateContent": "Thank you for your review despite your busy schedule. We will continue to work hard to provide better service and look forward to your next stay.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z80c0f0000007dkgxE465_C_130_130_Q70.jpg",
+          "commentCount": 5,
+          "nickName": "Leiz119"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 960072449,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "The location of the hotel is very good. The environment is quiet. It is very close to the subway station and surrounding schools. There are also many good restaurants nearby. The hotel's health and service are also great. The staff are very good and the price is very cost-effective. I will come back next time. Choose this one.",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-10-01 00:00:00",
+        "content": "酒店位置非常好，環境安靜，距離地鐵站和周邊學校距離很近，附近也有很多好的飯店，酒店的衞生和服務也很棒，工作人員態度很好，價格非常具有性價比，下次再來還會選擇這家。",
+        "createDate": "2023-10-26 14:28:21",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Memory Foam Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "尊敬的賓客您好：非常感謝您對門店的服務肯定，門店距離蘇州橋地鐵站（16號線）衹有450米，步行衹需要10分鐘；門店附近各色餐飲聚齊，非常方便；距離人民大學、北京外國語大學車程10分鐘以內，位置非常便利。門店是附近少有的具備自有停車場的門店，門店對住店客人免費，且車位充足",
+            "translateContent": "",
+            "securityKey": "Lf2dPh4SIoNztanOzwOCfnINW9olUHbgdXiBu0YWN5AHR6WKZjgqKg==_review_960487471"
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z80v0z000000mwws9F5EE_C_130_130_Q70.jpg",
+          "commentCount": 3,
+          "nickName": "Hxxxx369501"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      },
+      {
+        "id": 795246811,
+        "hotelId": 0,
+        "videoList": [],
+        "usefulCount": 0,
+        "sourceLogoUrl": "",
+        "language": "zh",
+        "translatedContent": "It is very comfortable to live here in Beijing. The room is clean and the equipment is very new. The brothers and sisters at the front desk are very enthusiastic, the service is in place, and the transportation is relatively convenient. Next time I come to Beijing, I will still choose here",
+        "securityKey": "",
+        "canMarkUseful": true,
+        "checkInDate": "2023-05-01 00:00:00",
+        "content": "來北京住這兒很舒適，房間乾淨，設備很新，前台的小哥哥小姐姐都很熱情，服務到位，交通也較為便利。下次再來北京，依然會選擇這裏",
+        "createDate": "2023-05-13 09:05:37",
+        "imageList": [],
+        "rating": 5,
+        "commentLevel": "Outstanding",
+        "roomTypeName": "Double Room",
+        "travelType": 10,
+        "travelTypeText": "Business travelers",
+        "feedbackList": [
+          {
+            "content": "感謝小主的認可，全季會繼續用温馨舒適的入住環境，熱情周到的服務回饋顧客，歡迎再來。",
+            "translateContent": "Thank you for your recognition. All Seasons will continue to give back to customers with a warm and comfortable living environment and warm and thoughtful service. Welcome to come again.",
+            "securityKey": ""
+          }
+        ],
+        "userInfo": {
+          "headPictureUrl": "http://ak-d.tripcdn.com/images/Z8010v000000jy23y696A_C_130_130_Q70.jpg",
+          "commentCount": 2,
+          "nickName": "JinkaierKyle"
+        },
+        "beforeDecorationText": "",
+        "translateFromRealReview": ""
+      }
+    ],
+    "imageDomain": "ak-d.tripcdn.com",
+    "grayHitVersion": "TARGET"
+  },
+  "ResponseStatus": {
+    "Timestamp": "/Date(1703420358572+800)/",
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": ""
+      },
+      {
+        "Id": "TraceLogId",
+        "Value": "100044815-0a38914e-473172-162843"
+      },
+      {
+        "Id": "XRequestId",
+        "Value": "49dcef77-9e06-45dc-a40d-cac62d38d932"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3c7d46-473172-501605"
+      }
+    ]
+  }
+}
